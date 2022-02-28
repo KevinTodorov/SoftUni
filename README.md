@@ -1,2 +1,2 @@
 # SoftUni
-Those are my exercises from SoftUni
+These are my exercises from SoftUni
