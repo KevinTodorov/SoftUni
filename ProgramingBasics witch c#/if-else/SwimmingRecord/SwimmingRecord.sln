@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwimmingRecord", "SwimmingRecord.csproj", "{5833BA58-726B-4809-819D-F8632691B6EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5833BA58-726B-4809-819D-F8632691B6EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5833BA58-726B-4809-819D-F8632691B6EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5833BA58-726B-4809-819D-F8632691B6EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5833BA58-726B-4809-819D-F8632691B6EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E3F0ADF-9CEC-433E-9873-770595785336}
+	EndGlobalSection
+EndGlobal
