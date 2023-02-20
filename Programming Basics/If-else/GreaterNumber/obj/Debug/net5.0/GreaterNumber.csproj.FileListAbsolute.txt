@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\GreaterNumber\bin\Debug\net5.0\GreaterNumber.exe
+C:\Users\PC\source\repos\GreaterNumber\bin\Debug\net5.0\GreaterNumber.deps.json
+C:\Users\PC\source\repos\GreaterNumber\bin\Debug\net5.0\GreaterNumber.runtimeconfig.json
+C:\Users\PC\source\repos\GreaterNumber\bin\Debug\net5.0\GreaterNumber.runtimeconfig.dev.json
+C:\Users\PC\source\repos\GreaterNumber\bin\Debug\net5.0\GreaterNumber.dll
+C:\Users\PC\source\repos\GreaterNumber\bin\Debug\net5.0\ref\GreaterNumber.dll
+C:\Users\PC\source\repos\GreaterNumber\bin\Debug\net5.0\GreaterNumber.pdb
+C:\Users\PC\source\repos\GreaterNumber\obj\Debug\net5.0\GreaterNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\GreaterNumber\obj\Debug\net5.0\GreaterNumber.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\GreaterNumber\obj\Debug\net5.0\GreaterNumber.AssemblyInfo.cs
+C:\Users\PC\source\repos\GreaterNumber\obj\Debug\net5.0\GreaterNumber.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\GreaterNumber\obj\Debug\net5.0\GreaterNumber.dll
+C:\Users\PC\source\repos\GreaterNumber\obj\Debug\net5.0\ref\GreaterNumber.dll
+C:\Users\PC\source\repos\GreaterNumber\obj\Debug\net5.0\GreaterNumber.pdb
+C:\Users\PC\source\repos\GreaterNumber\obj\Debug\net5.0\GreaterNumber.genruntimeconfig.cache

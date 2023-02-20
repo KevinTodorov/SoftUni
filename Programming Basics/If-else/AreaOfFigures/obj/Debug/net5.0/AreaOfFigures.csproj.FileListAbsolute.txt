@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\AreaOfFigures\bin\Debug\net5.0\AreaOfFigures.exe
+C:\Users\PC\source\repos\AreaOfFigures\bin\Debug\net5.0\AreaOfFigures.deps.json
+C:\Users\PC\source\repos\AreaOfFigures\bin\Debug\net5.0\AreaOfFigures.runtimeconfig.json
+C:\Users\PC\source\repos\AreaOfFigures\bin\Debug\net5.0\AreaOfFigures.runtimeconfig.dev.json
+C:\Users\PC\source\repos\AreaOfFigures\bin\Debug\net5.0\AreaOfFigures.dll
+C:\Users\PC\source\repos\AreaOfFigures\bin\Debug\net5.0\ref\AreaOfFigures.dll
+C:\Users\PC\source\repos\AreaOfFigures\bin\Debug\net5.0\AreaOfFigures.pdb
+C:\Users\PC\source\repos\AreaOfFigures\obj\Debug\net5.0\AreaOfFigures.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\AreaOfFigures\obj\Debug\net5.0\AreaOfFigures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\AreaOfFigures\obj\Debug\net5.0\AreaOfFigures.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\AreaOfFigures\obj\Debug\net5.0\AreaOfFigures.AssemblyInfo.cs
+C:\Users\PC\source\repos\AreaOfFigures\obj\Debug\net5.0\AreaOfFigures.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\AreaOfFigures\obj\Debug\net5.0\AreaOfFigures.dll
+C:\Users\PC\source\repos\AreaOfFigures\obj\Debug\net5.0\ref\AreaOfFigures.dll
+C:\Users\PC\source\repos\AreaOfFigures\obj\Debug\net5.0\AreaOfFigures.pdb
+C:\Users\PC\source\repos\AreaOfFigures\obj\Debug\net5.0\AreaOfFigures.genruntimeconfig.cache

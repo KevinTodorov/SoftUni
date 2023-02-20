@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\SpeedInfo\bin\Debug\net5.0\SpeedInfo.exe
+C:\Users\PC\source\repos\SpeedInfo\bin\Debug\net5.0\SpeedInfo.deps.json
+C:\Users\PC\source\repos\SpeedInfo\bin\Debug\net5.0\SpeedInfo.runtimeconfig.json
+C:\Users\PC\source\repos\SpeedInfo\bin\Debug\net5.0\SpeedInfo.runtimeconfig.dev.json
+C:\Users\PC\source\repos\SpeedInfo\bin\Debug\net5.0\SpeedInfo.dll
+C:\Users\PC\source\repos\SpeedInfo\bin\Debug\net5.0\ref\SpeedInfo.dll
+C:\Users\PC\source\repos\SpeedInfo\bin\Debug\net5.0\SpeedInfo.pdb
+C:\Users\PC\source\repos\SpeedInfo\obj\Debug\net5.0\SpeedInfo.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\SpeedInfo\obj\Debug\net5.0\SpeedInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\SpeedInfo\obj\Debug\net5.0\SpeedInfo.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\SpeedInfo\obj\Debug\net5.0\SpeedInfo.AssemblyInfo.cs
+C:\Users\PC\source\repos\SpeedInfo\obj\Debug\net5.0\SpeedInfo.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\SpeedInfo\obj\Debug\net5.0\SpeedInfo.dll
+C:\Users\PC\source\repos\SpeedInfo\obj\Debug\net5.0\ref\SpeedInfo.dll
+C:\Users\PC\source\repos\SpeedInfo\obj\Debug\net5.0\SpeedInfo.pdb
+C:\Users\PC\source\repos\SpeedInfo\obj\Debug\net5.0\SpeedInfo.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\EvenOrOdd\bin\Debug\net5.0\EvenOrOdd.exe
+C:\Users\PC\source\repos\EvenOrOdd\bin\Debug\net5.0\EvenOrOdd.deps.json
+C:\Users\PC\source\repos\EvenOrOdd\bin\Debug\net5.0\EvenOrOdd.runtimeconfig.json
+C:\Users\PC\source\repos\EvenOrOdd\bin\Debug\net5.0\EvenOrOdd.runtimeconfig.dev.json
+C:\Users\PC\source\repos\EvenOrOdd\bin\Debug\net5.0\EvenOrOdd.dll
+C:\Users\PC\source\repos\EvenOrOdd\bin\Debug\net5.0\ref\EvenOrOdd.dll
+C:\Users\PC\source\repos\EvenOrOdd\bin\Debug\net5.0\EvenOrOdd.pdb
+C:\Users\PC\source\repos\EvenOrOdd\obj\Debug\net5.0\EvenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\EvenOrOdd\obj\Debug\net5.0\EvenOrOdd.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\EvenOrOdd\obj\Debug\net5.0\EvenOrOdd.AssemblyInfo.cs
+C:\Users\PC\source\repos\EvenOrOdd\obj\Debug\net5.0\EvenOrOdd.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\EvenOrOdd\obj\Debug\net5.0\EvenOrOdd.dll
+C:\Users\PC\source\repos\EvenOrOdd\obj\Debug\net5.0\ref\EvenOrOdd.dll
+C:\Users\PC\source\repos\EvenOrOdd\obj\Debug\net5.0\EvenOrOdd.pdb
+C:\Users\PC\source\repos\EvenOrOdd\obj\Debug\net5.0\EvenOrOdd.genruntimeconfig.cache
