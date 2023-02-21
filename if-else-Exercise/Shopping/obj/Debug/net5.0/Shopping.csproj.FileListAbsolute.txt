@@ -1,0 +1,16 @@
+D:\programiranee\if-else\Shopping\bin\Debug\net5.0\Shopping.exe
+D:\programiranee\if-else\Shopping\bin\Debug\net5.0\Shopping.deps.json
+D:\programiranee\if-else\Shopping\bin\Debug\net5.0\Shopping.runtimeconfig.json
+D:\programiranee\if-else\Shopping\bin\Debug\net5.0\Shopping.runtimeconfig.dev.json
+D:\programiranee\if-else\Shopping\bin\Debug\net5.0\Shopping.dll
+D:\programiranee\if-else\Shopping\bin\Debug\net5.0\ref\Shopping.dll
+D:\programiranee\if-else\Shopping\bin\Debug\net5.0\Shopping.pdb
+D:\programiranee\if-else\Shopping\obj\Debug\net5.0\Shopping.csproj.AssemblyReference.cache
+D:\programiranee\if-else\Shopping\obj\Debug\net5.0\Shopping.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\if-else\Shopping\obj\Debug\net5.0\Shopping.AssemblyInfoInputs.cache
+D:\programiranee\if-else\Shopping\obj\Debug\net5.0\Shopping.AssemblyInfo.cs
+D:\programiranee\if-else\Shopping\obj\Debug\net5.0\Shopping.csproj.CoreCompileInputs.cache
+D:\programiranee\if-else\Shopping\obj\Debug\net5.0\Shopping.dll
+D:\programiranee\if-else\Shopping\obj\Debug\net5.0\ref\Shopping.dll
+D:\programiranee\if-else\Shopping\obj\Debug\net5.0\Shopping.pdb
+D:\programiranee\if-else\Shopping\obj\Debug\net5.0\Shopping.genruntimeconfig.cache

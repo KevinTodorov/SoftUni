@@ -1,0 +1,15 @@
+D:\programiranee\if-else\LunchBreak\bin\Debug\net5.0\LunchBreak.exe
+D:\programiranee\if-else\LunchBreak\bin\Debug\net5.0\LunchBreak.deps.json
+D:\programiranee\if-else\LunchBreak\bin\Debug\net5.0\LunchBreak.runtimeconfig.json
+D:\programiranee\if-else\LunchBreak\bin\Debug\net5.0\LunchBreak.runtimeconfig.dev.json
+D:\programiranee\if-else\LunchBreak\bin\Debug\net5.0\LunchBreak.dll
+D:\programiranee\if-else\LunchBreak\bin\Debug\net5.0\ref\LunchBreak.dll
+D:\programiranee\if-else\LunchBreak\bin\Debug\net5.0\LunchBreak.pdb
+D:\programiranee\if-else\LunchBreak\obj\Debug\net5.0\LunchBreak.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\if-else\LunchBreak\obj\Debug\net5.0\LunchBreak.AssemblyInfoInputs.cache
+D:\programiranee\if-else\LunchBreak\obj\Debug\net5.0\LunchBreak.AssemblyInfo.cs
+D:\programiranee\if-else\LunchBreak\obj\Debug\net5.0\LunchBreak.csproj.CoreCompileInputs.cache
+D:\programiranee\if-else\LunchBreak\obj\Debug\net5.0\LunchBreak.dll
+D:\programiranee\if-else\LunchBreak\obj\Debug\net5.0\ref\LunchBreak.dll
+D:\programiranee\if-else\LunchBreak\obj\Debug\net5.0\LunchBreak.pdb
+D:\programiranee\if-else\LunchBreak\obj\Debug\net5.0\LunchBreak.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\SumSeconds\bin\Debug\net5.0\SumSeconds.exe
+C:\Users\PC\source\repos\SumSeconds\bin\Debug\net5.0\SumSeconds.deps.json
+C:\Users\PC\source\repos\SumSeconds\bin\Debug\net5.0\SumSeconds.runtimeconfig.json
+C:\Users\PC\source\repos\SumSeconds\bin\Debug\net5.0\SumSeconds.runtimeconfig.dev.json
+C:\Users\PC\source\repos\SumSeconds\bin\Debug\net5.0\SumSeconds.dll
+C:\Users\PC\source\repos\SumSeconds\bin\Debug\net5.0\ref\SumSeconds.dll
+C:\Users\PC\source\repos\SumSeconds\bin\Debug\net5.0\SumSeconds.pdb
+C:\Users\PC\source\repos\SumSeconds\obj\Debug\net5.0\SumSeconds.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\SumSeconds\obj\Debug\net5.0\SumSeconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\SumSeconds\obj\Debug\net5.0\SumSeconds.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\SumSeconds\obj\Debug\net5.0\SumSeconds.AssemblyInfo.cs
+C:\Users\PC\source\repos\SumSeconds\obj\Debug\net5.0\SumSeconds.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\SumSeconds\obj\Debug\net5.0\SumSeconds.dll
+C:\Users\PC\source\repos\SumSeconds\obj\Debug\net5.0\ref\SumSeconds.dll
+C:\Users\PC\source\repos\SumSeconds\obj\Debug\net5.0\SumSeconds.pdb
+C:\Users\PC\source\repos\SumSeconds\obj\Debug\net5.0\SumSeconds.genruntimeconfig.cache

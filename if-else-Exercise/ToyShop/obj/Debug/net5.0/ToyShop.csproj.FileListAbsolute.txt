@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\ToyShop\bin\Debug\net5.0\ToyShop.exe
+C:\Users\PC\source\repos\ToyShop\bin\Debug\net5.0\ToyShop.deps.json
+C:\Users\PC\source\repos\ToyShop\bin\Debug\net5.0\ToyShop.runtimeconfig.json
+C:\Users\PC\source\repos\ToyShop\bin\Debug\net5.0\ToyShop.runtimeconfig.dev.json
+C:\Users\PC\source\repos\ToyShop\bin\Debug\net5.0\ToyShop.dll
+C:\Users\PC\source\repos\ToyShop\bin\Debug\net5.0\ref\ToyShop.dll
+C:\Users\PC\source\repos\ToyShop\bin\Debug\net5.0\ToyShop.pdb
+C:\Users\PC\source\repos\ToyShop\obj\Debug\net5.0\ToyShop.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\ToyShop\obj\Debug\net5.0\ToyShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\ToyShop\obj\Debug\net5.0\ToyShop.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ToyShop\obj\Debug\net5.0\ToyShop.AssemblyInfo.cs
+C:\Users\PC\source\repos\ToyShop\obj\Debug\net5.0\ToyShop.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ToyShop\obj\Debug\net5.0\ToyShop.dll
+C:\Users\PC\source\repos\ToyShop\obj\Debug\net5.0\ref\ToyShop.dll
+C:\Users\PC\source\repos\ToyShop\obj\Debug\net5.0\ToyShop.pdb
+C:\Users\PC\source\repos\ToyShop\obj\Debug\net5.0\ToyShop.genruntimeconfig.cache

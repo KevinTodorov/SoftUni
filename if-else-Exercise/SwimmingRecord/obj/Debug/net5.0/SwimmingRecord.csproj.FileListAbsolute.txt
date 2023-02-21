@@ -1,0 +1,15 @@
+D:\programiranee\if-else\SwimmingRecord\bin\Debug\net5.0\SwimmingRecord.exe
+D:\programiranee\if-else\SwimmingRecord\bin\Debug\net5.0\SwimmingRecord.deps.json
+D:\programiranee\if-else\SwimmingRecord\bin\Debug\net5.0\SwimmingRecord.runtimeconfig.json
+D:\programiranee\if-else\SwimmingRecord\bin\Debug\net5.0\SwimmingRecord.runtimeconfig.dev.json
+D:\programiranee\if-else\SwimmingRecord\bin\Debug\net5.0\SwimmingRecord.dll
+D:\programiranee\if-else\SwimmingRecord\bin\Debug\net5.0\ref\SwimmingRecord.dll
+D:\programiranee\if-else\SwimmingRecord\bin\Debug\net5.0\SwimmingRecord.pdb
+D:\programiranee\if-else\SwimmingRecord\obj\Debug\net5.0\SwimmingRecord.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\if-else\SwimmingRecord\obj\Debug\net5.0\SwimmingRecord.AssemblyInfoInputs.cache
+D:\programiranee\if-else\SwimmingRecord\obj\Debug\net5.0\SwimmingRecord.AssemblyInfo.cs
+D:\programiranee\if-else\SwimmingRecord\obj\Debug\net5.0\SwimmingRecord.csproj.CoreCompileInputs.cache
+D:\programiranee\if-else\SwimmingRecord\obj\Debug\net5.0\SwimmingRecord.dll
+D:\programiranee\if-else\SwimmingRecord\obj\Debug\net5.0\ref\SwimmingRecord.dll
+D:\programiranee\if-else\SwimmingRecord\obj\Debug\net5.0\SwimmingRecord.pdb
+D:\programiranee\if-else\SwimmingRecord\obj\Debug\net5.0\SwimmingRecord.genruntimeconfig.cache

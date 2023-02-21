@@ -1,0 +1,16 @@
+D:\programiranee\if-else\GodzillaVsKong\bin\Debug\net5.0\GodzillaVsKong.exe
+D:\programiranee\if-else\GodzillaVsKong\bin\Debug\net5.0\GodzillaVsKong.deps.json
+D:\programiranee\if-else\GodzillaVsKong\bin\Debug\net5.0\GodzillaVsKong.runtimeconfig.json
+D:\programiranee\if-else\GodzillaVsKong\bin\Debug\net5.0\GodzillaVsKong.runtimeconfig.dev.json
+D:\programiranee\if-else\GodzillaVsKong\bin\Debug\net5.0\GodzillaVsKong.dll
+D:\programiranee\if-else\GodzillaVsKong\bin\Debug\net5.0\ref\GodzillaVsKong.dll
+D:\programiranee\if-else\GodzillaVsKong\bin\Debug\net5.0\GodzillaVsKong.pdb
+D:\programiranee\if-else\GodzillaVsKong\obj\Debug\net5.0\GodzillaVsKong.csproj.AssemblyReference.cache
+D:\programiranee\if-else\GodzillaVsKong\obj\Debug\net5.0\GodzillaVsKong.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\if-else\GodzillaVsKong\obj\Debug\net5.0\GodzillaVsKong.AssemblyInfoInputs.cache
+D:\programiranee\if-else\GodzillaVsKong\obj\Debug\net5.0\GodzillaVsKong.AssemblyInfo.cs
+D:\programiranee\if-else\GodzillaVsKong\obj\Debug\net5.0\GodzillaVsKong.csproj.CoreCompileInputs.cache
+D:\programiranee\if-else\GodzillaVsKong\obj\Debug\net5.0\GodzillaVsKong.dll
+D:\programiranee\if-else\GodzillaVsKong\obj\Debug\net5.0\ref\GodzillaVsKong.dll
+D:\programiranee\if-else\GodzillaVsKong\obj\Debug\net5.0\GodzillaVsKong.pdb
+D:\programiranee\if-else\GodzillaVsKong\obj\Debug\net5.0\GodzillaVsKong.genruntimeconfig.cache

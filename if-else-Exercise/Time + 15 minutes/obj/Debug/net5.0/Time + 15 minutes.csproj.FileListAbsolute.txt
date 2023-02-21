@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\Time + 15 minutes\bin\Debug\net5.0\Time + 15 minutes.exe
+C:\Users\PC\source\repos\Time + 15 minutes\bin\Debug\net5.0\Time + 15 minutes.deps.json
+C:\Users\PC\source\repos\Time + 15 minutes\bin\Debug\net5.0\Time + 15 minutes.runtimeconfig.json
+C:\Users\PC\source\repos\Time + 15 minutes\bin\Debug\net5.0\Time + 15 minutes.runtimeconfig.dev.json
+C:\Users\PC\source\repos\Time + 15 minutes\bin\Debug\net5.0\Time + 15 minutes.dll
+C:\Users\PC\source\repos\Time + 15 minutes\bin\Debug\net5.0\ref\Time + 15 minutes.dll
+C:\Users\PC\source\repos\Time + 15 minutes\bin\Debug\net5.0\Time + 15 minutes.pdb
+C:\Users\PC\source\repos\Time + 15 minutes\obj\Debug\net5.0\Time + 15 minutes.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Time + 15 minutes\obj\Debug\net5.0\Time + 15 minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Time + 15 minutes\obj\Debug\net5.0\Time + 15 minutes.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Time + 15 minutes\obj\Debug\net5.0\Time + 15 minutes.AssemblyInfo.cs
+C:\Users\PC\source\repos\Time + 15 minutes\obj\Debug\net5.0\Time + 15 minutes.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Time + 15 minutes\obj\Debug\net5.0\Time + 15 minutes.dll
+C:\Users\PC\source\repos\Time + 15 minutes\obj\Debug\net5.0\ref\Time + 15 minutes.dll
+C:\Users\PC\source\repos\Time + 15 minutes\obj\Debug\net5.0\Time + 15 minutes.pdb
+C:\Users\PC\source\repos\Time + 15 minutes\obj\Debug\net5.0\Time + 15 minutes.genruntimeconfig.cache

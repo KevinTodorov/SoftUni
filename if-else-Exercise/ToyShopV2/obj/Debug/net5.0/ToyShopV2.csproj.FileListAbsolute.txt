@@ -1,0 +1,16 @@
+D:\programiranee\Programming basics\if-else\ToyShopV2\bin\Debug\net5.0\ToyShopV2.exe
+D:\programiranee\Programming basics\if-else\ToyShopV2\bin\Debug\net5.0\ToyShopV2.deps.json
+D:\programiranee\Programming basics\if-else\ToyShopV2\bin\Debug\net5.0\ToyShopV2.runtimeconfig.json
+D:\programiranee\Programming basics\if-else\ToyShopV2\bin\Debug\net5.0\ToyShopV2.runtimeconfig.dev.json
+D:\programiranee\Programming basics\if-else\ToyShopV2\bin\Debug\net5.0\ToyShopV2.dll
+D:\programiranee\Programming basics\if-else\ToyShopV2\bin\Debug\net5.0\ref\ToyShopV2.dll
+D:\programiranee\Programming basics\if-else\ToyShopV2\bin\Debug\net5.0\ToyShopV2.pdb
+D:\programiranee\Programming basics\if-else\ToyShopV2\obj\Debug\net5.0\ToyShopV2.csproj.AssemblyReference.cache
+D:\programiranee\Programming basics\if-else\ToyShopV2\obj\Debug\net5.0\ToyShopV2.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Programming basics\if-else\ToyShopV2\obj\Debug\net5.0\ToyShopV2.AssemblyInfoInputs.cache
+D:\programiranee\Programming basics\if-else\ToyShopV2\obj\Debug\net5.0\ToyShopV2.AssemblyInfo.cs
+D:\programiranee\Programming basics\if-else\ToyShopV2\obj\Debug\net5.0\ToyShopV2.csproj.CoreCompileInputs.cache
+D:\programiranee\Programming basics\if-else\ToyShopV2\obj\Debug\net5.0\ToyShopV2.dll
+D:\programiranee\Programming basics\if-else\ToyShopV2\obj\Debug\net5.0\ref\ToyShopV2.dll
+D:\programiranee\Programming basics\if-else\ToyShopV2\obj\Debug\net5.0\ToyShopV2.pdb
+D:\programiranee\Programming basics\if-else\ToyShopV2\obj\Debug\net5.0\ToyShopV2.genruntimeconfig.cache
