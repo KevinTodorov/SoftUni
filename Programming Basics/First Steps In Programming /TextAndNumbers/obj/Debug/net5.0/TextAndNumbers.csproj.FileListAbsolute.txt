@@ -1,0 +1,15 @@
+D:\programiranee\TextAndNumbers\bin\Debug\net5.0\TextAndNumbers.exe
+D:\programiranee\TextAndNumbers\bin\Debug\net5.0\TextAndNumbers.deps.json
+D:\programiranee\TextAndNumbers\bin\Debug\net5.0\TextAndNumbers.runtimeconfig.json
+D:\programiranee\TextAndNumbers\bin\Debug\net5.0\TextAndNumbers.runtimeconfig.dev.json
+D:\programiranee\TextAndNumbers\bin\Debug\net5.0\TextAndNumbers.dll
+D:\programiranee\TextAndNumbers\bin\Debug\net5.0\ref\TextAndNumbers.dll
+D:\programiranee\TextAndNumbers\bin\Debug\net5.0\TextAndNumbers.pdb
+D:\programiranee\TextAndNumbers\obj\Debug\net5.0\TextAndNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\TextAndNumbers\obj\Debug\net5.0\TextAndNumbers.AssemblyInfoInputs.cache
+D:\programiranee\TextAndNumbers\obj\Debug\net5.0\TextAndNumbers.AssemblyInfo.cs
+D:\programiranee\TextAndNumbers\obj\Debug\net5.0\TextAndNumbers.csproj.CoreCompileInputs.cache
+D:\programiranee\TextAndNumbers\obj\Debug\net5.0\TextAndNumbers.dll
+D:\programiranee\TextAndNumbers\obj\Debug\net5.0\ref\TextAndNumbers.dll
+D:\programiranee\TextAndNumbers\obj\Debug\net5.0\TextAndNumbers.pdb
+D:\programiranee\TextAndNumbers\obj\Debug\net5.0\TextAndNumbers.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\programiranee\PetShop\bin\Debug\net5.0\PetShop.exe
+D:\programiranee\PetShop\bin\Debug\net5.0\PetShop.deps.json
+D:\programiranee\PetShop\bin\Debug\net5.0\PetShop.runtimeconfig.json
+D:\programiranee\PetShop\bin\Debug\net5.0\PetShop.runtimeconfig.dev.json
+D:\programiranee\PetShop\bin\Debug\net5.0\PetShop.dll
+D:\programiranee\PetShop\bin\Debug\net5.0\ref\PetShop.dll
+D:\programiranee\PetShop\bin\Debug\net5.0\PetShop.pdb
+D:\programiranee\PetShop\obj\Debug\net5.0\PetShop.csproj.AssemblyReference.cache
+D:\programiranee\PetShop\obj\Debug\net5.0\PetShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\PetShop\obj\Debug\net5.0\PetShop.AssemblyInfoInputs.cache
+D:\programiranee\PetShop\obj\Debug\net5.0\PetShop.AssemblyInfo.cs
+D:\programiranee\PetShop\obj\Debug\net5.0\PetShop.csproj.CoreCompileInputs.cache
+D:\programiranee\PetShop\obj\Debug\net5.0\PetShop.dll
+D:\programiranee\PetShop\obj\Debug\net5.0\ref\PetShop.dll
+D:\programiranee\PetShop\obj\Debug\net5.0\PetShop.pdb
+D:\programiranee\PetShop\obj\Debug\net5.0\PetShop.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\programiranee\Radians to Degrees\obj\Debug\net5.0\Radians to Degrees.csproj.AssemblyReference.cache
+D:\programiranee\Radians to Degrees\obj\Debug\net5.0\Radians to Degrees.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Radians to Degrees\obj\Debug\net5.0\Radians to Degrees.AssemblyInfoInputs.cache
+D:\programiranee\Radians to Degrees\obj\Debug\net5.0\Radians to Degrees.AssemblyInfo.cs
+D:\programiranee\Radians to Degrees\obj\Debug\net5.0\Radians to Degrees.csproj.CoreCompileInputs.cache
+D:\programiranee\Radians to Degrees\bin\Debug\net5.0\Radians to Degrees.exe
+D:\programiranee\Radians to Degrees\bin\Debug\net5.0\Radians to Degrees.deps.json
+D:\programiranee\Radians to Degrees\bin\Debug\net5.0\Radians to Degrees.runtimeconfig.json
+D:\programiranee\Radians to Degrees\bin\Debug\net5.0\Radians to Degrees.runtimeconfig.dev.json
+D:\programiranee\Radians to Degrees\bin\Debug\net5.0\Radians to Degrees.dll
+D:\programiranee\Radians to Degrees\bin\Debug\net5.0\ref\Radians to Degrees.dll
+D:\programiranee\Radians to Degrees\bin\Debug\net5.0\Radians to Degrees.pdb
+D:\programiranee\Radians to Degrees\obj\Debug\net5.0\Radians to Degrees.dll
+D:\programiranee\Radians to Degrees\obj\Debug\net5.0\ref\Radians to Degrees.dll
+D:\programiranee\Radians to Degrees\obj\Debug\net5.0\Radians to Degrees.pdb
+D:\programiranee\Radians to Degrees\obj\Debug\net5.0\Radians to Degrees.genruntimeconfig.cache

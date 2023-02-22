@@ -1,0 +1,15 @@
+D:\programiranee\Gardening\bin\Debug\net5.0\Gardening.exe
+D:\programiranee\Gardening\bin\Debug\net5.0\Gardening.deps.json
+D:\programiranee\Gardening\bin\Debug\net5.0\Gardening.runtimeconfig.json
+D:\programiranee\Gardening\bin\Debug\net5.0\Gardening.runtimeconfig.dev.json
+D:\programiranee\Gardening\bin\Debug\net5.0\Gardening.dll
+D:\programiranee\Gardening\bin\Debug\net5.0\ref\Gardening.dll
+D:\programiranee\Gardening\bin\Debug\net5.0\Gardening.pdb
+D:\programiranee\Gardening\obj\Debug\net5.0\Gardening.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Gardening\obj\Debug\net5.0\Gardening.AssemblyInfoInputs.cache
+D:\programiranee\Gardening\obj\Debug\net5.0\Gardening.AssemblyInfo.cs
+D:\programiranee\Gardening\obj\Debug\net5.0\Gardening.csproj.CoreCompileInputs.cache
+D:\programiranee\Gardening\obj\Debug\net5.0\Gardening.dll
+D:\programiranee\Gardening\obj\Debug\net5.0\ref\Gardening.dll
+D:\programiranee\Gardening\obj\Debug\net5.0\Gardening.pdb
+D:\programiranee\Gardening\obj\Debug\net5.0\Gardening.genruntimeconfig.cache
