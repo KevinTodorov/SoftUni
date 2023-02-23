@@ -1,0 +1,15 @@
+D:\programiranee\BasketballEquipment\bin\Debug\net5.0\BasketballEquipment.exe
+D:\programiranee\BasketballEquipment\bin\Debug\net5.0\BasketballEquipment.deps.json
+D:\programiranee\BasketballEquipment\bin\Debug\net5.0\BasketballEquipment.runtimeconfig.json
+D:\programiranee\BasketballEquipment\bin\Debug\net5.0\BasketballEquipment.runtimeconfig.dev.json
+D:\programiranee\BasketballEquipment\bin\Debug\net5.0\BasketballEquipment.dll
+D:\programiranee\BasketballEquipment\bin\Debug\net5.0\ref\BasketballEquipment.dll
+D:\programiranee\BasketballEquipment\bin\Debug\net5.0\BasketballEquipment.pdb
+D:\programiranee\BasketballEquipment\obj\Debug\net5.0\BasketballEquipment.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\BasketballEquipment\obj\Debug\net5.0\BasketballEquipment.AssemblyInfoInputs.cache
+D:\programiranee\BasketballEquipment\obj\Debug\net5.0\BasketballEquipment.AssemblyInfo.cs
+D:\programiranee\BasketballEquipment\obj\Debug\net5.0\BasketballEquipment.csproj.CoreCompileInputs.cache
+D:\programiranee\BasketballEquipment\obj\Debug\net5.0\BasketballEquipment.dll
+D:\programiranee\BasketballEquipment\obj\Debug\net5.0\ref\BasketballEquipment.dll
+D:\programiranee\BasketballEquipment\obj\Debug\net5.0\BasketballEquipment.pdb
+D:\programiranee\BasketballEquipment\obj\Debug\net5.0\BasketballEquipment.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\programiranee\Deposit Calculator\bin\Debug\net5.0\Deposit Calculator.exe
+D:\programiranee\Deposit Calculator\bin\Debug\net5.0\Deposit Calculator.deps.json
+D:\programiranee\Deposit Calculator\bin\Debug\net5.0\Deposit Calculator.runtimeconfig.json
+D:\programiranee\Deposit Calculator\bin\Debug\net5.0\Deposit Calculator.runtimeconfig.dev.json
+D:\programiranee\Deposit Calculator\bin\Debug\net5.0\Deposit Calculator.dll
+D:\programiranee\Deposit Calculator\bin\Debug\net5.0\ref\Deposit Calculator.dll
+D:\programiranee\Deposit Calculator\bin\Debug\net5.0\Deposit Calculator.pdb
+D:\programiranee\Deposit Calculator\obj\Debug\net5.0\Deposit Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Deposit Calculator\obj\Debug\net5.0\Deposit Calculator.AssemblyInfoInputs.cache
+D:\programiranee\Deposit Calculator\obj\Debug\net5.0\Deposit Calculator.AssemblyInfo.cs
+D:\programiranee\Deposit Calculator\obj\Debug\net5.0\Deposit Calculator.csproj.CoreCompileInputs.cache
+D:\programiranee\Deposit Calculator\obj\Debug\net5.0\Deposit Calculator.dll
+D:\programiranee\Deposit Calculator\obj\Debug\net5.0\ref\Deposit Calculator.dll
+D:\programiranee\Deposit Calculator\obj\Debug\net5.0\Deposit Calculator.pdb
+D:\programiranee\Deposit Calculator\obj\Debug\net5.0\Deposit Calculator.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\programiranee\FoodDelivery\bin\Debug\net5.0\FoodDelivery.exe
+D:\programiranee\FoodDelivery\bin\Debug\net5.0\FoodDelivery.deps.json
+D:\programiranee\FoodDelivery\bin\Debug\net5.0\FoodDelivery.runtimeconfig.json
+D:\programiranee\FoodDelivery\bin\Debug\net5.0\FoodDelivery.runtimeconfig.dev.json
+D:\programiranee\FoodDelivery\bin\Debug\net5.0\FoodDelivery.dll
+D:\programiranee\FoodDelivery\bin\Debug\net5.0\ref\FoodDelivery.dll
+D:\programiranee\FoodDelivery\bin\Debug\net5.0\FoodDelivery.pdb
+D:\programiranee\FoodDelivery\obj\Debug\net5.0\FoodDelivery.csproj.AssemblyReference.cache
+D:\programiranee\FoodDelivery\obj\Debug\net5.0\FoodDelivery.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\FoodDelivery\obj\Debug\net5.0\FoodDelivery.AssemblyInfoInputs.cache
+D:\programiranee\FoodDelivery\obj\Debug\net5.0\FoodDelivery.AssemblyInfo.cs
+D:\programiranee\FoodDelivery\obj\Debug\net5.0\FoodDelivery.csproj.CoreCompileInputs.cache
+D:\programiranee\FoodDelivery\obj\Debug\net5.0\FoodDelivery.dll
+D:\programiranee\FoodDelivery\obj\Debug\net5.0\ref\FoodDelivery.dll
+D:\programiranee\FoodDelivery\obj\Debug\net5.0\FoodDelivery.pdb
+D:\programiranee\FoodDelivery\obj\Debug\net5.0\FoodDelivery.genruntimeconfig.cache

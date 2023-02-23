@@ -1,0 +1,15 @@
+D:\programiranee\repainting\bin\Debug\net5.0\repainting.exe
+D:\programiranee\repainting\bin\Debug\net5.0\repainting.deps.json
+D:\programiranee\repainting\bin\Debug\net5.0\repainting.runtimeconfig.json
+D:\programiranee\repainting\bin\Debug\net5.0\repainting.runtimeconfig.dev.json
+D:\programiranee\repainting\bin\Debug\net5.0\repainting.dll
+D:\programiranee\repainting\bin\Debug\net5.0\ref\repainting.dll
+D:\programiranee\repainting\bin\Debug\net5.0\repainting.pdb
+D:\programiranee\repainting\obj\Debug\net5.0\repainting.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\repainting\obj\Debug\net5.0\repainting.AssemblyInfoInputs.cache
+D:\programiranee\repainting\obj\Debug\net5.0\repainting.AssemblyInfo.cs
+D:\programiranee\repainting\obj\Debug\net5.0\repainting.csproj.CoreCompileInputs.cache
+D:\programiranee\repainting\obj\Debug\net5.0\repainting.dll
+D:\programiranee\repainting\obj\Debug\net5.0\ref\repainting.dll
+D:\programiranee\repainting\obj\Debug\net5.0\repainting.pdb
+D:\programiranee\repainting\obj\Debug\net5.0\repainting.genruntimeconfig.cache

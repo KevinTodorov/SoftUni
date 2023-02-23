@@ -1,0 +1,15 @@
+D:\programiranee\Architect\bin\Debug\net5.0\Architect.exe
+D:\programiranee\Architect\bin\Debug\net5.0\Architect.deps.json
+D:\programiranee\Architect\bin\Debug\net5.0\Architect.runtimeconfig.json
+D:\programiranee\Architect\bin\Debug\net5.0\Architect.runtimeconfig.dev.json
+D:\programiranee\Architect\bin\Debug\net5.0\Architect.dll
+D:\programiranee\Architect\bin\Debug\net5.0\ref\Architect.dll
+D:\programiranee\Architect\bin\Debug\net5.0\Architect.pdb
+D:\programiranee\Architect\obj\Debug\net5.0\Architect.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Architect\obj\Debug\net5.0\Architect.AssemblyInfoInputs.cache
+D:\programiranee\Architect\obj\Debug\net5.0\Architect.AssemblyInfo.cs
+D:\programiranee\Architect\obj\Debug\net5.0\Architect.csproj.CoreCompileInputs.cache
+D:\programiranee\Architect\obj\Debug\net5.0\Architect.dll
+D:\programiranee\Architect\obj\Debug\net5.0\ref\Architect.dll
+D:\programiranee\Architect\obj\Debug\net5.0\Architect.pdb
+D:\programiranee\Architect\obj\Debug\net5.0\Architect.genruntimeconfig.cache

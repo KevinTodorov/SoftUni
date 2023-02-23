@@ -1,0 +1,16 @@
+D:\programiranee\VacationBookList\bin\Debug\net5.0\VacationBookList.exe
+D:\programiranee\VacationBookList\bin\Debug\net5.0\VacationBookList.deps.json
+D:\programiranee\VacationBookList\bin\Debug\net5.0\VacationBookList.runtimeconfig.json
+D:\programiranee\VacationBookList\bin\Debug\net5.0\VacationBookList.runtimeconfig.dev.json
+D:\programiranee\VacationBookList\bin\Debug\net5.0\VacationBookList.dll
+D:\programiranee\VacationBookList\bin\Debug\net5.0\ref\VacationBookList.dll
+D:\programiranee\VacationBookList\bin\Debug\net5.0\VacationBookList.pdb
+D:\programiranee\VacationBookList\obj\Debug\net5.0\VacationBookList.csproj.AssemblyReference.cache
+D:\programiranee\VacationBookList\obj\Debug\net5.0\VacationBookList.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\VacationBookList\obj\Debug\net5.0\VacationBookList.AssemblyInfoInputs.cache
+D:\programiranee\VacationBookList\obj\Debug\net5.0\VacationBookList.AssemblyInfo.cs
+D:\programiranee\VacationBookList\obj\Debug\net5.0\VacationBookList.csproj.CoreCompileInputs.cache
+D:\programiranee\VacationBookList\obj\Debug\net5.0\VacationBookList.dll
+D:\programiranee\VacationBookList\obj\Debug\net5.0\ref\VacationBookList.dll
+D:\programiranee\VacationBookList\obj\Debug\net5.0\VacationBookList.pdb
+D:\programiranee\VacationBookList\obj\Debug\net5.0\VacationBookList.genruntimeconfig.cache

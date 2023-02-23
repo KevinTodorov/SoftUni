@@ -1,0 +1,16 @@
+D:\programiranee\FishTank\bin\Debug\net5.0\FishTank.exe
+D:\programiranee\FishTank\bin\Debug\net5.0\FishTank.deps.json
+D:\programiranee\FishTank\bin\Debug\net5.0\FishTank.runtimeconfig.json
+D:\programiranee\FishTank\bin\Debug\net5.0\FishTank.runtimeconfig.dev.json
+D:\programiranee\FishTank\bin\Debug\net5.0\FishTank.dll
+D:\programiranee\FishTank\bin\Debug\net5.0\ref\FishTank.dll
+D:\programiranee\FishTank\bin\Debug\net5.0\FishTank.pdb
+D:\programiranee\FishTank\obj\Debug\net5.0\FishTank.csproj.AssemblyReference.cache
+D:\programiranee\FishTank\obj\Debug\net5.0\FishTank.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\FishTank\obj\Debug\net5.0\FishTank.AssemblyInfoInputs.cache
+D:\programiranee\FishTank\obj\Debug\net5.0\FishTank.AssemblyInfo.cs
+D:\programiranee\FishTank\obj\Debug\net5.0\FishTank.csproj.CoreCompileInputs.cache
+D:\programiranee\FishTank\obj\Debug\net5.0\FishTank.dll
+D:\programiranee\FishTank\obj\Debug\net5.0\ref\FishTank.dll
+D:\programiranee\FishTank\obj\Debug\net5.0\FishTank.pdb
+D:\programiranee\FishTank\obj\Debug\net5.0\FishTank.genruntimeconfig.cache

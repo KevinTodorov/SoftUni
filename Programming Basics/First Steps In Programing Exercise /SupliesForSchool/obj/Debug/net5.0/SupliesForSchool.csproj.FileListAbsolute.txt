@@ -1,0 +1,16 @@
+D:\programiranee\SupliesForSchool\bin\Debug\net5.0\SupliesForSchool.exe
+D:\programiranee\SupliesForSchool\bin\Debug\net5.0\SupliesForSchool.deps.json
+D:\programiranee\SupliesForSchool\bin\Debug\net5.0\SupliesForSchool.runtimeconfig.json
+D:\programiranee\SupliesForSchool\bin\Debug\net5.0\SupliesForSchool.runtimeconfig.dev.json
+D:\programiranee\SupliesForSchool\bin\Debug\net5.0\SupliesForSchool.dll
+D:\programiranee\SupliesForSchool\bin\Debug\net5.0\ref\SupliesForSchool.dll
+D:\programiranee\SupliesForSchool\bin\Debug\net5.0\SupliesForSchool.pdb
+D:\programiranee\SupliesForSchool\obj\Debug\net5.0\SupliesForSchool.csproj.AssemblyReference.cache
+D:\programiranee\SupliesForSchool\obj\Debug\net5.0\SupliesForSchool.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\SupliesForSchool\obj\Debug\net5.0\SupliesForSchool.AssemblyInfoInputs.cache
+D:\programiranee\SupliesForSchool\obj\Debug\net5.0\SupliesForSchool.AssemblyInfo.cs
+D:\programiranee\SupliesForSchool\obj\Debug\net5.0\SupliesForSchool.csproj.CoreCompileInputs.cache
+D:\programiranee\SupliesForSchool\obj\Debug\net5.0\SupliesForSchool.dll
+D:\programiranee\SupliesForSchool\obj\Debug\net5.0\ref\SupliesForSchool.dll
+D:\programiranee\SupliesForSchool\obj\Debug\net5.0\SupliesForSchool.pdb
+D:\programiranee\SupliesForSchool\obj\Debug\net5.0\SupliesForSchool.genruntimeconfig.cache

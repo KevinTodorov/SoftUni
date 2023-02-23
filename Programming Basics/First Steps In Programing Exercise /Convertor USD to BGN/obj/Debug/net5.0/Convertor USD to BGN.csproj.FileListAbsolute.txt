@@ -1,0 +1,16 @@
+D:\programiranee\Convertor USD to BGN\bin\Debug\net5.0\Convertor USD to BGN.exe
+D:\programiranee\Convertor USD to BGN\bin\Debug\net5.0\Convertor USD to BGN.deps.json
+D:\programiranee\Convertor USD to BGN\bin\Debug\net5.0\Convertor USD to BGN.runtimeconfig.json
+D:\programiranee\Convertor USD to BGN\bin\Debug\net5.0\Convertor USD to BGN.runtimeconfig.dev.json
+D:\programiranee\Convertor USD to BGN\bin\Debug\net5.0\Convertor USD to BGN.dll
+D:\programiranee\Convertor USD to BGN\bin\Debug\net5.0\ref\Convertor USD to BGN.dll
+D:\programiranee\Convertor USD to BGN\bin\Debug\net5.0\Convertor USD to BGN.pdb
+D:\programiranee\Convertor USD to BGN\obj\Debug\net5.0\Convertor USD to BGN.csproj.AssemblyReference.cache
+D:\programiranee\Convertor USD to BGN\obj\Debug\net5.0\Convertor USD to BGN.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Convertor USD to BGN\obj\Debug\net5.0\Convertor USD to BGN.AssemblyInfoInputs.cache
+D:\programiranee\Convertor USD to BGN\obj\Debug\net5.0\Convertor USD to BGN.AssemblyInfo.cs
+D:\programiranee\Convertor USD to BGN\obj\Debug\net5.0\Convertor USD to BGN.csproj.CoreCompileInputs.cache
+D:\programiranee\Convertor USD to BGN\obj\Debug\net5.0\Convertor USD to BGN.dll
+D:\programiranee\Convertor USD to BGN\obj\Debug\net5.0\ref\Convertor USD to BGN.dll
+D:\programiranee\Convertor USD to BGN\obj\Debug\net5.0\Convertor USD to BGN.pdb
+D:\programiranee\Convertor USD to BGN\obj\Debug\net5.0\Convertor USD to BGN.genruntimeconfig.cache
