@@ -1,0 +1,16 @@
+D:\programiranee\switch\Fruit Shop\bin\Debug\net5.0\Fruit Shop.exe
+D:\programiranee\switch\Fruit Shop\bin\Debug\net5.0\Fruit Shop.deps.json
+D:\programiranee\switch\Fruit Shop\bin\Debug\net5.0\Fruit Shop.runtimeconfig.json
+D:\programiranee\switch\Fruit Shop\bin\Debug\net5.0\Fruit Shop.runtimeconfig.dev.json
+D:\programiranee\switch\Fruit Shop\bin\Debug\net5.0\Fruit Shop.dll
+D:\programiranee\switch\Fruit Shop\bin\Debug\net5.0\ref\Fruit Shop.dll
+D:\programiranee\switch\Fruit Shop\bin\Debug\net5.0\Fruit Shop.pdb
+D:\programiranee\switch\Fruit Shop\obj\Debug\net5.0\Fruit Shop.csproj.AssemblyReference.cache
+D:\programiranee\switch\Fruit Shop\obj\Debug\net5.0\Fruit Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\switch\Fruit Shop\obj\Debug\net5.0\Fruit Shop.AssemblyInfoInputs.cache
+D:\programiranee\switch\Fruit Shop\obj\Debug\net5.0\Fruit Shop.AssemblyInfo.cs
+D:\programiranee\switch\Fruit Shop\obj\Debug\net5.0\Fruit Shop.csproj.CoreCompileInputs.cache
+D:\programiranee\switch\Fruit Shop\obj\Debug\net5.0\Fruit Shop.dll
+D:\programiranee\switch\Fruit Shop\obj\Debug\net5.0\ref\Fruit Shop.dll
+D:\programiranee\switch\Fruit Shop\obj\Debug\net5.0\Fruit Shop.pdb
+D:\programiranee\switch\Fruit Shop\obj\Debug\net5.0\Fruit Shop.genruntimeconfig.cache

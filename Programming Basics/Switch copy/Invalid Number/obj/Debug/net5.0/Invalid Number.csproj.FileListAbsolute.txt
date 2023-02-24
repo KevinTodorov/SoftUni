@@ -1,0 +1,15 @@
+D:\programiranee\switch\Invalid Number\bin\Debug\net5.0\Invalid Number.exe
+D:\programiranee\switch\Invalid Number\bin\Debug\net5.0\Invalid Number.deps.json
+D:\programiranee\switch\Invalid Number\bin\Debug\net5.0\Invalid Number.runtimeconfig.json
+D:\programiranee\switch\Invalid Number\bin\Debug\net5.0\Invalid Number.runtimeconfig.dev.json
+D:\programiranee\switch\Invalid Number\bin\Debug\net5.0\Invalid Number.dll
+D:\programiranee\switch\Invalid Number\bin\Debug\net5.0\ref\Invalid Number.dll
+D:\programiranee\switch\Invalid Number\bin\Debug\net5.0\Invalid Number.pdb
+D:\programiranee\switch\Invalid Number\obj\Debug\net5.0\Invalid Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\switch\Invalid Number\obj\Debug\net5.0\Invalid Number.AssemblyInfoInputs.cache
+D:\programiranee\switch\Invalid Number\obj\Debug\net5.0\Invalid Number.AssemblyInfo.cs
+D:\programiranee\switch\Invalid Number\obj\Debug\net5.0\Invalid Number.csproj.CoreCompileInputs.cache
+D:\programiranee\switch\Invalid Number\obj\Debug\net5.0\Invalid Number.dll
+D:\programiranee\switch\Invalid Number\obj\Debug\net5.0\ref\Invalid Number.dll
+D:\programiranee\switch\Invalid Number\obj\Debug\net5.0\Invalid Number.pdb
+D:\programiranee\switch\Invalid Number\obj\Debug\net5.0\Invalid Number.genruntimeconfig.cache
