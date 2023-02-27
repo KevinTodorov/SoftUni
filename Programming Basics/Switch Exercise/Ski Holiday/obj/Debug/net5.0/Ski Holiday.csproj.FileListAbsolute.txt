@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\Ski Holiday\bin\Debug\net5.0\Ski Holiday.exe
+C:\Users\PC\source\repos\Ski Holiday\bin\Debug\net5.0\Ski Holiday.deps.json
+C:\Users\PC\source\repos\Ski Holiday\bin\Debug\net5.0\Ski Holiday.runtimeconfig.json
+C:\Users\PC\source\repos\Ski Holiday\bin\Debug\net5.0\Ski Holiday.runtimeconfig.dev.json
+C:\Users\PC\source\repos\Ski Holiday\bin\Debug\net5.0\Ski Holiday.dll
+C:\Users\PC\source\repos\Ski Holiday\bin\Debug\net5.0\ref\Ski Holiday.dll
+C:\Users\PC\source\repos\Ski Holiday\bin\Debug\net5.0\Ski Holiday.pdb
+C:\Users\PC\source\repos\Ski Holiday\obj\Debug\net5.0\Ski Holiday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Ski Holiday\obj\Debug\net5.0\Ski Holiday.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Ski Holiday\obj\Debug\net5.0\Ski Holiday.AssemblyInfo.cs
+C:\Users\PC\source\repos\Ski Holiday\obj\Debug\net5.0\Ski Holiday.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Ski Holiday\obj\Debug\net5.0\Ski Holiday.dll
+C:\Users\PC\source\repos\Ski Holiday\obj\Debug\net5.0\ref\Ski Holiday.dll
+C:\Users\PC\source\repos\Ski Holiday\obj\Debug\net5.0\Ski Holiday.pdb
+C:\Users\PC\source\repos\Ski Holiday\obj\Debug\net5.0\Ski Holiday.genruntimeconfig.cache

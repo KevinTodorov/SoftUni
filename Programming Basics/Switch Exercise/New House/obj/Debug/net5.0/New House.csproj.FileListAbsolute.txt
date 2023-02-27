@@ -1,0 +1,16 @@
+D:\programiranee\switch\New House\bin\Debug\net5.0\New House.exe
+D:\programiranee\switch\New House\bin\Debug\net5.0\New House.deps.json
+D:\programiranee\switch\New House\bin\Debug\net5.0\New House.runtimeconfig.json
+D:\programiranee\switch\New House\bin\Debug\net5.0\New House.runtimeconfig.dev.json
+D:\programiranee\switch\New House\bin\Debug\net5.0\New House.dll
+D:\programiranee\switch\New House\bin\Debug\net5.0\ref\New House.dll
+D:\programiranee\switch\New House\bin\Debug\net5.0\New House.pdb
+D:\programiranee\switch\New House\obj\Debug\net5.0\New House.csproj.AssemblyReference.cache
+D:\programiranee\switch\New House\obj\Debug\net5.0\New House.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\switch\New House\obj\Debug\net5.0\New House.AssemblyInfoInputs.cache
+D:\programiranee\switch\New House\obj\Debug\net5.0\New House.AssemblyInfo.cs
+D:\programiranee\switch\New House\obj\Debug\net5.0\New House.csproj.CoreCompileInputs.cache
+D:\programiranee\switch\New House\obj\Debug\net5.0\New House.dll
+D:\programiranee\switch\New House\obj\Debug\net5.0\ref\New House.dll
+D:\programiranee\switch\New House\obj\Debug\net5.0\New House.pdb
+D:\programiranee\switch\New House\obj\Debug\net5.0\New House.genruntimeconfig.cache

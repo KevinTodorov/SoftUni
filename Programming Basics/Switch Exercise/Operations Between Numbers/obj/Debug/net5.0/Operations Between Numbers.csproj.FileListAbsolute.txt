@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\Operations Between Numbers\bin\Debug\net5.0\Operations Between Numbers.exe
+C:\Users\PC\source\repos\Operations Between Numbers\bin\Debug\net5.0\Operations Between Numbers.deps.json
+C:\Users\PC\source\repos\Operations Between Numbers\bin\Debug\net5.0\Operations Between Numbers.runtimeconfig.json
+C:\Users\PC\source\repos\Operations Between Numbers\bin\Debug\net5.0\Operations Between Numbers.runtimeconfig.dev.json
+C:\Users\PC\source\repos\Operations Between Numbers\bin\Debug\net5.0\Operations Between Numbers.dll
+C:\Users\PC\source\repos\Operations Between Numbers\bin\Debug\net5.0\ref\Operations Between Numbers.dll
+C:\Users\PC\source\repos\Operations Between Numbers\bin\Debug\net5.0\Operations Between Numbers.pdb
+C:\Users\PC\source\repos\Operations Between Numbers\obj\Debug\net5.0\Operations Between Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Operations Between Numbers\obj\Debug\net5.0\Operations Between Numbers.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Operations Between Numbers\obj\Debug\net5.0\Operations Between Numbers.AssemblyInfo.cs
+C:\Users\PC\source\repos\Operations Between Numbers\obj\Debug\net5.0\Operations Between Numbers.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Operations Between Numbers\obj\Debug\net5.0\Operations Between Numbers.dll
+C:\Users\PC\source\repos\Operations Between Numbers\obj\Debug\net5.0\ref\Operations Between Numbers.dll
+C:\Users\PC\source\repos\Operations Between Numbers\obj\Debug\net5.0\Operations Between Numbers.pdb
+C:\Users\PC\source\repos\Operations Between Numbers\obj\Debug\net5.0\Operations Between Numbers.genruntimeconfig.cache

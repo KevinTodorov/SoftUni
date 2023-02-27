@@ -1,0 +1,16 @@
+D:\programiranee\switch\Operations Between Numbers2\bin\Debug\net5.0\Operations Between Numbers2.exe
+D:\programiranee\switch\Operations Between Numbers2\bin\Debug\net5.0\Operations Between Numbers2.deps.json
+D:\programiranee\switch\Operations Between Numbers2\bin\Debug\net5.0\Operations Between Numbers2.runtimeconfig.json
+D:\programiranee\switch\Operations Between Numbers2\bin\Debug\net5.0\Operations Between Numbers2.runtimeconfig.dev.json
+D:\programiranee\switch\Operations Between Numbers2\bin\Debug\net5.0\Operations Between Numbers2.dll
+D:\programiranee\switch\Operations Between Numbers2\bin\Debug\net5.0\ref\Operations Between Numbers2.dll
+D:\programiranee\switch\Operations Between Numbers2\bin\Debug\net5.0\Operations Between Numbers2.pdb
+D:\programiranee\switch\Operations Between Numbers2\obj\Debug\net5.0\Operations Between Numbers2.csproj.AssemblyReference.cache
+D:\programiranee\switch\Operations Between Numbers2\obj\Debug\net5.0\Operations Between Numbers2.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\switch\Operations Between Numbers2\obj\Debug\net5.0\Operations Between Numbers2.AssemblyInfoInputs.cache
+D:\programiranee\switch\Operations Between Numbers2\obj\Debug\net5.0\Operations Between Numbers2.AssemblyInfo.cs
+D:\programiranee\switch\Operations Between Numbers2\obj\Debug\net5.0\Operations Between Numbers2.csproj.CoreCompileInputs.cache
+D:\programiranee\switch\Operations Between Numbers2\obj\Debug\net5.0\Operations Between Numbers2.dll
+D:\programiranee\switch\Operations Between Numbers2\obj\Debug\net5.0\ref\Operations Between Numbers2.dll
+D:\programiranee\switch\Operations Between Numbers2\obj\Debug\net5.0\Operations Between Numbers2.pdb
+D:\programiranee\switch\Operations Between Numbers2\obj\Debug\net5.0\Operations Between Numbers2.genruntimeconfig.cache
