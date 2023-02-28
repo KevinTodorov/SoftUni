@@ -1,0 +1,15 @@
+D:\programiranee\for\NumberN1\bin\Debug\net5.0\NumberN1.exe
+D:\programiranee\for\NumberN1\bin\Debug\net5.0\NumberN1.deps.json
+D:\programiranee\for\NumberN1\bin\Debug\net5.0\NumberN1.runtimeconfig.json
+D:\programiranee\for\NumberN1\bin\Debug\net5.0\NumberN1.runtimeconfig.dev.json
+D:\programiranee\for\NumberN1\bin\Debug\net5.0\NumberN1.dll
+D:\programiranee\for\NumberN1\bin\Debug\net5.0\ref\NumberN1.dll
+D:\programiranee\for\NumberN1\bin\Debug\net5.0\NumberN1.pdb
+D:\programiranee\for\NumberN1\obj\Debug\net5.0\NumberN1.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\for\NumberN1\obj\Debug\net5.0\NumberN1.AssemblyInfoInputs.cache
+D:\programiranee\for\NumberN1\obj\Debug\net5.0\NumberN1.AssemblyInfo.cs
+D:\programiranee\for\NumberN1\obj\Debug\net5.0\NumberN1.csproj.CoreCompileInputs.cache
+D:\programiranee\for\NumberN1\obj\Debug\net5.0\NumberN1.dll
+D:\programiranee\for\NumberN1\obj\Debug\net5.0\ref\NumberN1.dll
+D:\programiranee\for\NumberN1\obj\Debug\net5.0\NumberN1.pdb
+D:\programiranee\for\NumberN1\obj\Debug\net5.0\NumberN1.genruntimeconfig.cache

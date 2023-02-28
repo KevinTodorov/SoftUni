@@ -1,0 +1,16 @@
+D:\programiranee\for\Left And Right Sum\bin\Debug\net5.0\Left And Right Sum.exe
+D:\programiranee\for\Left And Right Sum\bin\Debug\net5.0\Left And Right Sum.deps.json
+D:\programiranee\for\Left And Right Sum\bin\Debug\net5.0\Left And Right Sum.runtimeconfig.json
+D:\programiranee\for\Left And Right Sum\bin\Debug\net5.0\Left And Right Sum.runtimeconfig.dev.json
+D:\programiranee\for\Left And Right Sum\bin\Debug\net5.0\Left And Right Sum.dll
+D:\programiranee\for\Left And Right Sum\bin\Debug\net5.0\ref\Left And Right Sum.dll
+D:\programiranee\for\Left And Right Sum\bin\Debug\net5.0\Left And Right Sum.pdb
+D:\programiranee\for\Left And Right Sum\obj\Debug\net5.0\Left And Right Sum.csproj.AssemblyReference.cache
+D:\programiranee\for\Left And Right Sum\obj\Debug\net5.0\Left And Right Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\for\Left And Right Sum\obj\Debug\net5.0\Left And Right Sum.AssemblyInfoInputs.cache
+D:\programiranee\for\Left And Right Sum\obj\Debug\net5.0\Left And Right Sum.AssemblyInfo.cs
+D:\programiranee\for\Left And Right Sum\obj\Debug\net5.0\Left And Right Sum.csproj.CoreCompileInputs.cache
+D:\programiranee\for\Left And Right Sum\obj\Debug\net5.0\Left And Right Sum.dll
+D:\programiranee\for\Left And Right Sum\obj\Debug\net5.0\ref\Left And Right Sum.dll
+D:\programiranee\for\Left And Right Sum\obj\Debug\net5.0\Left And Right Sum.pdb
+D:\programiranee\for\Left And Right Sum\obj\Debug\net5.0\Left And Right Sum.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\programiranee\for\From1to100\bin\Debug\net5.0\From1to100.exe
+D:\programiranee\for\From1to100\bin\Debug\net5.0\From1to100.deps.json
+D:\programiranee\for\From1to100\bin\Debug\net5.0\From1to100.runtimeconfig.json
+D:\programiranee\for\From1to100\bin\Debug\net5.0\From1to100.runtimeconfig.dev.json
+D:\programiranee\for\From1to100\bin\Debug\net5.0\From1to100.dll
+D:\programiranee\for\From1to100\bin\Debug\net5.0\ref\From1to100.dll
+D:\programiranee\for\From1to100\bin\Debug\net5.0\From1to100.pdb
+D:\programiranee\for\From1to100\obj\Debug\net5.0\From1to100.csproj.AssemblyReference.cache
+D:\programiranee\for\From1to100\obj\Debug\net5.0\From1to100.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\for\From1to100\obj\Debug\net5.0\From1to100.AssemblyInfoInputs.cache
+D:\programiranee\for\From1to100\obj\Debug\net5.0\From1to100.AssemblyInfo.cs
+D:\programiranee\for\From1to100\obj\Debug\net5.0\From1to100.csproj.CoreCompileInputs.cache
+D:\programiranee\for\From1to100\obj\Debug\net5.0\From1to100.dll
+D:\programiranee\for\From1to100\obj\Debug\net5.0\ref\From1to100.dll
+D:\programiranee\for\From1to100\obj\Debug\net5.0\From1to100.pdb
+D:\programiranee\for\From1to100\obj\Debug\net5.0\From1to100.genruntimeconfig.cache

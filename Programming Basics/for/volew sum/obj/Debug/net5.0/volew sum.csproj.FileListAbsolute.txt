@@ -1,0 +1,16 @@
+D:\programiranee\for\volew sum\bin\Debug\net5.0\volew sum.exe
+D:\programiranee\for\volew sum\bin\Debug\net5.0\volew sum.deps.json
+D:\programiranee\for\volew sum\bin\Debug\net5.0\volew sum.runtimeconfig.json
+D:\programiranee\for\volew sum\bin\Debug\net5.0\volew sum.runtimeconfig.dev.json
+D:\programiranee\for\volew sum\bin\Debug\net5.0\volew sum.dll
+D:\programiranee\for\volew sum\bin\Debug\net5.0\ref\volew sum.dll
+D:\programiranee\for\volew sum\bin\Debug\net5.0\volew sum.pdb
+D:\programiranee\for\volew sum\obj\Debug\net5.0\volew sum.csproj.AssemblyReference.cache
+D:\programiranee\for\volew sum\obj\Debug\net5.0\volew sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\for\volew sum\obj\Debug\net5.0\volew sum.AssemblyInfoInputs.cache
+D:\programiranee\for\volew sum\obj\Debug\net5.0\volew sum.AssemblyInfo.cs
+D:\programiranee\for\volew sum\obj\Debug\net5.0\volew sum.csproj.CoreCompileInputs.cache
+D:\programiranee\for\volew sum\obj\Debug\net5.0\volew sum.dll
+D:\programiranee\for\volew sum\obj\Debug\net5.0\ref\volew sum.dll
+D:\programiranee\for\volew sum\obj\Debug\net5.0\volew sum.pdb
+D:\programiranee\for\volew sum\obj\Debug\net5.0\volew sum.genruntimeconfig.cache

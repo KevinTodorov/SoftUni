@@ -1,0 +1,16 @@
+D:\programiranee\for\Number Sequence\bin\Debug\net5.0\Number Sequence.exe
+D:\programiranee\for\Number Sequence\bin\Debug\net5.0\Number Sequence.deps.json
+D:\programiranee\for\Number Sequence\bin\Debug\net5.0\Number Sequence.runtimeconfig.json
+D:\programiranee\for\Number Sequence\bin\Debug\net5.0\Number Sequence.runtimeconfig.dev.json
+D:\programiranee\for\Number Sequence\bin\Debug\net5.0\Number Sequence.dll
+D:\programiranee\for\Number Sequence\bin\Debug\net5.0\ref\Number Sequence.dll
+D:\programiranee\for\Number Sequence\bin\Debug\net5.0\Number Sequence.pdb
+D:\programiranee\for\Number Sequence\obj\Debug\net5.0\Number Sequence.csproj.AssemblyReference.cache
+D:\programiranee\for\Number Sequence\obj\Debug\net5.0\Number Sequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\for\Number Sequence\obj\Debug\net5.0\Number Sequence.AssemblyInfoInputs.cache
+D:\programiranee\for\Number Sequence\obj\Debug\net5.0\Number Sequence.AssemblyInfo.cs
+D:\programiranee\for\Number Sequence\obj\Debug\net5.0\Number Sequence.csproj.CoreCompileInputs.cache
+D:\programiranee\for\Number Sequence\obj\Debug\net5.0\Number Sequence.dll
+D:\programiranee\for\Number Sequence\obj\Debug\net5.0\ref\Number Sequence.dll
+D:\programiranee\for\Number Sequence\obj\Debug\net5.0\Number Sequence.pdb
+D:\programiranee\for\Number Sequence\obj\Debug\net5.0\Number Sequence.genruntimeconfig.cache

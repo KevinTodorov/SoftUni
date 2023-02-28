@@ -1,0 +1,16 @@
+D:\programiranee\Programming basics\for\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+D:\programiranee\Programming basics\for\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+D:\programiranee\Programming basics\for\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+D:\programiranee\Programming basics\for\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+D:\programiranee\Programming basics\for\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+D:\programiranee\Programming basics\for\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+D:\programiranee\Programming basics\for\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+D:\programiranee\Programming basics\for\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\programiranee\Programming basics\for\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Programming basics\for\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\programiranee\Programming basics\for\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+D:\programiranee\Programming basics\for\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\programiranee\Programming basics\for\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+D:\programiranee\Programming basics\for\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+D:\programiranee\Programming basics\for\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+D:\programiranee\Programming basics\for\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache

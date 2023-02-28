@@ -1,0 +1,15 @@
+D:\programiranee\for\Even Powers of 2\bin\Debug\net5.0\Even Powers of 2.exe
+D:\programiranee\for\Even Powers of 2\bin\Debug\net5.0\Even Powers of 2.deps.json
+D:\programiranee\for\Even Powers of 2\bin\Debug\net5.0\Even Powers of 2.runtimeconfig.json
+D:\programiranee\for\Even Powers of 2\bin\Debug\net5.0\Even Powers of 2.runtimeconfig.dev.json
+D:\programiranee\for\Even Powers of 2\bin\Debug\net5.0\Even Powers of 2.dll
+D:\programiranee\for\Even Powers of 2\bin\Debug\net5.0\ref\Even Powers of 2.dll
+D:\programiranee\for\Even Powers of 2\bin\Debug\net5.0\Even Powers of 2.pdb
+D:\programiranee\for\Even Powers of 2\obj\Debug\net5.0\Even Powers of 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\for\Even Powers of 2\obj\Debug\net5.0\Even Powers of 2.AssemblyInfoInputs.cache
+D:\programiranee\for\Even Powers of 2\obj\Debug\net5.0\Even Powers of 2.AssemblyInfo.cs
+D:\programiranee\for\Even Powers of 2\obj\Debug\net5.0\Even Powers of 2.csproj.CoreCompileInputs.cache
+D:\programiranee\for\Even Powers of 2\obj\Debug\net5.0\Even Powers of 2.dll
+D:\programiranee\for\Even Powers of 2\obj\Debug\net5.0\ref\Even Powers of 2.dll
+D:\programiranee\for\Even Powers of 2\obj\Debug\net5.0\Even Powers of 2.pdb
+D:\programiranee\for\Even Powers of 2\obj\Debug\net5.0\Even Powers of 2.genruntimeconfig.cache

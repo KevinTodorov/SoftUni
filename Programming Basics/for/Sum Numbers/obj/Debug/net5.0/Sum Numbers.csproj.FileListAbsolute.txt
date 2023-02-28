@@ -1,0 +1,16 @@
+D:\programiranee\for\Sum Numbers\bin\Debug\net5.0\Sum Numbers.exe
+D:\programiranee\for\Sum Numbers\bin\Debug\net5.0\Sum Numbers.deps.json
+D:\programiranee\for\Sum Numbers\bin\Debug\net5.0\Sum Numbers.runtimeconfig.json
+D:\programiranee\for\Sum Numbers\bin\Debug\net5.0\Sum Numbers.runtimeconfig.dev.json
+D:\programiranee\for\Sum Numbers\bin\Debug\net5.0\Sum Numbers.dll
+D:\programiranee\for\Sum Numbers\bin\Debug\net5.0\ref\Sum Numbers.dll
+D:\programiranee\for\Sum Numbers\bin\Debug\net5.0\Sum Numbers.pdb
+D:\programiranee\for\Sum Numbers\obj\Debug\net5.0\Sum Numbers.csproj.AssemblyReference.cache
+D:\programiranee\for\Sum Numbers\obj\Debug\net5.0\Sum Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\for\Sum Numbers\obj\Debug\net5.0\Sum Numbers.AssemblyInfoInputs.cache
+D:\programiranee\for\Sum Numbers\obj\Debug\net5.0\Sum Numbers.AssemblyInfo.cs
+D:\programiranee\for\Sum Numbers\obj\Debug\net5.0\Sum Numbers.csproj.CoreCompileInputs.cache
+D:\programiranee\for\Sum Numbers\obj\Debug\net5.0\Sum Numbers.dll
+D:\programiranee\for\Sum Numbers\obj\Debug\net5.0\ref\Sum Numbers.dll
+D:\programiranee\for\Sum Numbers\obj\Debug\net5.0\Sum Numbers.pdb
+D:\programiranee\for\Sum Numbers\obj\Debug\net5.0\Sum Numbers.genruntimeconfig.cache

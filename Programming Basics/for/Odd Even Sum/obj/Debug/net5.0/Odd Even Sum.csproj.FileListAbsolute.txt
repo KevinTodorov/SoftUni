@@ -1,0 +1,16 @@
+D:\programiranee\for\Odd Even Sum\bin\Debug\net5.0\Odd Even Sum.exe
+D:\programiranee\for\Odd Even Sum\bin\Debug\net5.0\Odd Even Sum.deps.json
+D:\programiranee\for\Odd Even Sum\bin\Debug\net5.0\Odd Even Sum.runtimeconfig.json
+D:\programiranee\for\Odd Even Sum\bin\Debug\net5.0\Odd Even Sum.runtimeconfig.dev.json
+D:\programiranee\for\Odd Even Sum\bin\Debug\net5.0\Odd Even Sum.dll
+D:\programiranee\for\Odd Even Sum\bin\Debug\net5.0\ref\Odd Even Sum.dll
+D:\programiranee\for\Odd Even Sum\bin\Debug\net5.0\Odd Even Sum.pdb
+D:\programiranee\for\Odd Even Sum\obj\Debug\net5.0\Odd Even Sum.csproj.AssemblyReference.cache
+D:\programiranee\for\Odd Even Sum\obj\Debug\net5.0\Odd Even Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\for\Odd Even Sum\obj\Debug\net5.0\Odd Even Sum.AssemblyInfoInputs.cache
+D:\programiranee\for\Odd Even Sum\obj\Debug\net5.0\Odd Even Sum.AssemblyInfo.cs
+D:\programiranee\for\Odd Even Sum\obj\Debug\net5.0\Odd Even Sum.csproj.CoreCompileInputs.cache
+D:\programiranee\for\Odd Even Sum\obj\Debug\net5.0\Odd Even Sum.dll
+D:\programiranee\for\Odd Even Sum\obj\Debug\net5.0\ref\Odd Even Sum.dll
+D:\programiranee\for\Odd Even Sum\obj\Debug\net5.0\Odd Even Sum.pdb
+D:\programiranee\for\Odd Even Sum\obj\Debug\net5.0\Odd Even Sum.genruntimeconfig.cache

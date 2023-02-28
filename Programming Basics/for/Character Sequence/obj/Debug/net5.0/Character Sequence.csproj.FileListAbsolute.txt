@@ -1,0 +1,15 @@
+D:\programiranee\for\Character Sequence\bin\Debug\net5.0\Character Sequence.exe
+D:\programiranee\for\Character Sequence\bin\Debug\net5.0\Character Sequence.deps.json
+D:\programiranee\for\Character Sequence\bin\Debug\net5.0\Character Sequence.runtimeconfig.json
+D:\programiranee\for\Character Sequence\bin\Debug\net5.0\Character Sequence.runtimeconfig.dev.json
+D:\programiranee\for\Character Sequence\bin\Debug\net5.0\Character Sequence.dll
+D:\programiranee\for\Character Sequence\bin\Debug\net5.0\ref\Character Sequence.dll
+D:\programiranee\for\Character Sequence\bin\Debug\net5.0\Character Sequence.pdb
+D:\programiranee\for\Character Sequence\obj\Debug\net5.0\Character Sequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\for\Character Sequence\obj\Debug\net5.0\Character Sequence.AssemblyInfoInputs.cache
+D:\programiranee\for\Character Sequence\obj\Debug\net5.0\Character Sequence.AssemblyInfo.cs
+D:\programiranee\for\Character Sequence\obj\Debug\net5.0\Character Sequence.csproj.CoreCompileInputs.cache
+D:\programiranee\for\Character Sequence\obj\Debug\net5.0\Character Sequence.dll
+D:\programiranee\for\Character Sequence\obj\Debug\net5.0\ref\Character Sequence.dll
+D:\programiranee\for\Character Sequence\obj\Debug\net5.0\Character Sequence.pdb
+D:\programiranee\for\Character Sequence\obj\Debug\net5.0\Character Sequence.genruntimeconfig.cache
