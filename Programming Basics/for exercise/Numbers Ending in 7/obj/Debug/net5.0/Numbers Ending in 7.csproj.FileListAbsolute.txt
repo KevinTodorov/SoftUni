@@ -1,0 +1,16 @@
+D:\programiranee\for\Numbers Ending in 7\bin\Debug\net5.0\Numbers Ending in 7.exe
+D:\programiranee\for\Numbers Ending in 7\bin\Debug\net5.0\Numbers Ending in 7.deps.json
+D:\programiranee\for\Numbers Ending in 7\bin\Debug\net5.0\Numbers Ending in 7.runtimeconfig.json
+D:\programiranee\for\Numbers Ending in 7\bin\Debug\net5.0\Numbers Ending in 7.runtimeconfig.dev.json
+D:\programiranee\for\Numbers Ending in 7\bin\Debug\net5.0\Numbers Ending in 7.dll
+D:\programiranee\for\Numbers Ending in 7\bin\Debug\net5.0\ref\Numbers Ending in 7.dll
+D:\programiranee\for\Numbers Ending in 7\bin\Debug\net5.0\Numbers Ending in 7.pdb
+D:\programiranee\for\Numbers Ending in 7\obj\Debug\net5.0\Numbers Ending in 7.csproj.AssemblyReference.cache
+D:\programiranee\for\Numbers Ending in 7\obj\Debug\net5.0\Numbers Ending in 7.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\for\Numbers Ending in 7\obj\Debug\net5.0\Numbers Ending in 7.AssemblyInfoInputs.cache
+D:\programiranee\for\Numbers Ending in 7\obj\Debug\net5.0\Numbers Ending in 7.AssemblyInfo.cs
+D:\programiranee\for\Numbers Ending in 7\obj\Debug\net5.0\Numbers Ending in 7.csproj.CoreCompileInputs.cache
+D:\programiranee\for\Numbers Ending in 7\obj\Debug\net5.0\Numbers Ending in 7.dll
+D:\programiranee\for\Numbers Ending in 7\obj\Debug\net5.0\ref\Numbers Ending in 7.dll
+D:\programiranee\for\Numbers Ending in 7\obj\Debug\net5.0\Numbers Ending in 7.pdb
+D:\programiranee\for\Numbers Ending in 7\obj\Debug\net5.0\Numbers Ending in 7.genruntimeconfig.cache

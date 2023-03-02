@@ -1,0 +1,16 @@
+D:\programiranee\Programming basics\for\Oscars\bin\Debug\net5.0\Oscars.exe
+D:\programiranee\Programming basics\for\Oscars\bin\Debug\net5.0\Oscars.deps.json
+D:\programiranee\Programming basics\for\Oscars\bin\Debug\net5.0\Oscars.runtimeconfig.json
+D:\programiranee\Programming basics\for\Oscars\bin\Debug\net5.0\Oscars.runtimeconfig.dev.json
+D:\programiranee\Programming basics\for\Oscars\bin\Debug\net5.0\Oscars.dll
+D:\programiranee\Programming basics\for\Oscars\bin\Debug\net5.0\ref\Oscars.dll
+D:\programiranee\Programming basics\for\Oscars\bin\Debug\net5.0\Oscars.pdb
+D:\programiranee\Programming basics\for\Oscars\obj\Debug\net5.0\Oscars.csproj.AssemblyReference.cache
+D:\programiranee\Programming basics\for\Oscars\obj\Debug\net5.0\Oscars.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Programming basics\for\Oscars\obj\Debug\net5.0\Oscars.AssemblyInfoInputs.cache
+D:\programiranee\Programming basics\for\Oscars\obj\Debug\net5.0\Oscars.AssemblyInfo.cs
+D:\programiranee\Programming basics\for\Oscars\obj\Debug\net5.0\Oscars.csproj.CoreCompileInputs.cache
+D:\programiranee\Programming basics\for\Oscars\obj\Debug\net5.0\Oscars.dll
+D:\programiranee\Programming basics\for\Oscars\obj\Debug\net5.0\ref\Oscars.dll
+D:\programiranee\Programming basics\for\Oscars\obj\Debug\net5.0\Oscars.pdb
+D:\programiranee\Programming basics\for\Oscars\obj\Debug\net5.0\Oscars.genruntimeconfig.cache

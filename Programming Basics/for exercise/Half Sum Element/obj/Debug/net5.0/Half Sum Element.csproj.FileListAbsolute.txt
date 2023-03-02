@@ -1,0 +1,16 @@
+D:\programiranee\for\Half Sum Element\bin\Debug\net5.0\Half Sum Element.exe
+D:\programiranee\for\Half Sum Element\bin\Debug\net5.0\Half Sum Element.deps.json
+D:\programiranee\for\Half Sum Element\bin\Debug\net5.0\Half Sum Element.runtimeconfig.json
+D:\programiranee\for\Half Sum Element\bin\Debug\net5.0\Half Sum Element.runtimeconfig.dev.json
+D:\programiranee\for\Half Sum Element\bin\Debug\net5.0\Half Sum Element.dll
+D:\programiranee\for\Half Sum Element\bin\Debug\net5.0\ref\Half Sum Element.dll
+D:\programiranee\for\Half Sum Element\bin\Debug\net5.0\Half Sum Element.pdb
+D:\programiranee\for\Half Sum Element\obj\Debug\net5.0\Half Sum Element.csproj.AssemblyReference.cache
+D:\programiranee\for\Half Sum Element\obj\Debug\net5.0\Half Sum Element.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\for\Half Sum Element\obj\Debug\net5.0\Half Sum Element.AssemblyInfoInputs.cache
+D:\programiranee\for\Half Sum Element\obj\Debug\net5.0\Half Sum Element.AssemblyInfo.cs
+D:\programiranee\for\Half Sum Element\obj\Debug\net5.0\Half Sum Element.csproj.CoreCompileInputs.cache
+D:\programiranee\for\Half Sum Element\obj\Debug\net5.0\Half Sum Element.dll
+D:\programiranee\for\Half Sum Element\obj\Debug\net5.0\ref\Half Sum Element.dll
+D:\programiranee\for\Half Sum Element\obj\Debug\net5.0\Half Sum Element.pdb
+D:\programiranee\for\Half Sum Element\obj\Debug\net5.0\Half Sum Element.genruntimeconfig.cache

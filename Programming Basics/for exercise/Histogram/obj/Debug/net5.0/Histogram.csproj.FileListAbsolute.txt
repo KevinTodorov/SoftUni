@@ -1,0 +1,15 @@
+D:\programiranee\for\Histogram\bin\Debug\net5.0\Histogram.exe
+D:\programiranee\for\Histogram\bin\Debug\net5.0\Histogram.deps.json
+D:\programiranee\for\Histogram\bin\Debug\net5.0\Histogram.runtimeconfig.json
+D:\programiranee\for\Histogram\bin\Debug\net5.0\Histogram.runtimeconfig.dev.json
+D:\programiranee\for\Histogram\bin\Debug\net5.0\Histogram.dll
+D:\programiranee\for\Histogram\bin\Debug\net5.0\ref\Histogram.dll
+D:\programiranee\for\Histogram\bin\Debug\net5.0\Histogram.pdb
+D:\programiranee\for\Histogram\obj\Debug\net5.0\Histogram.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\for\Histogram\obj\Debug\net5.0\Histogram.AssemblyInfoInputs.cache
+D:\programiranee\for\Histogram\obj\Debug\net5.0\Histogram.AssemblyInfo.cs
+D:\programiranee\for\Histogram\obj\Debug\net5.0\Histogram.csproj.CoreCompileInputs.cache
+D:\programiranee\for\Histogram\obj\Debug\net5.0\Histogram.dll
+D:\programiranee\for\Histogram\obj\Debug\net5.0\ref\Histogram.dll
+D:\programiranee\for\Histogram\obj\Debug\net5.0\Histogram.pdb
+D:\programiranee\for\Histogram\obj\Debug\net5.0\Histogram.genruntimeconfig.cache

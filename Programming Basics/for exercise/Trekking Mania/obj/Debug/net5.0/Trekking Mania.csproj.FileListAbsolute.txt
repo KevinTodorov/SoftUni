@@ -1,0 +1,15 @@
+D:\programiranee\for\Trekking Mania\bin\Debug\net5.0\Trekking Mania.exe
+D:\programiranee\for\Trekking Mania\bin\Debug\net5.0\Trekking Mania.deps.json
+D:\programiranee\for\Trekking Mania\bin\Debug\net5.0\Trekking Mania.runtimeconfig.json
+D:\programiranee\for\Trekking Mania\bin\Debug\net5.0\Trekking Mania.runtimeconfig.dev.json
+D:\programiranee\for\Trekking Mania\bin\Debug\net5.0\Trekking Mania.dll
+D:\programiranee\for\Trekking Mania\bin\Debug\net5.0\ref\Trekking Mania.dll
+D:\programiranee\for\Trekking Mania\bin\Debug\net5.0\Trekking Mania.pdb
+D:\programiranee\for\Trekking Mania\obj\Debug\net5.0\Trekking Mania.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\for\Trekking Mania\obj\Debug\net5.0\Trekking Mania.AssemblyInfoInputs.cache
+D:\programiranee\for\Trekking Mania\obj\Debug\net5.0\Trekking Mania.AssemblyInfo.cs
+D:\programiranee\for\Trekking Mania\obj\Debug\net5.0\Trekking Mania.csproj.CoreCompileInputs.cache
+D:\programiranee\for\Trekking Mania\obj\Debug\net5.0\Trekking Mania.dll
+D:\programiranee\for\Trekking Mania\obj\Debug\net5.0\ref\Trekking Mania.dll
+D:\programiranee\for\Trekking Mania\obj\Debug\net5.0\Trekking Mania.pdb
+D:\programiranee\for\Trekking Mania\obj\Debug\net5.0\Trekking Mania.genruntimeconfig.cache

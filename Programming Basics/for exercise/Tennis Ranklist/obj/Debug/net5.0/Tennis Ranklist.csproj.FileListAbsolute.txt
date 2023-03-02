@@ -1,0 +1,15 @@
+D:\programiranee\for\Tennis Ranklist\bin\Debug\net5.0\Tennis Ranklist.exe
+D:\programiranee\for\Tennis Ranklist\bin\Debug\net5.0\Tennis Ranklist.deps.json
+D:\programiranee\for\Tennis Ranklist\bin\Debug\net5.0\Tennis Ranklist.runtimeconfig.json
+D:\programiranee\for\Tennis Ranklist\bin\Debug\net5.0\Tennis Ranklist.runtimeconfig.dev.json
+D:\programiranee\for\Tennis Ranklist\bin\Debug\net5.0\Tennis Ranklist.dll
+D:\programiranee\for\Tennis Ranklist\bin\Debug\net5.0\ref\Tennis Ranklist.dll
+D:\programiranee\for\Tennis Ranklist\bin\Debug\net5.0\Tennis Ranklist.pdb
+D:\programiranee\for\Tennis Ranklist\obj\Debug\net5.0\Tennis Ranklist.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\for\Tennis Ranklist\obj\Debug\net5.0\Tennis Ranklist.AssemblyInfoInputs.cache
+D:\programiranee\for\Tennis Ranklist\obj\Debug\net5.0\Tennis Ranklist.AssemblyInfo.cs
+D:\programiranee\for\Tennis Ranklist\obj\Debug\net5.0\Tennis Ranklist.csproj.CoreCompileInputs.cache
+D:\programiranee\for\Tennis Ranklist\obj\Debug\net5.0\Tennis Ranklist.dll
+D:\programiranee\for\Tennis Ranklist\obj\Debug\net5.0\ref\Tennis Ranklist.dll
+D:\programiranee\for\Tennis Ranklist\obj\Debug\net5.0\Tennis Ranklist.pdb
+D:\programiranee\for\Tennis Ranklist\obj\Debug\net5.0\Tennis Ranklist.genruntimeconfig.cache

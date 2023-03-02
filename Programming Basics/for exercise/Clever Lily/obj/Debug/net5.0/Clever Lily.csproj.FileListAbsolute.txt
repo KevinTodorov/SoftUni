@@ -1,0 +1,15 @@
+D:\programiranee\for\Clever Lily\bin\Debug\net5.0\Clever Lily.exe
+D:\programiranee\for\Clever Lily\bin\Debug\net5.0\Clever Lily.deps.json
+D:\programiranee\for\Clever Lily\bin\Debug\net5.0\Clever Lily.runtimeconfig.json
+D:\programiranee\for\Clever Lily\bin\Debug\net5.0\Clever Lily.runtimeconfig.dev.json
+D:\programiranee\for\Clever Lily\bin\Debug\net5.0\Clever Lily.dll
+D:\programiranee\for\Clever Lily\bin\Debug\net5.0\ref\Clever Lily.dll
+D:\programiranee\for\Clever Lily\bin\Debug\net5.0\Clever Lily.pdb
+D:\programiranee\for\Clever Lily\obj\Debug\net5.0\Clever Lily.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\for\Clever Lily\obj\Debug\net5.0\Clever Lily.AssemblyInfoInputs.cache
+D:\programiranee\for\Clever Lily\obj\Debug\net5.0\Clever Lily.AssemblyInfo.cs
+D:\programiranee\for\Clever Lily\obj\Debug\net5.0\Clever Lily.csproj.CoreCompileInputs.cache
+D:\programiranee\for\Clever Lily\obj\Debug\net5.0\Clever Lily.dll
+D:\programiranee\for\Clever Lily\obj\Debug\net5.0\ref\Clever Lily.dll
+D:\programiranee\for\Clever Lily\obj\Debug\net5.0\Clever Lily.pdb
+D:\programiranee\for\Clever Lily\obj\Debug\net5.0\Clever Lily.genruntimeconfig.cache

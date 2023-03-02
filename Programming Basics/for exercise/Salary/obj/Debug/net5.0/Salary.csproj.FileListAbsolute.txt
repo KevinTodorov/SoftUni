@@ -1,0 +1,16 @@
+D:\programiranee\for\Salary\bin\Debug\net5.0\Salary.exe
+D:\programiranee\for\Salary\bin\Debug\net5.0\Salary.deps.json
+D:\programiranee\for\Salary\bin\Debug\net5.0\Salary.runtimeconfig.json
+D:\programiranee\for\Salary\bin\Debug\net5.0\Salary.runtimeconfig.dev.json
+D:\programiranee\for\Salary\bin\Debug\net5.0\Salary.dll
+D:\programiranee\for\Salary\bin\Debug\net5.0\ref\Salary.dll
+D:\programiranee\for\Salary\bin\Debug\net5.0\Salary.pdb
+D:\programiranee\for\Salary\obj\Debug\net5.0\Salary.csproj.AssemblyReference.cache
+D:\programiranee\for\Salary\obj\Debug\net5.0\Salary.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\for\Salary\obj\Debug\net5.0\Salary.AssemblyInfoInputs.cache
+D:\programiranee\for\Salary\obj\Debug\net5.0\Salary.AssemblyInfo.cs
+D:\programiranee\for\Salary\obj\Debug\net5.0\Salary.csproj.CoreCompileInputs.cache
+D:\programiranee\for\Salary\obj\Debug\net5.0\Salary.dll
+D:\programiranee\for\Salary\obj\Debug\net5.0\ref\Salary.dll
+D:\programiranee\for\Salary\obj\Debug\net5.0\Salary.pdb
+D:\programiranee\for\Salary\obj\Debug\net5.0\Salary.genruntimeconfig.cache
