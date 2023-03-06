@@ -1,0 +1,16 @@
+D:\programiranee\while\Account Balance\bin\Debug\net5.0\Account Balance.exe
+D:\programiranee\while\Account Balance\bin\Debug\net5.0\Account Balance.deps.json
+D:\programiranee\while\Account Balance\bin\Debug\net5.0\Account Balance.runtimeconfig.json
+D:\programiranee\while\Account Balance\bin\Debug\net5.0\Account Balance.runtimeconfig.dev.json
+D:\programiranee\while\Account Balance\bin\Debug\net5.0\Account Balance.dll
+D:\programiranee\while\Account Balance\bin\Debug\net5.0\ref\Account Balance.dll
+D:\programiranee\while\Account Balance\bin\Debug\net5.0\Account Balance.pdb
+D:\programiranee\while\Account Balance\obj\Debug\net5.0\Account Balance.csproj.AssemblyReference.cache
+D:\programiranee\while\Account Balance\obj\Debug\net5.0\Account Balance.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\while\Account Balance\obj\Debug\net5.0\Account Balance.AssemblyInfoInputs.cache
+D:\programiranee\while\Account Balance\obj\Debug\net5.0\Account Balance.AssemblyInfo.cs
+D:\programiranee\while\Account Balance\obj\Debug\net5.0\Account Balance.csproj.CoreCompileInputs.cache
+D:\programiranee\while\Account Balance\obj\Debug\net5.0\Account Balance.dll
+D:\programiranee\while\Account Balance\obj\Debug\net5.0\ref\Account Balance.dll
+D:\programiranee\while\Account Balance\obj\Debug\net5.0\Account Balance.pdb
+D:\programiranee\while\Account Balance\obj\Debug\net5.0\Account Balance.genruntimeconfig.cache

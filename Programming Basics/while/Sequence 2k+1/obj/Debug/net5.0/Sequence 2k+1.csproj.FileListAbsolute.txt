@@ -1,0 +1,15 @@
+D:\programiranee\while\Sequence 2k+1\bin\Debug\net5.0\Sequence 2k+1.exe
+D:\programiranee\while\Sequence 2k+1\bin\Debug\net5.0\Sequence 2k+1.deps.json
+D:\programiranee\while\Sequence 2k+1\bin\Debug\net5.0\Sequence 2k+1.runtimeconfig.json
+D:\programiranee\while\Sequence 2k+1\bin\Debug\net5.0\Sequence 2k+1.runtimeconfig.dev.json
+D:\programiranee\while\Sequence 2k+1\bin\Debug\net5.0\Sequence 2k+1.dll
+D:\programiranee\while\Sequence 2k+1\bin\Debug\net5.0\ref\Sequence 2k+1.dll
+D:\programiranee\while\Sequence 2k+1\bin\Debug\net5.0\Sequence 2k+1.pdb
+D:\programiranee\while\Sequence 2k+1\obj\Debug\net5.0\Sequence 2k+1.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\while\Sequence 2k+1\obj\Debug\net5.0\Sequence 2k+1.AssemblyInfoInputs.cache
+D:\programiranee\while\Sequence 2k+1\obj\Debug\net5.0\Sequence 2k+1.AssemblyInfo.cs
+D:\programiranee\while\Sequence 2k+1\obj\Debug\net5.0\Sequence 2k+1.csproj.CoreCompileInputs.cache
+D:\programiranee\while\Sequence 2k+1\obj\Debug\net5.0\Sequence 2k+1.dll
+D:\programiranee\while\Sequence 2k+1\obj\Debug\net5.0\ref\Sequence 2k+1.dll
+D:\programiranee\while\Sequence 2k+1\obj\Debug\net5.0\Sequence 2k+1.pdb
+D:\programiranee\while\Sequence 2k+1\obj\Debug\net5.0\Sequence 2k+1.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\programiranee\while\Vacation\bin\Debug\net5.0\Vacation.exe
+D:\programiranee\while\Vacation\bin\Debug\net5.0\Vacation.deps.json
+D:\programiranee\while\Vacation\bin\Debug\net5.0\Vacation.runtimeconfig.json
+D:\programiranee\while\Vacation\bin\Debug\net5.0\Vacation.runtimeconfig.dev.json
+D:\programiranee\while\Vacation\bin\Debug\net5.0\Vacation.dll
+D:\programiranee\while\Vacation\bin\Debug\net5.0\ref\Vacation.dll
+D:\programiranee\while\Vacation\bin\Debug\net5.0\Vacation.pdb
+D:\programiranee\while\Vacation\obj\Debug\net5.0\Vacation.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\while\Vacation\obj\Debug\net5.0\Vacation.AssemblyInfoInputs.cache
+D:\programiranee\while\Vacation\obj\Debug\net5.0\Vacation.AssemblyInfo.cs
+D:\programiranee\while\Vacation\obj\Debug\net5.0\Vacation.csproj.CoreCompileInputs.cache
+D:\programiranee\while\Vacation\obj\Debug\net5.0\Vacation.dll
+D:\programiranee\while\Vacation\obj\Debug\net5.0\ref\Vacation.dll
+D:\programiranee\while\Vacation\obj\Debug\net5.0\Vacation.pdb
+D:\programiranee\while\Vacation\obj\Debug\net5.0\Vacation.genruntimeconfig.cache
+D:\programiranee\while\Vacation\obj\Debug\net5.0\Vacation.csproj.AssemblyReference.cache

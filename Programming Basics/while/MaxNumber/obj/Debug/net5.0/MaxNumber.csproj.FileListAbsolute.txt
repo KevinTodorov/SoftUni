@@ -1,0 +1,16 @@
+D:\programiranee\while\MaxNumber\bin\Debug\net5.0\MaxNumber.exe
+D:\programiranee\while\MaxNumber\bin\Debug\net5.0\MaxNumber.deps.json
+D:\programiranee\while\MaxNumber\bin\Debug\net5.0\MaxNumber.runtimeconfig.json
+D:\programiranee\while\MaxNumber\bin\Debug\net5.0\MaxNumber.runtimeconfig.dev.json
+D:\programiranee\while\MaxNumber\bin\Debug\net5.0\MaxNumber.dll
+D:\programiranee\while\MaxNumber\bin\Debug\net5.0\ref\MaxNumber.dll
+D:\programiranee\while\MaxNumber\bin\Debug\net5.0\MaxNumber.pdb
+D:\programiranee\while\MaxNumber\obj\Debug\net5.0\MaxNumber.csproj.AssemblyReference.cache
+D:\programiranee\while\MaxNumber\obj\Debug\net5.0\MaxNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\while\MaxNumber\obj\Debug\net5.0\MaxNumber.AssemblyInfoInputs.cache
+D:\programiranee\while\MaxNumber\obj\Debug\net5.0\MaxNumber.AssemblyInfo.cs
+D:\programiranee\while\MaxNumber\obj\Debug\net5.0\MaxNumber.csproj.CoreCompileInputs.cache
+D:\programiranee\while\MaxNumber\obj\Debug\net5.0\MaxNumber.dll
+D:\programiranee\while\MaxNumber\obj\Debug\net5.0\ref\MaxNumber.dll
+D:\programiranee\while\MaxNumber\obj\Debug\net5.0\MaxNumber.pdb
+D:\programiranee\while\MaxNumber\obj\Debug\net5.0\MaxNumber.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\SumPrimeNonPrime\bin\Debug\net5.0\SumPrimeNonPrime.exe
+C:\Users\PC\source\repos\SumPrimeNonPrime\bin\Debug\net5.0\SumPrimeNonPrime.deps.json
+C:\Users\PC\source\repos\SumPrimeNonPrime\bin\Debug\net5.0\SumPrimeNonPrime.runtimeconfig.json
+C:\Users\PC\source\repos\SumPrimeNonPrime\bin\Debug\net5.0\SumPrimeNonPrime.runtimeconfig.dev.json
+C:\Users\PC\source\repos\SumPrimeNonPrime\bin\Debug\net5.0\SumPrimeNonPrime.dll
+C:\Users\PC\source\repos\SumPrimeNonPrime\bin\Debug\net5.0\ref\SumPrimeNonPrime.dll
+C:\Users\PC\source\repos\SumPrimeNonPrime\bin\Debug\net5.0\SumPrimeNonPrime.pdb
+C:\Users\PC\source\repos\SumPrimeNonPrime\obj\Debug\net5.0\SumPrimeNonPrime.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\SumPrimeNonPrime\obj\Debug\net5.0\SumPrimeNonPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\SumPrimeNonPrime\obj\Debug\net5.0\SumPrimeNonPrime.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\SumPrimeNonPrime\obj\Debug\net5.0\SumPrimeNonPrime.AssemblyInfo.cs
+C:\Users\PC\source\repos\SumPrimeNonPrime\obj\Debug\net5.0\SumPrimeNonPrime.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\SumPrimeNonPrime\obj\Debug\net5.0\SumPrimeNonPrime.dll
+C:\Users\PC\source\repos\SumPrimeNonPrime\obj\Debug\net5.0\ref\SumPrimeNonPrime.dll
+C:\Users\PC\source\repos\SumPrimeNonPrime\obj\Debug\net5.0\SumPrimeNonPrime.pdb
+C:\Users\PC\source\repos\SumPrimeNonPrime\obj\Debug\net5.0\SumPrimeNonPrime.genruntimeconfig.cache

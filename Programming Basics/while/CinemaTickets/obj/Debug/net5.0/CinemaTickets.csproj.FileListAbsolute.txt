@@ -1,0 +1,16 @@
+D:\programiranee\while\CinemaTickets\bin\Debug\net5.0\CinemaTickets.exe
+D:\programiranee\while\CinemaTickets\bin\Debug\net5.0\CinemaTickets.deps.json
+D:\programiranee\while\CinemaTickets\bin\Debug\net5.0\CinemaTickets.runtimeconfig.json
+D:\programiranee\while\CinemaTickets\bin\Debug\net5.0\CinemaTickets.runtimeconfig.dev.json
+D:\programiranee\while\CinemaTickets\bin\Debug\net5.0\CinemaTickets.dll
+D:\programiranee\while\CinemaTickets\bin\Debug\net5.0\ref\CinemaTickets.dll
+D:\programiranee\while\CinemaTickets\bin\Debug\net5.0\CinemaTickets.pdb
+D:\programiranee\while\CinemaTickets\obj\Debug\net5.0\CinemaTickets.csproj.AssemblyReference.cache
+D:\programiranee\while\CinemaTickets\obj\Debug\net5.0\CinemaTickets.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\while\CinemaTickets\obj\Debug\net5.0\CinemaTickets.AssemblyInfoInputs.cache
+D:\programiranee\while\CinemaTickets\obj\Debug\net5.0\CinemaTickets.AssemblyInfo.cs
+D:\programiranee\while\CinemaTickets\obj\Debug\net5.0\CinemaTickets.csproj.CoreCompileInputs.cache
+D:\programiranee\while\CinemaTickets\obj\Debug\net5.0\CinemaTickets.dll
+D:\programiranee\while\CinemaTickets\obj\Debug\net5.0\ref\CinemaTickets.dll
+D:\programiranee\while\CinemaTickets\obj\Debug\net5.0\CinemaTickets.pdb
+D:\programiranee\while\CinemaTickets\obj\Debug\net5.0\CinemaTickets.genruntimeconfig.cache

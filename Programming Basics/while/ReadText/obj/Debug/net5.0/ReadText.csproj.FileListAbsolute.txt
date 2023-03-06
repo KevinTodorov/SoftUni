@@ -1,0 +1,16 @@
+D:\programiranee\for\ReadText\bin\Debug\net5.0\ReadText.exe
+D:\programiranee\for\ReadText\bin\Debug\net5.0\ReadText.deps.json
+D:\programiranee\for\ReadText\bin\Debug\net5.0\ReadText.runtimeconfig.json
+D:\programiranee\for\ReadText\bin\Debug\net5.0\ReadText.runtimeconfig.dev.json
+D:\programiranee\for\ReadText\bin\Debug\net5.0\ReadText.dll
+D:\programiranee\for\ReadText\bin\Debug\net5.0\ref\ReadText.dll
+D:\programiranee\for\ReadText\bin\Debug\net5.0\ReadText.pdb
+D:\programiranee\for\ReadText\obj\Debug\net5.0\ReadText.csproj.AssemblyReference.cache
+D:\programiranee\for\ReadText\obj\Debug\net5.0\ReadText.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\for\ReadText\obj\Debug\net5.0\ReadText.AssemblyInfoInputs.cache
+D:\programiranee\for\ReadText\obj\Debug\net5.0\ReadText.AssemblyInfo.cs
+D:\programiranee\for\ReadText\obj\Debug\net5.0\ReadText.csproj.CoreCompileInputs.cache
+D:\programiranee\for\ReadText\obj\Debug\net5.0\ReadText.dll
+D:\programiranee\for\ReadText\obj\Debug\net5.0\ref\ReadText.dll
+D:\programiranee\for\ReadText\obj\Debug\net5.0\ReadText.pdb
+D:\programiranee\for\ReadText\obj\Debug\net5.0\ReadText.genruntimeconfig.cache

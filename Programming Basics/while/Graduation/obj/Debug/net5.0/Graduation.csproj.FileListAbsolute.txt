@@ -1,0 +1,16 @@
+D:\programiranee\while\Graduation\bin\Debug\net5.0\Graduation.exe
+D:\programiranee\while\Graduation\bin\Debug\net5.0\Graduation.deps.json
+D:\programiranee\while\Graduation\bin\Debug\net5.0\Graduation.runtimeconfig.json
+D:\programiranee\while\Graduation\bin\Debug\net5.0\Graduation.runtimeconfig.dev.json
+D:\programiranee\while\Graduation\bin\Debug\net5.0\Graduation.dll
+D:\programiranee\while\Graduation\bin\Debug\net5.0\ref\Graduation.dll
+D:\programiranee\while\Graduation\bin\Debug\net5.0\Graduation.pdb
+D:\programiranee\while\Graduation\obj\Debug\net5.0\Graduation.csproj.AssemblyReference.cache
+D:\programiranee\while\Graduation\obj\Debug\net5.0\Graduation.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\while\Graduation\obj\Debug\net5.0\Graduation.AssemblyInfoInputs.cache
+D:\programiranee\while\Graduation\obj\Debug\net5.0\Graduation.AssemblyInfo.cs
+D:\programiranee\while\Graduation\obj\Debug\net5.0\Graduation.csproj.CoreCompileInputs.cache
+D:\programiranee\while\Graduation\obj\Debug\net5.0\Graduation.dll
+D:\programiranee\while\Graduation\obj\Debug\net5.0\ref\Graduation.dll
+D:\programiranee\while\Graduation\obj\Debug\net5.0\Graduation.pdb
+D:\programiranee\while\Graduation\obj\Debug\net5.0\Graduation.genruntimeconfig.cache
