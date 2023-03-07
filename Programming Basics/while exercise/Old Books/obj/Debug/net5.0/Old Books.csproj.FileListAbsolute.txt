@@ -1,0 +1,16 @@
+D:\programiranee\while\Old Books\bin\Debug\net5.0\Old Books.exe
+D:\programiranee\while\Old Books\bin\Debug\net5.0\Old Books.deps.json
+D:\programiranee\while\Old Books\bin\Debug\net5.0\Old Books.runtimeconfig.json
+D:\programiranee\while\Old Books\bin\Debug\net5.0\Old Books.runtimeconfig.dev.json
+D:\programiranee\while\Old Books\bin\Debug\net5.0\Old Books.dll
+D:\programiranee\while\Old Books\bin\Debug\net5.0\ref\Old Books.dll
+D:\programiranee\while\Old Books\bin\Debug\net5.0\Old Books.pdb
+D:\programiranee\while\Old Books\obj\Debug\net5.0\Old Books.csproj.AssemblyReference.cache
+D:\programiranee\while\Old Books\obj\Debug\net5.0\Old Books.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\while\Old Books\obj\Debug\net5.0\Old Books.AssemblyInfoInputs.cache
+D:\programiranee\while\Old Books\obj\Debug\net5.0\Old Books.AssemblyInfo.cs
+D:\programiranee\while\Old Books\obj\Debug\net5.0\Old Books.csproj.CoreCompileInputs.cache
+D:\programiranee\while\Old Books\obj\Debug\net5.0\Old Books.dll
+D:\programiranee\while\Old Books\obj\Debug\net5.0\ref\Old Books.dll
+D:\programiranee\while\Old Books\obj\Debug\net5.0\Old Books.pdb
+D:\programiranee\while\Old Books\obj\Debug\net5.0\Old Books.genruntimeconfig.cache

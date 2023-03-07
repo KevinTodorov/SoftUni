@@ -1,0 +1,16 @@
+D:\programiranee\while\Exam Preparation\bin\Debug\net5.0\Exam Preparation.exe
+D:\programiranee\while\Exam Preparation\bin\Debug\net5.0\Exam Preparation.deps.json
+D:\programiranee\while\Exam Preparation\bin\Debug\net5.0\Exam Preparation.runtimeconfig.json
+D:\programiranee\while\Exam Preparation\bin\Debug\net5.0\Exam Preparation.runtimeconfig.dev.json
+D:\programiranee\while\Exam Preparation\bin\Debug\net5.0\Exam Preparation.dll
+D:\programiranee\while\Exam Preparation\bin\Debug\net5.0\ref\Exam Preparation.dll
+D:\programiranee\while\Exam Preparation\bin\Debug\net5.0\Exam Preparation.pdb
+D:\programiranee\while\Exam Preparation\obj\Debug\net5.0\Exam Preparation.csproj.AssemblyReference.cache
+D:\programiranee\while\Exam Preparation\obj\Debug\net5.0\Exam Preparation.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\while\Exam Preparation\obj\Debug\net5.0\Exam Preparation.AssemblyInfoInputs.cache
+D:\programiranee\while\Exam Preparation\obj\Debug\net5.0\Exam Preparation.AssemblyInfo.cs
+D:\programiranee\while\Exam Preparation\obj\Debug\net5.0\Exam Preparation.csproj.CoreCompileInputs.cache
+D:\programiranee\while\Exam Preparation\obj\Debug\net5.0\Exam Preparation.dll
+D:\programiranee\while\Exam Preparation\obj\Debug\net5.0\ref\Exam Preparation.dll
+D:\programiranee\while\Exam Preparation\obj\Debug\net5.0\Exam Preparation.pdb
+D:\programiranee\while\Exam Preparation\obj\Debug\net5.0\Exam Preparation.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\programiranee\while\Cake\bin\Debug\net5.0\Cake.exe
+D:\programiranee\while\Cake\bin\Debug\net5.0\Cake.deps.json
+D:\programiranee\while\Cake\bin\Debug\net5.0\Cake.runtimeconfig.json
+D:\programiranee\while\Cake\bin\Debug\net5.0\Cake.runtimeconfig.dev.json
+D:\programiranee\while\Cake\bin\Debug\net5.0\Cake.dll
+D:\programiranee\while\Cake\bin\Debug\net5.0\ref\Cake.dll
+D:\programiranee\while\Cake\bin\Debug\net5.0\Cake.pdb
+D:\programiranee\while\Cake\obj\Debug\net5.0\Cake.csproj.AssemblyReference.cache
+D:\programiranee\while\Cake\obj\Debug\net5.0\Cake.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\while\Cake\obj\Debug\net5.0\Cake.AssemblyInfoInputs.cache
+D:\programiranee\while\Cake\obj\Debug\net5.0\Cake.AssemblyInfo.cs
+D:\programiranee\while\Cake\obj\Debug\net5.0\Cake.csproj.CoreCompileInputs.cache
+D:\programiranee\while\Cake\obj\Debug\net5.0\Cake.dll
+D:\programiranee\while\Cake\obj\Debug\net5.0\ref\Cake.dll
+D:\programiranee\while\Cake\obj\Debug\net5.0\Cake.pdb
+D:\programiranee\while\Cake\obj\Debug\net5.0\Cake.genruntimeconfig.cache

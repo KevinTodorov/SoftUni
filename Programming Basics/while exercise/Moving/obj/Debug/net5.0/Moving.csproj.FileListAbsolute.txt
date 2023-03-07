@@ -1,0 +1,15 @@
+D:\programiranee\while\Moving\bin\Debug\net5.0\Moving.exe
+D:\programiranee\while\Moving\bin\Debug\net5.0\Moving.deps.json
+D:\programiranee\while\Moving\bin\Debug\net5.0\Moving.runtimeconfig.json
+D:\programiranee\while\Moving\bin\Debug\net5.0\Moving.runtimeconfig.dev.json
+D:\programiranee\while\Moving\bin\Debug\net5.0\Moving.dll
+D:\programiranee\while\Moving\bin\Debug\net5.0\ref\Moving.dll
+D:\programiranee\while\Moving\bin\Debug\net5.0\Moving.pdb
+D:\programiranee\while\Moving\obj\Debug\net5.0\Moving.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\while\Moving\obj\Debug\net5.0\Moving.AssemblyInfoInputs.cache
+D:\programiranee\while\Moving\obj\Debug\net5.0\Moving.AssemblyInfo.cs
+D:\programiranee\while\Moving\obj\Debug\net5.0\Moving.csproj.CoreCompileInputs.cache
+D:\programiranee\while\Moving\obj\Debug\net5.0\Moving.dll
+D:\programiranee\while\Moving\obj\Debug\net5.0\ref\Moving.dll
+D:\programiranee\while\Moving\obj\Debug\net5.0\Moving.pdb
+D:\programiranee\while\Moving\obj\Debug\net5.0\Moving.genruntimeconfig.cache

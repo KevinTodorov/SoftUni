@@ -1,0 +1,16 @@
+D:\programiranee\while\Coins\bin\Debug\net5.0\Coins.exe
+D:\programiranee\while\Coins\bin\Debug\net5.0\Coins.deps.json
+D:\programiranee\while\Coins\bin\Debug\net5.0\Coins.runtimeconfig.json
+D:\programiranee\while\Coins\bin\Debug\net5.0\Coins.runtimeconfig.dev.json
+D:\programiranee\while\Coins\bin\Debug\net5.0\Coins.dll
+D:\programiranee\while\Coins\bin\Debug\net5.0\ref\Coins.dll
+D:\programiranee\while\Coins\bin\Debug\net5.0\Coins.pdb
+D:\programiranee\while\Coins\obj\Debug\net5.0\Coins.csproj.AssemblyReference.cache
+D:\programiranee\while\Coins\obj\Debug\net5.0\Coins.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\while\Coins\obj\Debug\net5.0\Coins.AssemblyInfoInputs.cache
+D:\programiranee\while\Coins\obj\Debug\net5.0\Coins.AssemblyInfo.cs
+D:\programiranee\while\Coins\obj\Debug\net5.0\Coins.csproj.CoreCompileInputs.cache
+D:\programiranee\while\Coins\obj\Debug\net5.0\Coins.dll
+D:\programiranee\while\Coins\obj\Debug\net5.0\ref\Coins.dll
+D:\programiranee\while\Coins\obj\Debug\net5.0\Coins.pdb
+D:\programiranee\while\Coins\obj\Debug\net5.0\Coins.genruntimeconfig.cache
