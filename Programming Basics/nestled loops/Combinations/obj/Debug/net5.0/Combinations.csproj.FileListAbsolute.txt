@@ -1,0 +1,15 @@
+D:\programiranee\nestled loops\Combinations\bin\Debug\net5.0\Combinations.exe
+D:\programiranee\nestled loops\Combinations\bin\Debug\net5.0\Combinations.deps.json
+D:\programiranee\nestled loops\Combinations\bin\Debug\net5.0\Combinations.runtimeconfig.json
+D:\programiranee\nestled loops\Combinations\bin\Debug\net5.0\Combinations.runtimeconfig.dev.json
+D:\programiranee\nestled loops\Combinations\bin\Debug\net5.0\Combinations.dll
+D:\programiranee\nestled loops\Combinations\bin\Debug\net5.0\ref\Combinations.dll
+D:\programiranee\nestled loops\Combinations\bin\Debug\net5.0\Combinations.pdb
+D:\programiranee\nestled loops\Combinations\obj\Debug\net5.0\Combinations.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\nestled loops\Combinations\obj\Debug\net5.0\Combinations.AssemblyInfoInputs.cache
+D:\programiranee\nestled loops\Combinations\obj\Debug\net5.0\Combinations.AssemblyInfo.cs
+D:\programiranee\nestled loops\Combinations\obj\Debug\net5.0\Combinations.csproj.CoreCompileInputs.cache
+D:\programiranee\nestled loops\Combinations\obj\Debug\net5.0\Combinations.dll
+D:\programiranee\nestled loops\Combinations\obj\Debug\net5.0\ref\Combinations.dll
+D:\programiranee\nestled loops\Combinations\obj\Debug\net5.0\Combinations.pdb
+D:\programiranee\nestled loops\Combinations\obj\Debug\net5.0\Combinations.genruntimeconfig.cache

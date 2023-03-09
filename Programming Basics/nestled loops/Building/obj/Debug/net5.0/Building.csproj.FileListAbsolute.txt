@@ -1,0 +1,16 @@
+D:\programiranee\nestled loops\Building\bin\Debug\net5.0\Building.exe
+D:\programiranee\nestled loops\Building\bin\Debug\net5.0\Building.deps.json
+D:\programiranee\nestled loops\Building\bin\Debug\net5.0\Building.runtimeconfig.json
+D:\programiranee\nestled loops\Building\bin\Debug\net5.0\Building.runtimeconfig.dev.json
+D:\programiranee\nestled loops\Building\bin\Debug\net5.0\Building.dll
+D:\programiranee\nestled loops\Building\bin\Debug\net5.0\ref\Building.dll
+D:\programiranee\nestled loops\Building\bin\Debug\net5.0\Building.pdb
+D:\programiranee\nestled loops\Building\obj\Debug\net5.0\Building.csproj.AssemblyReference.cache
+D:\programiranee\nestled loops\Building\obj\Debug\net5.0\Building.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\nestled loops\Building\obj\Debug\net5.0\Building.AssemblyInfoInputs.cache
+D:\programiranee\nestled loops\Building\obj\Debug\net5.0\Building.AssemblyInfo.cs
+D:\programiranee\nestled loops\Building\obj\Debug\net5.0\Building.csproj.CoreCompileInputs.cache
+D:\programiranee\nestled loops\Building\obj\Debug\net5.0\Building.dll
+D:\programiranee\nestled loops\Building\obj\Debug\net5.0\ref\Building.dll
+D:\programiranee\nestled loops\Building\obj\Debug\net5.0\Building.pdb
+D:\programiranee\nestled loops\Building\obj\Debug\net5.0\Building.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\programiranee\nestled loops\SumOfTwoNumbers\bin\Debug\net5.0\SumOfTwoNumbers.exe
+D:\programiranee\nestled loops\SumOfTwoNumbers\bin\Debug\net5.0\SumOfTwoNumbers.deps.json
+D:\programiranee\nestled loops\SumOfTwoNumbers\bin\Debug\net5.0\SumOfTwoNumbers.runtimeconfig.json
+D:\programiranee\nestled loops\SumOfTwoNumbers\bin\Debug\net5.0\SumOfTwoNumbers.runtimeconfig.dev.json
+D:\programiranee\nestled loops\SumOfTwoNumbers\bin\Debug\net5.0\SumOfTwoNumbers.dll
+D:\programiranee\nestled loops\SumOfTwoNumbers\bin\Debug\net5.0\ref\SumOfTwoNumbers.dll
+D:\programiranee\nestled loops\SumOfTwoNumbers\bin\Debug\net5.0\SumOfTwoNumbers.pdb
+D:\programiranee\nestled loops\SumOfTwoNumbers\obj\Debug\net5.0\SumOfTwoNumbers.csproj.AssemblyReference.cache
+D:\programiranee\nestled loops\SumOfTwoNumbers\obj\Debug\net5.0\SumOfTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\nestled loops\SumOfTwoNumbers\obj\Debug\net5.0\SumOfTwoNumbers.AssemblyInfoInputs.cache
+D:\programiranee\nestled loops\SumOfTwoNumbers\obj\Debug\net5.0\SumOfTwoNumbers.AssemblyInfo.cs
+D:\programiranee\nestled loops\SumOfTwoNumbers\obj\Debug\net5.0\SumOfTwoNumbers.csproj.CoreCompileInputs.cache
+D:\programiranee\nestled loops\SumOfTwoNumbers\obj\Debug\net5.0\SumOfTwoNumbers.dll
+D:\programiranee\nestled loops\SumOfTwoNumbers\obj\Debug\net5.0\ref\SumOfTwoNumbers.dll
+D:\programiranee\nestled loops\SumOfTwoNumbers\obj\Debug\net5.0\SumOfTwoNumbers.pdb
+D:\programiranee\nestled loops\SumOfTwoNumbers\obj\Debug\net5.0\SumOfTwoNumbers.genruntimeconfig.cache

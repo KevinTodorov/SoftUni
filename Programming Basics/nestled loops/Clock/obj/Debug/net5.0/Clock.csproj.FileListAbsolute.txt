@@ -1,0 +1,16 @@
+D:\programiranee\nestled loops\Clock\bin\Debug\net5.0\Clock.exe
+D:\programiranee\nestled loops\Clock\bin\Debug\net5.0\Clock.deps.json
+D:\programiranee\nestled loops\Clock\bin\Debug\net5.0\Clock.runtimeconfig.json
+D:\programiranee\nestled loops\Clock\bin\Debug\net5.0\Clock.runtimeconfig.dev.json
+D:\programiranee\nestled loops\Clock\bin\Debug\net5.0\Clock.dll
+D:\programiranee\nestled loops\Clock\bin\Debug\net5.0\ref\Clock.dll
+D:\programiranee\nestled loops\Clock\bin\Debug\net5.0\Clock.pdb
+D:\programiranee\nestled loops\Clock\obj\Debug\net5.0\Clock.csproj.AssemblyReference.cache
+D:\programiranee\nestled loops\Clock\obj\Debug\net5.0\Clock.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\nestled loops\Clock\obj\Debug\net5.0\Clock.AssemblyInfoInputs.cache
+D:\programiranee\nestled loops\Clock\obj\Debug\net5.0\Clock.AssemblyInfo.cs
+D:\programiranee\nestled loops\Clock\obj\Debug\net5.0\Clock.csproj.CoreCompileInputs.cache
+D:\programiranee\nestled loops\Clock\obj\Debug\net5.0\Clock.dll
+D:\programiranee\nestled loops\Clock\obj\Debug\net5.0\ref\Clock.dll
+D:\programiranee\nestled loops\Clock\obj\Debug\net5.0\Clock.pdb
+D:\programiranee\nestled loops\Clock\obj\Debug\net5.0\Clock.genruntimeconfig.cache

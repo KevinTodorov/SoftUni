@@ -1,0 +1,15 @@
+D:\programiranee\nestled loops\Travelling\bin\Debug\net5.0\Travelling.exe
+D:\programiranee\nestled loops\Travelling\bin\Debug\net5.0\Travelling.deps.json
+D:\programiranee\nestled loops\Travelling\bin\Debug\net5.0\Travelling.runtimeconfig.json
+D:\programiranee\nestled loops\Travelling\bin\Debug\net5.0\Travelling.runtimeconfig.dev.json
+D:\programiranee\nestled loops\Travelling\bin\Debug\net5.0\Travelling.dll
+D:\programiranee\nestled loops\Travelling\bin\Debug\net5.0\ref\Travelling.dll
+D:\programiranee\nestled loops\Travelling\bin\Debug\net5.0\Travelling.pdb
+D:\programiranee\nestled loops\Travelling\obj\Debug\net5.0\Travelling.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\nestled loops\Travelling\obj\Debug\net5.0\Travelling.AssemblyInfoInputs.cache
+D:\programiranee\nestled loops\Travelling\obj\Debug\net5.0\Travelling.AssemblyInfo.cs
+D:\programiranee\nestled loops\Travelling\obj\Debug\net5.0\Travelling.csproj.CoreCompileInputs.cache
+D:\programiranee\nestled loops\Travelling\obj\Debug\net5.0\Travelling.dll
+D:\programiranee\nestled loops\Travelling\obj\Debug\net5.0\ref\Travelling.dll
+D:\programiranee\nestled loops\Travelling\obj\Debug\net5.0\Travelling.pdb
+D:\programiranee\nestled loops\Travelling\obj\Debug\net5.0\Travelling.genruntimeconfig.cache
