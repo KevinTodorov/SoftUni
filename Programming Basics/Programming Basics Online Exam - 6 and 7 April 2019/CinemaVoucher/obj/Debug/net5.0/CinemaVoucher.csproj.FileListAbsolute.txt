@@ -1,0 +1,16 @@
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\CinemaVoucher\bin\Debug\net5.0\CinemaVoucher.exe
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\CinemaVoucher\bin\Debug\net5.0\CinemaVoucher.deps.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\CinemaVoucher\bin\Debug\net5.0\CinemaVoucher.runtimeconfig.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\CinemaVoucher\bin\Debug\net5.0\CinemaVoucher.runtimeconfig.dev.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\CinemaVoucher\bin\Debug\net5.0\CinemaVoucher.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\CinemaVoucher\bin\Debug\net5.0\ref\CinemaVoucher.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\CinemaVoucher\bin\Debug\net5.0\CinemaVoucher.pdb
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\CinemaVoucher\obj\Debug\net5.0\CinemaVoucher.csproj.AssemblyReference.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\CinemaVoucher\obj\Debug\net5.0\CinemaVoucher.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\CinemaVoucher\obj\Debug\net5.0\CinemaVoucher.AssemblyInfoInputs.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\CinemaVoucher\obj\Debug\net5.0\CinemaVoucher.AssemblyInfo.cs
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\CinemaVoucher\obj\Debug\net5.0\CinemaVoucher.csproj.CoreCompileInputs.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\CinemaVoucher\obj\Debug\net5.0\CinemaVoucher.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\CinemaVoucher\obj\Debug\net5.0\ref\CinemaVoucher.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\CinemaVoucher\obj\Debug\net5.0\CinemaVoucher.pdb
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\CinemaVoucher\obj\Debug\net5.0\CinemaVoucher.genruntimeconfig.cache

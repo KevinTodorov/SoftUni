@@ -1,0 +1,16 @@
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\OscarsCeremony\bin\Debug\net5.0\OscarsCeremony.exe
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\OscarsCeremony\bin\Debug\net5.0\OscarsCeremony.deps.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\OscarsCeremony\bin\Debug\net5.0\OscarsCeremony.runtimeconfig.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\OscarsCeremony\bin\Debug\net5.0\OscarsCeremony.runtimeconfig.dev.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\OscarsCeremony\bin\Debug\net5.0\OscarsCeremony.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\OscarsCeremony\bin\Debug\net5.0\ref\OscarsCeremony.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\OscarsCeremony\bin\Debug\net5.0\OscarsCeremony.pdb
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\OscarsCeremony\obj\Debug\net5.0\OscarsCeremony.csproj.AssemblyReference.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\OscarsCeremony\obj\Debug\net5.0\OscarsCeremony.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\OscarsCeremony\obj\Debug\net5.0\OscarsCeremony.AssemblyInfoInputs.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\OscarsCeremony\obj\Debug\net5.0\OscarsCeremony.AssemblyInfo.cs
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\OscarsCeremony\obj\Debug\net5.0\OscarsCeremony.csproj.CoreCompileInputs.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\OscarsCeremony\obj\Debug\net5.0\OscarsCeremony.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\OscarsCeremony\obj\Debug\net5.0\ref\OscarsCeremony.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\OscarsCeremony\obj\Debug\net5.0\OscarsCeremony.pdb
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\OscarsCeremony\obj\Debug\net5.0\OscarsCeremony.genruntimeconfig.cache

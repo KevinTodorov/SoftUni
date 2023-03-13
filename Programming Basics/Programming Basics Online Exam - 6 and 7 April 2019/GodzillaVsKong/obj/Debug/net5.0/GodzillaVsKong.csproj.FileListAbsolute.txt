@@ -1,0 +1,16 @@
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\GodzillaVsKong\bin\Debug\net5.0\GodzillaVsKong.exe
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\GodzillaVsKong\bin\Debug\net5.0\GodzillaVsKong.deps.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\GodzillaVsKong\bin\Debug\net5.0\GodzillaVsKong.runtimeconfig.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\GodzillaVsKong\bin\Debug\net5.0\GodzillaVsKong.runtimeconfig.dev.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\GodzillaVsKong\bin\Debug\net5.0\GodzillaVsKong.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\GodzillaVsKong\bin\Debug\net5.0\ref\GodzillaVsKong.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\GodzillaVsKong\bin\Debug\net5.0\GodzillaVsKong.pdb
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\GodzillaVsKong\obj\Debug\net5.0\GodzillaVsKong.csproj.AssemblyReference.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\GodzillaVsKong\obj\Debug\net5.0\GodzillaVsKong.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\GodzillaVsKong\obj\Debug\net5.0\GodzillaVsKong.AssemblyInfoInputs.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\GodzillaVsKong\obj\Debug\net5.0\GodzillaVsKong.AssemblyInfo.cs
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\GodzillaVsKong\obj\Debug\net5.0\GodzillaVsKong.csproj.CoreCompileInputs.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\GodzillaVsKong\obj\Debug\net5.0\GodzillaVsKong.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\GodzillaVsKong\obj\Debug\net5.0\ref\GodzillaVsKong.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\GodzillaVsKong\obj\Debug\net5.0\GodzillaVsKong.pdb
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\GodzillaVsKong\obj\Debug\net5.0\GodzillaVsKong.genruntimeconfig.cache

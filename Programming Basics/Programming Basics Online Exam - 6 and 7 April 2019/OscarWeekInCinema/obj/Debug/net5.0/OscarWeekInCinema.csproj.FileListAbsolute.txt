@@ -1,0 +1,16 @@
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\OscarWeekInCinema\bin\Debug\net5.0\OscarWeekInCinema.exe
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\OscarWeekInCinema\bin\Debug\net5.0\OscarWeekInCinema.deps.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\OscarWeekInCinema\bin\Debug\net5.0\OscarWeekInCinema.runtimeconfig.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\OscarWeekInCinema\bin\Debug\net5.0\OscarWeekInCinema.runtimeconfig.dev.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\OscarWeekInCinema\bin\Debug\net5.0\OscarWeekInCinema.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\OscarWeekInCinema\bin\Debug\net5.0\ref\OscarWeekInCinema.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\OscarWeekInCinema\bin\Debug\net5.0\OscarWeekInCinema.pdb
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\OscarWeekInCinema\obj\Debug\net5.0\OscarWeekInCinema.csproj.AssemblyReference.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\OscarWeekInCinema\obj\Debug\net5.0\OscarWeekInCinema.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\OscarWeekInCinema\obj\Debug\net5.0\OscarWeekInCinema.AssemblyInfoInputs.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\OscarWeekInCinema\obj\Debug\net5.0\OscarWeekInCinema.AssemblyInfo.cs
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\OscarWeekInCinema\obj\Debug\net5.0\OscarWeekInCinema.csproj.CoreCompileInputs.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\OscarWeekInCinema\obj\Debug\net5.0\OscarWeekInCinema.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\OscarWeekInCinema\obj\Debug\net5.0\ref\OscarWeekInCinema.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\OscarWeekInCinema\obj\Debug\net5.0\OscarWeekInCinema.pdb
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\OscarWeekInCinema\obj\Debug\net5.0\OscarWeekInCinema.genruntimeconfig.cache

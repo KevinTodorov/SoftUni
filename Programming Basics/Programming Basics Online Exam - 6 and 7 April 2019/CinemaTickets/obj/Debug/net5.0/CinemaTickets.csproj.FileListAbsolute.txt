@@ -1,0 +1,15 @@
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\CinemaTickets\bin\Debug\net5.0\CinemaTickets.exe
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\CinemaTickets\bin\Debug\net5.0\CinemaTickets.deps.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\CinemaTickets\bin\Debug\net5.0\CinemaTickets.runtimeconfig.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\CinemaTickets\bin\Debug\net5.0\CinemaTickets.runtimeconfig.dev.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\CinemaTickets\bin\Debug\net5.0\CinemaTickets.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\CinemaTickets\bin\Debug\net5.0\ref\CinemaTickets.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\CinemaTickets\bin\Debug\net5.0\CinemaTickets.pdb
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\CinemaTickets\obj\Debug\net5.0\CinemaTickets.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\CinemaTickets\obj\Debug\net5.0\CinemaTickets.AssemblyInfoInputs.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\CinemaTickets\obj\Debug\net5.0\CinemaTickets.AssemblyInfo.cs
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\CinemaTickets\obj\Debug\net5.0\CinemaTickets.csproj.CoreCompileInputs.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\CinemaTickets\obj\Debug\net5.0\CinemaTickets.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\CinemaTickets\obj\Debug\net5.0\ref\CinemaTickets.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\CinemaTickets\obj\Debug\net5.0\CinemaTickets.pdb
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\CinemaTickets\obj\Debug\net5.0\CinemaTickets.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\MovieRatings\bin\Debug\net5.0\MovieRatings.exe
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\MovieRatings\bin\Debug\net5.0\MovieRatings.deps.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\MovieRatings\bin\Debug\net5.0\MovieRatings.runtimeconfig.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\MovieRatings\bin\Debug\net5.0\MovieRatings.runtimeconfig.dev.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\MovieRatings\bin\Debug\net5.0\MovieRatings.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\MovieRatings\bin\Debug\net5.0\ref\MovieRatings.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\MovieRatings\bin\Debug\net5.0\MovieRatings.pdb
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\MovieRatings\obj\Debug\net5.0\MovieRatings.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\MovieRatings\obj\Debug\net5.0\MovieRatings.AssemblyInfoInputs.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\MovieRatings\obj\Debug\net5.0\MovieRatings.AssemblyInfo.cs
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\MovieRatings\obj\Debug\net5.0\MovieRatings.csproj.CoreCompileInputs.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\MovieRatings\obj\Debug\net5.0\MovieRatings.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\MovieRatings\obj\Debug\net5.0\ref\MovieRatings.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\MovieRatings\obj\Debug\net5.0\MovieRatings.pdb
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 6 and 7 April 2019\MovieRatings\obj\Debug\net5.0\MovieRatings.genruntimeconfig.cache
