@@ -1,0 +1,16 @@
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\AddBags\bin\Debug\net5.0\AddBags.exe
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\AddBags\bin\Debug\net5.0\AddBags.deps.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\AddBags\bin\Debug\net5.0\AddBags.runtimeconfig.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\AddBags\bin\Debug\net5.0\AddBags.runtimeconfig.dev.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\AddBags\bin\Debug\net5.0\AddBags.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\AddBags\bin\Debug\net5.0\ref\AddBags.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\AddBags\bin\Debug\net5.0\AddBags.pdb
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\AddBags\obj\Debug\net5.0\AddBags.csproj.AssemblyReference.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\AddBags\obj\Debug\net5.0\AddBags.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\AddBags\obj\Debug\net5.0\AddBags.AssemblyInfoInputs.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\AddBags\obj\Debug\net5.0\AddBags.AssemblyInfo.cs
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\AddBags\obj\Debug\net5.0\AddBags.csproj.CoreCompileInputs.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\AddBags\obj\Debug\net5.0\AddBags.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\AddBags\obj\Debug\net5.0\ref\AddBags.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\AddBags\obj\Debug\net5.0\AddBags.pdb
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\AddBags\obj\Debug\net5.0\AddBags.genruntimeconfig.cache

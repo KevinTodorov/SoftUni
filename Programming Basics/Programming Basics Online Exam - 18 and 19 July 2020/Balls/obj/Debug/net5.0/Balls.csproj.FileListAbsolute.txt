@@ -1,0 +1,16 @@
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Balls\bin\Debug\net5.0\Balls.exe
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Balls\bin\Debug\net5.0\Balls.deps.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Balls\bin\Debug\net5.0\Balls.runtimeconfig.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Balls\bin\Debug\net5.0\Balls.runtimeconfig.dev.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Balls\bin\Debug\net5.0\Balls.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Balls\bin\Debug\net5.0\ref\Balls.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Balls\bin\Debug\net5.0\Balls.pdb
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Balls\obj\Debug\net5.0\Balls.csproj.AssemblyReference.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Balls\obj\Debug\net5.0\Balls.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Balls\obj\Debug\net5.0\Balls.AssemblyInfoInputs.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Balls\obj\Debug\net5.0\Balls.AssemblyInfo.cs
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Balls\obj\Debug\net5.0\Balls.csproj.CoreCompileInputs.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Balls\obj\Debug\net5.0\Balls.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Balls\obj\Debug\net5.0\ref\Balls.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Balls\obj\Debug\net5.0\Balls.pdb
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Balls\obj\Debug\net5.0\Balls.genruntimeconfig.cache

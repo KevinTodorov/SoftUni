@@ -1,0 +1,16 @@
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Barcode Generator\bin\Debug\net5.0\Barcode Generator.exe
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Barcode Generator\bin\Debug\net5.0\Barcode Generator.deps.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Barcode Generator\bin\Debug\net5.0\Barcode Generator.runtimeconfig.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Barcode Generator\bin\Debug\net5.0\Barcode Generator.runtimeconfig.dev.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Barcode Generator\bin\Debug\net5.0\Barcode Generator.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Barcode Generator\bin\Debug\net5.0\ref\Barcode Generator.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Barcode Generator\bin\Debug\net5.0\Barcode Generator.pdb
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Barcode Generator\obj\Debug\net5.0\Barcode Generator.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Barcode Generator\obj\Debug\net5.0\Barcode Generator.AssemblyInfoInputs.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Barcode Generator\obj\Debug\net5.0\Barcode Generator.AssemblyInfo.cs
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Barcode Generator\obj\Debug\net5.0\Barcode Generator.csproj.CoreCompileInputs.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Barcode Generator\obj\Debug\net5.0\Barcode Generator.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Barcode Generator\obj\Debug\net5.0\ref\Barcode Generator.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Barcode Generator\obj\Debug\net5.0\Barcode Generator.pdb
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Barcode Generator\obj\Debug\net5.0\Barcode Generator.genruntimeconfig.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Barcode Generator\obj\Debug\net5.0\Barcode Generator.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Agency Profit\bin\Debug\net5.0\Agency Profit.exe
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Agency Profit\bin\Debug\net5.0\Agency Profit.deps.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Agency Profit\bin\Debug\net5.0\Agency Profit.runtimeconfig.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Agency Profit\bin\Debug\net5.0\Agency Profit.runtimeconfig.dev.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Agency Profit\bin\Debug\net5.0\Agency Profit.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Agency Profit\bin\Debug\net5.0\ref\Agency Profit.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Agency Profit\bin\Debug\net5.0\Agency Profit.pdb
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Agency Profit\obj\Debug\net5.0\Agency Profit.csproj.AssemblyReference.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Agency Profit\obj\Debug\net5.0\Agency Profit.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Agency Profit\obj\Debug\net5.0\Agency Profit.AssemblyInfoInputs.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Agency Profit\obj\Debug\net5.0\Agency Profit.AssemblyInfo.cs
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Agency Profit\obj\Debug\net5.0\Agency Profit.csproj.CoreCompileInputs.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Agency Profit\obj\Debug\net5.0\Agency Profit.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Agency Profit\obj\Debug\net5.0\ref\Agency Profit.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Agency Profit\obj\Debug\net5.0\Agency Profit.pdb
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Agency Profit\obj\Debug\net5.0\Agency Profit.genruntimeconfig.cache

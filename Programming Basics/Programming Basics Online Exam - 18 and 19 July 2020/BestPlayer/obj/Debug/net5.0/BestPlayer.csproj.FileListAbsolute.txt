@@ -1,0 +1,16 @@
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\BestPlayer\bin\Debug\net5.0\BestPlayer.exe
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\BestPlayer\bin\Debug\net5.0\BestPlayer.deps.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\BestPlayer\bin\Debug\net5.0\BestPlayer.runtimeconfig.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\BestPlayer\bin\Debug\net5.0\BestPlayer.runtimeconfig.dev.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\BestPlayer\bin\Debug\net5.0\BestPlayer.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\BestPlayer\bin\Debug\net5.0\ref\BestPlayer.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\BestPlayer\bin\Debug\net5.0\BestPlayer.pdb
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\BestPlayer\obj\Debug\net5.0\BestPlayer.csproj.AssemblyReference.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\BestPlayer\obj\Debug\net5.0\BestPlayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\BestPlayer\obj\Debug\net5.0\BestPlayer.AssemblyInfoInputs.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\BestPlayer\obj\Debug\net5.0\BestPlayer.AssemblyInfo.cs
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\BestPlayer\obj\Debug\net5.0\BestPlayer.csproj.CoreCompileInputs.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\BestPlayer\obj\Debug\net5.0\BestPlayer.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\BestPlayer\obj\Debug\net5.0\ref\BestPlayer.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\BestPlayer\obj\Debug\net5.0\BestPlayer.pdb
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\BestPlayer\obj\Debug\net5.0\BestPlayer.genruntimeconfig.cache

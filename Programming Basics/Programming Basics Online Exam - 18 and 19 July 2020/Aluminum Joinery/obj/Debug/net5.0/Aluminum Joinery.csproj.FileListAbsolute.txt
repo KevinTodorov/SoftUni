@@ -1,0 +1,15 @@
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Aluminum Joinery\bin\Debug\net5.0\Aluminum Joinery.exe
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Aluminum Joinery\bin\Debug\net5.0\Aluminum Joinery.deps.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Aluminum Joinery\bin\Debug\net5.0\Aluminum Joinery.runtimeconfig.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Aluminum Joinery\bin\Debug\net5.0\Aluminum Joinery.runtimeconfig.dev.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Aluminum Joinery\bin\Debug\net5.0\Aluminum Joinery.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Aluminum Joinery\bin\Debug\net5.0\ref\Aluminum Joinery.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Aluminum Joinery\bin\Debug\net5.0\Aluminum Joinery.pdb
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Aluminum Joinery\obj\Debug\net5.0\Aluminum Joinery.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Aluminum Joinery\obj\Debug\net5.0\Aluminum Joinery.AssemblyInfoInputs.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Aluminum Joinery\obj\Debug\net5.0\Aluminum Joinery.AssemblyInfo.cs
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Aluminum Joinery\obj\Debug\net5.0\Aluminum Joinery.csproj.CoreCompileInputs.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Aluminum Joinery\obj\Debug\net5.0\Aluminum Joinery.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Aluminum Joinery\obj\Debug\net5.0\ref\Aluminum Joinery.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Aluminum Joinery\obj\Debug\net5.0\Aluminum Joinery.pdb
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 18 and 19 July 2020\Aluminum Joinery\obj\Debug\net5.0\Aluminum Joinery.genruntimeconfig.cache
