@@ -1,0 +1,15 @@
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\EasterGuest\bin\Debug\net5.0\EasterGuest.exe
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\EasterGuest\bin\Debug\net5.0\EasterGuest.deps.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\EasterGuest\bin\Debug\net5.0\EasterGuest.runtimeconfig.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\EasterGuest\bin\Debug\net5.0\EasterGuest.runtimeconfig.dev.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\EasterGuest\bin\Debug\net5.0\EasterGuest.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\EasterGuest\bin\Debug\net5.0\ref\EasterGuest.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\EasterGuest\bin\Debug\net5.0\EasterGuest.pdb
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\EasterGuest\obj\Debug\net5.0\EasterGuest.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\EasterGuest\obj\Debug\net5.0\EasterGuest.AssemblyInfoInputs.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\EasterGuest\obj\Debug\net5.0\EasterGuest.AssemblyInfo.cs
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\EasterGuest\obj\Debug\net5.0\EasterGuest.csproj.CoreCompileInputs.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\EasterGuest\obj\Debug\net5.0\EasterGuest.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\EasterGuest\obj\Debug\net5.0\ref\EasterGuest.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\EasterGuest\obj\Debug\net5.0\EasterGuest.pdb
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\EasterGuest\obj\Debug\net5.0\EasterGuest.genruntimeconfig.cache

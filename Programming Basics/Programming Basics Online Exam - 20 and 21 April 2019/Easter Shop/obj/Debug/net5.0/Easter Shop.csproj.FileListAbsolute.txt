@@ -1,0 +1,16 @@
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter Shop\bin\Debug\net5.0\Easter Shop.exe
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter Shop\bin\Debug\net5.0\Easter Shop.deps.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter Shop\bin\Debug\net5.0\Easter Shop.runtimeconfig.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter Shop\bin\Debug\net5.0\Easter Shop.runtimeconfig.dev.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter Shop\bin\Debug\net5.0\Easter Shop.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter Shop\bin\Debug\net5.0\ref\Easter Shop.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter Shop\bin\Debug\net5.0\Easter Shop.pdb
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter Shop\obj\Debug\net5.0\Easter Shop.csproj.AssemblyReference.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter Shop\obj\Debug\net5.0\Easter Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter Shop\obj\Debug\net5.0\Easter Shop.AssemblyInfoInputs.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter Shop\obj\Debug\net5.0\Easter Shop.AssemblyInfo.cs
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter Shop\obj\Debug\net5.0\Easter Shop.csproj.CoreCompileInputs.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter Shop\obj\Debug\net5.0\Easter Shop.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter Shop\obj\Debug\net5.0\ref\Easter Shop.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter Shop\obj\Debug\net5.0\Easter Shop.pdb
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter Shop\obj\Debug\net5.0\Easter Shop.genruntimeconfig.cache

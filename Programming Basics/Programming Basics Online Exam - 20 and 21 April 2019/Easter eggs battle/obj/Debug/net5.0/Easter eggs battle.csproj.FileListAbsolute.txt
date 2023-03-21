@@ -1,0 +1,15 @@
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter eggs battle\bin\Debug\net5.0\Easter eggs battle.exe
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter eggs battle\bin\Debug\net5.0\Easter eggs battle.deps.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter eggs battle\bin\Debug\net5.0\Easter eggs battle.runtimeconfig.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter eggs battle\bin\Debug\net5.0\Easter eggs battle.runtimeconfig.dev.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter eggs battle\bin\Debug\net5.0\Easter eggs battle.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter eggs battle\bin\Debug\net5.0\ref\Easter eggs battle.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter eggs battle\bin\Debug\net5.0\Easter eggs battle.pdb
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter eggs battle\obj\Debug\net5.0\Easter eggs battle.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter eggs battle\obj\Debug\net5.0\Easter eggs battle.AssemblyInfoInputs.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter eggs battle\obj\Debug\net5.0\Easter eggs battle.AssemblyInfo.cs
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter eggs battle\obj\Debug\net5.0\Easter eggs battle.csproj.CoreCompileInputs.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter eggs battle\obj\Debug\net5.0\Easter eggs battle.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter eggs battle\obj\Debug\net5.0\ref\Easter eggs battle.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter eggs battle\obj\Debug\net5.0\Easter eggs battle.pdb
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter eggs battle\obj\Debug\net5.0\Easter eggs battle.genruntimeconfig.cache

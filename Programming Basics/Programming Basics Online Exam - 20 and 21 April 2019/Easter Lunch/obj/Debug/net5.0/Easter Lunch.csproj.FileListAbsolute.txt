@@ -1,0 +1,16 @@
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter Lunch\bin\Debug\net5.0\Easter Lunch.exe
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter Lunch\bin\Debug\net5.0\Easter Lunch.deps.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter Lunch\bin\Debug\net5.0\Easter Lunch.runtimeconfig.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter Lunch\bin\Debug\net5.0\Easter Lunch.runtimeconfig.dev.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter Lunch\bin\Debug\net5.0\Easter Lunch.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter Lunch\bin\Debug\net5.0\ref\Easter Lunch.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter Lunch\bin\Debug\net5.0\Easter Lunch.pdb
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter Lunch\obj\Debug\net5.0\Easter Lunch.csproj.AssemblyReference.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter Lunch\obj\Debug\net5.0\Easter Lunch.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter Lunch\obj\Debug\net5.0\Easter Lunch.AssemblyInfoInputs.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter Lunch\obj\Debug\net5.0\Easter Lunch.AssemblyInfo.cs
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter Lunch\obj\Debug\net5.0\Easter Lunch.csproj.CoreCompileInputs.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter Lunch\obj\Debug\net5.0\Easter Lunch.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter Lunch\obj\Debug\net5.0\ref\Easter Lunch.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter Lunch\obj\Debug\net5.0\Easter Lunch.pdb
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter Lunch\obj\Debug\net5.0\Easter Lunch.genruntimeconfig.cache

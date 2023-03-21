@@ -1,0 +1,15 @@
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\EasternDecoration\bin\Debug\net5.0\EasternDecoration.exe
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\EasternDecoration\bin\Debug\net5.0\EasternDecoration.deps.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\EasternDecoration\bin\Debug\net5.0\EasternDecoration.runtimeconfig.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\EasternDecoration\bin\Debug\net5.0\EasternDecoration.runtimeconfig.dev.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\EasternDecoration\bin\Debug\net5.0\EasternDecoration.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\EasternDecoration\bin\Debug\net5.0\ref\EasternDecoration.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\EasternDecoration\bin\Debug\net5.0\EasternDecoration.pdb
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\EasternDecoration\obj\Debug\net5.0\EasternDecoration.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\EasternDecoration\obj\Debug\net5.0\EasternDecoration.AssemblyInfoInputs.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\EasternDecoration\obj\Debug\net5.0\EasternDecoration.AssemblyInfo.cs
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\EasternDecoration\obj\Debug\net5.0\EasternDecoration.csproj.CoreCompileInputs.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\EasternDecoration\obj\Debug\net5.0\EasternDecoration.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\EasternDecoration\obj\Debug\net5.0\ref\EasternDecoration.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\EasternDecoration\obj\Debug\net5.0\EasternDecoration.pdb
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\EasternDecoration\obj\Debug\net5.0\EasternDecoration.genruntimeconfig.cache

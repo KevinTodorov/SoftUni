@@ -1,0 +1,16 @@
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\PaintingEggs\bin\Debug\net5.0\PaintingEggs.exe
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\PaintingEggs\bin\Debug\net5.0\PaintingEggs.deps.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\PaintingEggs\bin\Debug\net5.0\PaintingEggs.runtimeconfig.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\PaintingEggs\bin\Debug\net5.0\PaintingEggs.runtimeconfig.dev.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\PaintingEggs\bin\Debug\net5.0\PaintingEggs.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\PaintingEggs\bin\Debug\net5.0\ref\PaintingEggs.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\PaintingEggs\bin\Debug\net5.0\PaintingEggs.pdb
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\PaintingEggs\obj\Debug\net5.0\PaintingEggs.csproj.AssemblyReference.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\PaintingEggs\obj\Debug\net5.0\PaintingEggs.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\PaintingEggs\obj\Debug\net5.0\PaintingEggs.AssemblyInfoInputs.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\PaintingEggs\obj\Debug\net5.0\PaintingEggs.AssemblyInfo.cs
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\PaintingEggs\obj\Debug\net5.0\PaintingEggs.csproj.CoreCompileInputs.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\PaintingEggs\obj\Debug\net5.0\PaintingEggs.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\PaintingEggs\obj\Debug\net5.0\ref\PaintingEggs.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\PaintingEggs\obj\Debug\net5.0\PaintingEggs.pdb
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\PaintingEggs\obj\Debug\net5.0\PaintingEggs.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Easter eggs battle/1.0.0": {
+        "runtime": {
+          "Easter eggs battle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Easter eggs battle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

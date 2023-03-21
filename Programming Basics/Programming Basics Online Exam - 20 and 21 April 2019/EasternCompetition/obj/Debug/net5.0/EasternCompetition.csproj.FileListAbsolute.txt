@@ -1,0 +1,16 @@
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\EasternCompetition\bin\Debug\net5.0\EasternCompetition.exe
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\EasternCompetition\bin\Debug\net5.0\EasternCompetition.deps.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\EasternCompetition\bin\Debug\net5.0\EasternCompetition.runtimeconfig.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\EasternCompetition\bin\Debug\net5.0\EasternCompetition.runtimeconfig.dev.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\EasternCompetition\bin\Debug\net5.0\EasternCompetition.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\EasternCompetition\bin\Debug\net5.0\ref\EasternCompetition.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\EasternCompetition\bin\Debug\net5.0\EasternCompetition.pdb
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\EasternCompetition\obj\Debug\net5.0\EasternCompetition.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\EasternCompetition\obj\Debug\net5.0\EasternCompetition.AssemblyInfoInputs.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\EasternCompetition\obj\Debug\net5.0\EasternCompetition.AssemblyInfo.cs
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\EasternCompetition\obj\Debug\net5.0\EasternCompetition.csproj.CoreCompileInputs.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\EasternCompetition\obj\Debug\net5.0\EasternCompetition.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\EasternCompetition\obj\Debug\net5.0\ref\EasternCompetition.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\EasternCompetition\obj\Debug\net5.0\EasternCompetition.pdb
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\EasternCompetition\obj\Debug\net5.0\EasternCompetition.genruntimeconfig.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\EasternCompetition\obj\Debug\net5.0\EasternCompetition.csproj.AssemblyReference.cache

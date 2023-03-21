@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Easter Lunch/1.0.0": {
+        "runtime": {
+          "Easter Lunch.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Easter Lunch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter eggs\bin\Debug\net5.0\Easter eggs.exe
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter eggs\bin\Debug\net5.0\Easter eggs.deps.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter eggs\bin\Debug\net5.0\Easter eggs.runtimeconfig.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter eggs\bin\Debug\net5.0\Easter eggs.runtimeconfig.dev.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter eggs\bin\Debug\net5.0\Easter eggs.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter eggs\bin\Debug\net5.0\ref\Easter eggs.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter eggs\bin\Debug\net5.0\Easter eggs.pdb
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter eggs\obj\Debug\net5.0\Easter eggs.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter eggs\obj\Debug\net5.0\Easter eggs.AssemblyInfoInputs.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter eggs\obj\Debug\net5.0\Easter eggs.AssemblyInfo.cs
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter eggs\obj\Debug\net5.0\Easter eggs.csproj.CoreCompileInputs.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter eggs\obj\Debug\net5.0\Easter eggs.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter eggs\obj\Debug\net5.0\ref\Easter eggs.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter eggs\obj\Debug\net5.0\Easter eggs.pdb
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter eggs\obj\Debug\net5.0\Easter eggs.genruntimeconfig.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\Easter eggs\obj\Debug\net5.0\Easter eggs.csproj.AssemblyReference.cache

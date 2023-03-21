@@ -1,0 +1,15 @@
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\East Bakery\bin\Debug\net5.0\East Bakery.exe
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\East Bakery\bin\Debug\net5.0\East Bakery.deps.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\East Bakery\bin\Debug\net5.0\East Bakery.runtimeconfig.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\East Bakery\bin\Debug\net5.0\East Bakery.runtimeconfig.dev.json
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\East Bakery\bin\Debug\net5.0\East Bakery.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\East Bakery\bin\Debug\net5.0\ref\East Bakery.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\East Bakery\bin\Debug\net5.0\East Bakery.pdb
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\East Bakery\obj\Debug\net5.0\East Bakery.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\East Bakery\obj\Debug\net5.0\East Bakery.AssemblyInfoInputs.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\East Bakery\obj\Debug\net5.0\East Bakery.AssemblyInfo.cs
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\East Bakery\obj\Debug\net5.0\East Bakery.csproj.CoreCompileInputs.cache
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\East Bakery\obj\Debug\net5.0\East Bakery.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\East Bakery\obj\Debug\net5.0\ref\East Bakery.dll
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\East Bakery\obj\Debug\net5.0\East Bakery.pdb
+D:\programiranee\Programming basics\pb exams\Programming Basics Online Exam - 20 and 21 April 2019\East Bakery\obj\Debug\net5.0\East Bakery.genruntimeconfig.cache
