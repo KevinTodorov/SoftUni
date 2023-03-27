@@ -1,0 +1,15 @@
+D:\programiranee\Fundamentals Early\BackIn30Min\bin\Debug\net5.0\BackIn30Min.exe
+D:\programiranee\Fundamentals Early\BackIn30Min\bin\Debug\net5.0\BackIn30Min.deps.json
+D:\programiranee\Fundamentals Early\BackIn30Min\bin\Debug\net5.0\BackIn30Min.runtimeconfig.json
+D:\programiranee\Fundamentals Early\BackIn30Min\bin\Debug\net5.0\BackIn30Min.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\BackIn30Min\bin\Debug\net5.0\BackIn30Min.dll
+D:\programiranee\Fundamentals Early\BackIn30Min\bin\Debug\net5.0\ref\BackIn30Min.dll
+D:\programiranee\Fundamentals Early\BackIn30Min\bin\Debug\net5.0\BackIn30Min.pdb
+D:\programiranee\Fundamentals Early\BackIn30Min\obj\Debug\net5.0\BackIn30Min.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\BackIn30Min\obj\Debug\net5.0\BackIn30Min.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\BackIn30Min\obj\Debug\net5.0\BackIn30Min.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\BackIn30Min\obj\Debug\net5.0\BackIn30Min.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\BackIn30Min\obj\Debug\net5.0\BackIn30Min.dll
+D:\programiranee\Fundamentals Early\BackIn30Min\obj\Debug\net5.0\ref\BackIn30Min.dll
+D:\programiranee\Fundamentals Early\BackIn30Min\obj\Debug\net5.0\BackIn30Min.pdb
+D:\programiranee\Fundamentals Early\BackIn30Min\obj\Debug\net5.0\BackIn30Min.genruntimeconfig.cache

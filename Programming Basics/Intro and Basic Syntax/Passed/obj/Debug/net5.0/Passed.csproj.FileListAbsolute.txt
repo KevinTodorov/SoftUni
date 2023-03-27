@@ -1,0 +1,16 @@
+D:\programiranee\Fundamentals Early\Passed\bin\Debug\net5.0\Passed.exe
+D:\programiranee\Fundamentals Early\Passed\bin\Debug\net5.0\Passed.deps.json
+D:\programiranee\Fundamentals Early\Passed\bin\Debug\net5.0\Passed.runtimeconfig.json
+D:\programiranee\Fundamentals Early\Passed\bin\Debug\net5.0\Passed.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\Passed\bin\Debug\net5.0\Passed.dll
+D:\programiranee\Fundamentals Early\Passed\bin\Debug\net5.0\ref\Passed.dll
+D:\programiranee\Fundamentals Early\Passed\bin\Debug\net5.0\Passed.pdb
+D:\programiranee\Fundamentals Early\Passed\obj\Debug\net5.0\Passed.csproj.AssemblyReference.cache
+D:\programiranee\Fundamentals Early\Passed\obj\Debug\net5.0\Passed.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\Passed\obj\Debug\net5.0\Passed.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\Passed\obj\Debug\net5.0\Passed.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\Passed\obj\Debug\net5.0\Passed.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\Passed\obj\Debug\net5.0\Passed.dll
+D:\programiranee\Fundamentals Early\Passed\obj\Debug\net5.0\ref\Passed.dll
+D:\programiranee\Fundamentals Early\Passed\obj\Debug\net5.0\Passed.pdb
+D:\programiranee\Fundamentals Early\Passed\obj\Debug\net5.0\Passed.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\programiranee\Fundamentals Early\EvenNumber\bin\Debug\net5.0\EvenNumber.exe
+D:\programiranee\Fundamentals Early\EvenNumber\bin\Debug\net5.0\EvenNumber.deps.json
+D:\programiranee\Fundamentals Early\EvenNumber\bin\Debug\net5.0\EvenNumber.runtimeconfig.json
+D:\programiranee\Fundamentals Early\EvenNumber\bin\Debug\net5.0\EvenNumber.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\EvenNumber\bin\Debug\net5.0\EvenNumber.dll
+D:\programiranee\Fundamentals Early\EvenNumber\bin\Debug\net5.0\ref\EvenNumber.dll
+D:\programiranee\Fundamentals Early\EvenNumber\bin\Debug\net5.0\EvenNumber.pdb
+D:\programiranee\Fundamentals Early\EvenNumber\obj\Debug\net5.0\EvenNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\EvenNumber\obj\Debug\net5.0\EvenNumber.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\EvenNumber\obj\Debug\net5.0\EvenNumber.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\EvenNumber\obj\Debug\net5.0\EvenNumber.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\EvenNumber\obj\Debug\net5.0\EvenNumber.dll
+D:\programiranee\Fundamentals Early\EvenNumber\obj\Debug\net5.0\ref\EvenNumber.dll
+D:\programiranee\Fundamentals Early\EvenNumber\obj\Debug\net5.0\EvenNumber.pdb
+D:\programiranee\Fundamentals Early\EvenNumber\obj\Debug\net5.0\EvenNumber.genruntimeconfig.cache

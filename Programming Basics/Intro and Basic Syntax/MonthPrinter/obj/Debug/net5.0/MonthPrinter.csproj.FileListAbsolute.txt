@@ -1,0 +1,15 @@
+D:\programiranee\Fundamentals Early\MonthPrinter\bin\Debug\net5.0\MonthPrinter.exe
+D:\programiranee\Fundamentals Early\MonthPrinter\bin\Debug\net5.0\MonthPrinter.deps.json
+D:\programiranee\Fundamentals Early\MonthPrinter\bin\Debug\net5.0\MonthPrinter.runtimeconfig.json
+D:\programiranee\Fundamentals Early\MonthPrinter\bin\Debug\net5.0\MonthPrinter.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\MonthPrinter\bin\Debug\net5.0\MonthPrinter.dll
+D:\programiranee\Fundamentals Early\MonthPrinter\bin\Debug\net5.0\ref\MonthPrinter.dll
+D:\programiranee\Fundamentals Early\MonthPrinter\bin\Debug\net5.0\MonthPrinter.pdb
+D:\programiranee\Fundamentals Early\MonthPrinter\obj\Debug\net5.0\MonthPrinter.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\MonthPrinter\obj\Debug\net5.0\MonthPrinter.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\MonthPrinter\obj\Debug\net5.0\MonthPrinter.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\MonthPrinter\obj\Debug\net5.0\MonthPrinter.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\MonthPrinter\obj\Debug\net5.0\MonthPrinter.dll
+D:\programiranee\Fundamentals Early\MonthPrinter\obj\Debug\net5.0\ref\MonthPrinter.dll
+D:\programiranee\Fundamentals Early\MonthPrinter\obj\Debug\net5.0\MonthPrinter.pdb
+D:\programiranee\Fundamentals Early\MonthPrinter\obj\Debug\net5.0\MonthPrinter.genruntimeconfig.cache

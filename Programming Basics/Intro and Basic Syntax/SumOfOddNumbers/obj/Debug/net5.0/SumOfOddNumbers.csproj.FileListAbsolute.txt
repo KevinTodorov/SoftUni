@@ -1,0 +1,15 @@
+D:\programiranee\Fundamentals Early\SumOfOddNumbers\bin\Debug\net5.0\SumOfOddNumbers.exe
+D:\programiranee\Fundamentals Early\SumOfOddNumbers\bin\Debug\net5.0\SumOfOddNumbers.deps.json
+D:\programiranee\Fundamentals Early\SumOfOddNumbers\bin\Debug\net5.0\SumOfOddNumbers.runtimeconfig.json
+D:\programiranee\Fundamentals Early\SumOfOddNumbers\bin\Debug\net5.0\SumOfOddNumbers.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\SumOfOddNumbers\bin\Debug\net5.0\SumOfOddNumbers.dll
+D:\programiranee\Fundamentals Early\SumOfOddNumbers\bin\Debug\net5.0\ref\SumOfOddNumbers.dll
+D:\programiranee\Fundamentals Early\SumOfOddNumbers\bin\Debug\net5.0\SumOfOddNumbers.pdb
+D:\programiranee\Fundamentals Early\SumOfOddNumbers\obj\Debug\net5.0\SumOfOddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\SumOfOddNumbers\obj\Debug\net5.0\SumOfOddNumbers.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\SumOfOddNumbers\obj\Debug\net5.0\SumOfOddNumbers.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\SumOfOddNumbers\obj\Debug\net5.0\SumOfOddNumbers.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\SumOfOddNumbers\obj\Debug\net5.0\SumOfOddNumbers.dll
+D:\programiranee\Fundamentals Early\SumOfOddNumbers\obj\Debug\net5.0\ref\SumOfOddNumbers.dll
+D:\programiranee\Fundamentals Early\SumOfOddNumbers\obj\Debug\net5.0\SumOfOddNumbers.pdb
+D:\programiranee\Fundamentals Early\SumOfOddNumbers\obj\Debug\net5.0\SumOfOddNumbers.genruntimeconfig.cache

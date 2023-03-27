@@ -1,0 +1,15 @@
+D:\programiranee\Fundamentals Early\DivisibleBy3\bin\Debug\net5.0\DivisibleBy3.exe
+D:\programiranee\Fundamentals Early\DivisibleBy3\bin\Debug\net5.0\DivisibleBy3.deps.json
+D:\programiranee\Fundamentals Early\DivisibleBy3\bin\Debug\net5.0\DivisibleBy3.runtimeconfig.json
+D:\programiranee\Fundamentals Early\DivisibleBy3\bin\Debug\net5.0\DivisibleBy3.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\DivisibleBy3\bin\Debug\net5.0\DivisibleBy3.dll
+D:\programiranee\Fundamentals Early\DivisibleBy3\bin\Debug\net5.0\ref\DivisibleBy3.dll
+D:\programiranee\Fundamentals Early\DivisibleBy3\bin\Debug\net5.0\DivisibleBy3.pdb
+D:\programiranee\Fundamentals Early\DivisibleBy3\obj\Debug\net5.0\DivisibleBy3.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\DivisibleBy3\obj\Debug\net5.0\DivisibleBy3.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\DivisibleBy3\obj\Debug\net5.0\DivisibleBy3.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\DivisibleBy3\obj\Debug\net5.0\DivisibleBy3.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\DivisibleBy3\obj\Debug\net5.0\DivisibleBy3.dll
+D:\programiranee\Fundamentals Early\DivisibleBy3\obj\Debug\net5.0\ref\DivisibleBy3.dll
+D:\programiranee\Fundamentals Early\DivisibleBy3\obj\Debug\net5.0\DivisibleBy3.pdb
+D:\programiranee\Fundamentals Early\DivisibleBy3\obj\Debug\net5.0\DivisibleBy3.genruntimeconfig.cache

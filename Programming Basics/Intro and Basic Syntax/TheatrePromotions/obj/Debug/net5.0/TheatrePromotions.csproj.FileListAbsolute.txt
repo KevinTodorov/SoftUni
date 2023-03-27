@@ -1,0 +1,15 @@
+D:\programiranee\Fundamentals Early\TheatrePromotions\bin\Debug\net5.0\TheatrePromotions.exe
+D:\programiranee\Fundamentals Early\TheatrePromotions\bin\Debug\net5.0\TheatrePromotions.deps.json
+D:\programiranee\Fundamentals Early\TheatrePromotions\bin\Debug\net5.0\TheatrePromotions.runtimeconfig.json
+D:\programiranee\Fundamentals Early\TheatrePromotions\bin\Debug\net5.0\TheatrePromotions.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\TheatrePromotions\bin\Debug\net5.0\TheatrePromotions.dll
+D:\programiranee\Fundamentals Early\TheatrePromotions\bin\Debug\net5.0\ref\TheatrePromotions.dll
+D:\programiranee\Fundamentals Early\TheatrePromotions\bin\Debug\net5.0\TheatrePromotions.pdb
+D:\programiranee\Fundamentals Early\TheatrePromotions\obj\Debug\net5.0\TheatrePromotions.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\TheatrePromotions\obj\Debug\net5.0\TheatrePromotions.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\TheatrePromotions\obj\Debug\net5.0\TheatrePromotions.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\TheatrePromotions\obj\Debug\net5.0\TheatrePromotions.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\TheatrePromotions\obj\Debug\net5.0\TheatrePromotions.dll
+D:\programiranee\Fundamentals Early\TheatrePromotions\obj\Debug\net5.0\ref\TheatrePromotions.dll
+D:\programiranee\Fundamentals Early\TheatrePromotions\obj\Debug\net5.0\TheatrePromotions.pdb
+D:\programiranee\Fundamentals Early\TheatrePromotions\obj\Debug\net5.0\TheatrePromotions.genruntimeconfig.cache

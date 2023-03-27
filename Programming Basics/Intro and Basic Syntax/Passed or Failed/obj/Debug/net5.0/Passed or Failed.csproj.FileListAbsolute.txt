@@ -1,0 +1,16 @@
+D:\programiranee\Fundamentals Early\Passed or Failed\bin\Debug\net5.0\Passed or Failed.exe
+D:\programiranee\Fundamentals Early\Passed or Failed\bin\Debug\net5.0\Passed or Failed.deps.json
+D:\programiranee\Fundamentals Early\Passed or Failed\bin\Debug\net5.0\Passed or Failed.runtimeconfig.json
+D:\programiranee\Fundamentals Early\Passed or Failed\bin\Debug\net5.0\Passed or Failed.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\Passed or Failed\bin\Debug\net5.0\Passed or Failed.dll
+D:\programiranee\Fundamentals Early\Passed or Failed\bin\Debug\net5.0\ref\Passed or Failed.dll
+D:\programiranee\Fundamentals Early\Passed or Failed\bin\Debug\net5.0\Passed or Failed.pdb
+D:\programiranee\Fundamentals Early\Passed or Failed\obj\Debug\net5.0\Passed or Failed.csproj.AssemblyReference.cache
+D:\programiranee\Fundamentals Early\Passed or Failed\obj\Debug\net5.0\Passed or Failed.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\Passed or Failed\obj\Debug\net5.0\Passed or Failed.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\Passed or Failed\obj\Debug\net5.0\Passed or Failed.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\Passed or Failed\obj\Debug\net5.0\Passed or Failed.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\Passed or Failed\obj\Debug\net5.0\Passed or Failed.dll
+D:\programiranee\Fundamentals Early\Passed or Failed\obj\Debug\net5.0\ref\Passed or Failed.dll
+D:\programiranee\Fundamentals Early\Passed or Failed\obj\Debug\net5.0\Passed or Failed.pdb
+D:\programiranee\Fundamentals Early\Passed or Failed\obj\Debug\net5.0\Passed or Failed.genruntimeconfig.cache

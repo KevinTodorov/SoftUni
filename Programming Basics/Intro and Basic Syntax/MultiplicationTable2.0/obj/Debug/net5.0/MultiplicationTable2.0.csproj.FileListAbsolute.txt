@@ -1,0 +1,15 @@
+D:\programiranee\Fundamentals Early\MultiplicationTable2.0\bin\Debug\net5.0\MultiplicationTable2.0.exe
+D:\programiranee\Fundamentals Early\MultiplicationTable2.0\bin\Debug\net5.0\MultiplicationTable2.0.deps.json
+D:\programiranee\Fundamentals Early\MultiplicationTable2.0\bin\Debug\net5.0\MultiplicationTable2.0.runtimeconfig.json
+D:\programiranee\Fundamentals Early\MultiplicationTable2.0\bin\Debug\net5.0\MultiplicationTable2.0.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\MultiplicationTable2.0\bin\Debug\net5.0\MultiplicationTable2.0.dll
+D:\programiranee\Fundamentals Early\MultiplicationTable2.0\bin\Debug\net5.0\ref\MultiplicationTable2.0.dll
+D:\programiranee\Fundamentals Early\MultiplicationTable2.0\bin\Debug\net5.0\MultiplicationTable2.0.pdb
+D:\programiranee\Fundamentals Early\MultiplicationTable2.0\obj\Debug\net5.0\MultiplicationTable2.0.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\MultiplicationTable2.0\obj\Debug\net5.0\MultiplicationTable2.0.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\MultiplicationTable2.0\obj\Debug\net5.0\MultiplicationTable2.0.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\MultiplicationTable2.0\obj\Debug\net5.0\MultiplicationTable2.0.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\MultiplicationTable2.0\obj\Debug\net5.0\MultiplicationTable2.0.dll
+D:\programiranee\Fundamentals Early\MultiplicationTable2.0\obj\Debug\net5.0\ref\MultiplicationTable2.0.dll
+D:\programiranee\Fundamentals Early\MultiplicationTable2.0\obj\Debug\net5.0\MultiplicationTable2.0.pdb
+D:\programiranee\Fundamentals Early\MultiplicationTable2.0\obj\Debug\net5.0\MultiplicationTable2.0.genruntimeconfig.cache
