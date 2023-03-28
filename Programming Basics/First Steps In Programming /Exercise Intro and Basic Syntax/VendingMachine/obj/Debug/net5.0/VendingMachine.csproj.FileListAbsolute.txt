@@ -1,0 +1,16 @@
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\VendingMachine\bin\Debug\net5.0\VendingMachine.exe
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\VendingMachine\bin\Debug\net5.0\VendingMachine.deps.json
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\VendingMachine\bin\Debug\net5.0\VendingMachine.runtimeconfig.json
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\VendingMachine\bin\Debug\net5.0\VendingMachine.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\VendingMachine\bin\Debug\net5.0\VendingMachine.dll
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\VendingMachine\bin\Debug\net5.0\ref\VendingMachine.dll
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\VendingMachine\bin\Debug\net5.0\VendingMachine.pdb
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\VendingMachine\obj\Debug\net5.0\VendingMachine.csproj.AssemblyReference.cache
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\VendingMachine\obj\Debug\net5.0\VendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\VendingMachine\obj\Debug\net5.0\VendingMachine.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\VendingMachine\obj\Debug\net5.0\VendingMachine.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\VendingMachine\obj\Debug\net5.0\VendingMachine.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\VendingMachine\obj\Debug\net5.0\VendingMachine.dll
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\VendingMachine\obj\Debug\net5.0\ref\VendingMachine.dll
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\VendingMachine\obj\Debug\net5.0\VendingMachine.pdb
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\VendingMachine\obj\Debug\net5.0\VendingMachine.genruntimeconfig.cache

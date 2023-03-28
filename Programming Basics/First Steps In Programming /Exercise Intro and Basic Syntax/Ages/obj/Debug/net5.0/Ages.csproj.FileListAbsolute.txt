@@ -1,0 +1,16 @@
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Ages\bin\Debug\net5.0\Ages.exe
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Ages\bin\Debug\net5.0\Ages.deps.json
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Ages\bin\Debug\net5.0\Ages.runtimeconfig.json
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Ages\bin\Debug\net5.0\Ages.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Ages\bin\Debug\net5.0\Ages.dll
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Ages\bin\Debug\net5.0\ref\Ages.dll
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Ages\bin\Debug\net5.0\Ages.pdb
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Ages\obj\Debug\net5.0\Ages.csproj.AssemblyReference.cache
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Ages\obj\Debug\net5.0\Ages.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Ages\obj\Debug\net5.0\Ages.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Ages\obj\Debug\net5.0\Ages.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Ages\obj\Debug\net5.0\Ages.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Ages\obj\Debug\net5.0\Ages.dll
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Ages\obj\Debug\net5.0\ref\Ages.dll
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Ages\obj\Debug\net5.0\Ages.pdb
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Ages\obj\Debug\net5.0\Ages.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Padawan Equipment\bin\Debug\net5.0\Padawan Equipment.exe
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Padawan Equipment\bin\Debug\net5.0\Padawan Equipment.deps.json
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Padawan Equipment\bin\Debug\net5.0\Padawan Equipment.runtimeconfig.json
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Padawan Equipment\bin\Debug\net5.0\Padawan Equipment.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Padawan Equipment\bin\Debug\net5.0\Padawan Equipment.dll
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Padawan Equipment\bin\Debug\net5.0\ref\Padawan Equipment.dll
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Padawan Equipment\bin\Debug\net5.0\Padawan Equipment.pdb
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Padawan Equipment\obj\Debug\net5.0\Padawan Equipment.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Padawan Equipment\obj\Debug\net5.0\Padawan Equipment.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Padawan Equipment\obj\Debug\net5.0\Padawan Equipment.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Padawan Equipment\obj\Debug\net5.0\Padawan Equipment.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Padawan Equipment\obj\Debug\net5.0\Padawan Equipment.dll
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Padawan Equipment\obj\Debug\net5.0\ref\Padawan Equipment.dll
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Padawan Equipment\obj\Debug\net5.0\Padawan Equipment.pdb
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Padawan Equipment\obj\Debug\net5.0\Padawan Equipment.genruntimeconfig.cache
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Padawan Equipment\obj\Debug\net5.0\Padawan Equipment.csproj.AssemblyReference.cache
