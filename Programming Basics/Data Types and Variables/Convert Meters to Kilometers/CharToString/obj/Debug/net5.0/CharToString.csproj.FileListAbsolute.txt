@@ -1,0 +1,15 @@
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\CharToString\bin\Debug\net5.0\CharToString.exe
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\CharToString\bin\Debug\net5.0\CharToString.deps.json
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\CharToString\bin\Debug\net5.0\CharToString.runtimeconfig.json
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\CharToString\bin\Debug\net5.0\CharToString.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\CharToString\bin\Debug\net5.0\CharToString.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\CharToString\bin\Debug\net5.0\ref\CharToString.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\CharToString\bin\Debug\net5.0\CharToString.pdb
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\CharToString\obj\Debug\net5.0\CharToString.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\CharToString\obj\Debug\net5.0\CharToString.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\CharToString\obj\Debug\net5.0\CharToString.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\CharToString\obj\Debug\net5.0\CharToString.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\CharToString\obj\Debug\net5.0\CharToString.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\CharToString\obj\Debug\net5.0\ref\CharToString.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\CharToString\obj\Debug\net5.0\CharToString.pdb
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\CharToString\obj\Debug\net5.0\CharToString.genruntimeconfig.cache

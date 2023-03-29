@@ -1,0 +1,15 @@
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\Refactor Volume of Pyramid\bin\Debug\net5.0\Refactor Volume of Pyramid.exe
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\Refactor Volume of Pyramid\bin\Debug\net5.0\Refactor Volume of Pyramid.deps.json
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\Refactor Volume of Pyramid\bin\Debug\net5.0\Refactor Volume of Pyramid.runtimeconfig.json
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\Refactor Volume of Pyramid\bin\Debug\net5.0\Refactor Volume of Pyramid.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\Refactor Volume of Pyramid\bin\Debug\net5.0\Refactor Volume of Pyramid.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\Refactor Volume of Pyramid\bin\Debug\net5.0\ref\Refactor Volume of Pyramid.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\Refactor Volume of Pyramid\bin\Debug\net5.0\Refactor Volume of Pyramid.pdb
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\Refactor Volume of Pyramid\obj\Debug\net5.0\Refactor Volume of Pyramid.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\Refactor Volume of Pyramid\obj\Debug\net5.0\Refactor Volume of Pyramid.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\Refactor Volume of Pyramid\obj\Debug\net5.0\Refactor Volume of Pyramid.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\Refactor Volume of Pyramid\obj\Debug\net5.0\Refactor Volume of Pyramid.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\Refactor Volume of Pyramid\obj\Debug\net5.0\Refactor Volume of Pyramid.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\Refactor Volume of Pyramid\obj\Debug\net5.0\ref\Refactor Volume of Pyramid.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\Refactor Volume of Pyramid\obj\Debug\net5.0\Refactor Volume of Pyramid.pdb
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\Refactor Volume of Pyramid\obj\Debug\net5.0\Refactor Volume of Pyramid.genruntimeconfig.cache

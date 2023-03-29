@@ -1,0 +1,15 @@
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\ContactNames\bin\Debug\net5.0\ContactNames.exe
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\ContactNames\bin\Debug\net5.0\ContactNames.deps.json
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\ContactNames\bin\Debug\net5.0\ContactNames.runtimeconfig.json
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\ContactNames\bin\Debug\net5.0\ContactNames.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\ContactNames\bin\Debug\net5.0\ContactNames.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\ContactNames\bin\Debug\net5.0\ref\ContactNames.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\ContactNames\bin\Debug\net5.0\ContactNames.pdb
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\ContactNames\obj\Debug\net5.0\ContactNames.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\ContactNames\obj\Debug\net5.0\ContactNames.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\ContactNames\obj\Debug\net5.0\ContactNames.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\ContactNames\obj\Debug\net5.0\ContactNames.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\ContactNames\obj\Debug\net5.0\ContactNames.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\ContactNames\obj\Debug\net5.0\ref\ContactNames.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\ContactNames\obj\Debug\net5.0\ContactNames.pdb
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\ContactNames\obj\Debug\net5.0\ContactNames.genruntimeconfig.cache

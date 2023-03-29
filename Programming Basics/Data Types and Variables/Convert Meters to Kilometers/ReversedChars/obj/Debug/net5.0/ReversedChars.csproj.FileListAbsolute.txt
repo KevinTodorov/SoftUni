@@ -1,0 +1,15 @@
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\ReversedChars\bin\Debug\net5.0\ReversedChars.exe
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\ReversedChars\bin\Debug\net5.0\ReversedChars.deps.json
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\ReversedChars\bin\Debug\net5.0\ReversedChars.runtimeconfig.json
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\ReversedChars\bin\Debug\net5.0\ReversedChars.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\ReversedChars\bin\Debug\net5.0\ReversedChars.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\ReversedChars\bin\Debug\net5.0\ref\ReversedChars.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\ReversedChars\bin\Debug\net5.0\ReversedChars.pdb
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\ReversedChars\obj\Debug\net5.0\ReversedChars.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\ReversedChars\obj\Debug\net5.0\ReversedChars.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\ReversedChars\obj\Debug\net5.0\ReversedChars.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\ReversedChars\obj\Debug\net5.0\ReversedChars.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\ReversedChars\obj\Debug\net5.0\ReversedChars.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\ReversedChars\obj\Debug\net5.0\ref\ReversedChars.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\ReversedChars\obj\Debug\net5.0\ReversedChars.pdb
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\ReversedChars\obj\Debug\net5.0\ReversedChars.genruntimeconfig.cache

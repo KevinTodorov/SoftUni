@@ -1,0 +1,15 @@
+D:\programiranee\Fundamentals Early\Data Types and Variables\Centuries to Minutes\bin\Debug\net5.0\Centuries to Minutes.exe
+D:\programiranee\Fundamentals Early\Data Types and Variables\Centuries to Minutes\bin\Debug\net5.0\Centuries to Minutes.deps.json
+D:\programiranee\Fundamentals Early\Data Types and Variables\Centuries to Minutes\bin\Debug\net5.0\Centuries to Minutes.runtimeconfig.json
+D:\programiranee\Fundamentals Early\Data Types and Variables\Centuries to Minutes\bin\Debug\net5.0\Centuries to Minutes.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\Data Types and Variables\Centuries to Minutes\bin\Debug\net5.0\Centuries to Minutes.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables\Centuries to Minutes\bin\Debug\net5.0\ref\Centuries to Minutes.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables\Centuries to Minutes\bin\Debug\net5.0\Centuries to Minutes.pdb
+D:\programiranee\Fundamentals Early\Data Types and Variables\Centuries to Minutes\obj\Debug\net5.0\Centuries to Minutes.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\Data Types and Variables\Centuries to Minutes\obj\Debug\net5.0\Centuries to Minutes.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\Data Types and Variables\Centuries to Minutes\obj\Debug\net5.0\Centuries to Minutes.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\Data Types and Variables\Centuries to Minutes\obj\Debug\net5.0\Centuries to Minutes.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\Data Types and Variables\Centuries to Minutes\obj\Debug\net5.0\Centuries to Minutes.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables\Centuries to Minutes\obj\Debug\net5.0\ref\Centuries to Minutes.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables\Centuries to Minutes\obj\Debug\net5.0\Centuries to Minutes.pdb
+D:\programiranee\Fundamentals Early\Data Types and Variables\Centuries to Minutes\obj\Debug\net5.0\Centuries to Minutes.genruntimeconfig.cache

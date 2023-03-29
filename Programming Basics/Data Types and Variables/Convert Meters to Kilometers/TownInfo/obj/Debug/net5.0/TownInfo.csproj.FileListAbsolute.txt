@@ -1,0 +1,15 @@
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\TownInfo\bin\Debug\net5.0\TownInfo.exe
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\TownInfo\bin\Debug\net5.0\TownInfo.deps.json
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\TownInfo\bin\Debug\net5.0\TownInfo.runtimeconfig.json
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\TownInfo\bin\Debug\net5.0\TownInfo.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\TownInfo\bin\Debug\net5.0\TownInfo.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\TownInfo\bin\Debug\net5.0\ref\TownInfo.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\TownInfo\bin\Debug\net5.0\TownInfo.pdb
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\TownInfo\obj\Debug\net5.0\TownInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\TownInfo\obj\Debug\net5.0\TownInfo.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\TownInfo\obj\Debug\net5.0\TownInfo.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\TownInfo\obj\Debug\net5.0\TownInfo.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\TownInfo\obj\Debug\net5.0\TownInfo.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\TownInfo\obj\Debug\net5.0\ref\TownInfo.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\TownInfo\obj\Debug\net5.0\TownInfo.pdb
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\TownInfo\obj\Debug\net5.0\TownInfo.genruntimeconfig.cache

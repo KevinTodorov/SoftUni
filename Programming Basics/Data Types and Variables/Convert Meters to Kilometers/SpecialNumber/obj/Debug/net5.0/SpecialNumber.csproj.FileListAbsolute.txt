@@ -1,0 +1,16 @@
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\SpecialNumber\bin\Debug\net5.0\SpecialNumber.exe
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\SpecialNumber\bin\Debug\net5.0\SpecialNumber.deps.json
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\SpecialNumber\bin\Debug\net5.0\SpecialNumber.runtimeconfig.json
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\SpecialNumber\bin\Debug\net5.0\SpecialNumber.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\SpecialNumber\bin\Debug\net5.0\SpecialNumber.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\SpecialNumber\bin\Debug\net5.0\ref\SpecialNumber.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\SpecialNumber\bin\Debug\net5.0\SpecialNumber.pdb
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\SpecialNumber\obj\Debug\net5.0\SpecialNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\SpecialNumber\obj\Debug\net5.0\SpecialNumber.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\SpecialNumber\obj\Debug\net5.0\SpecialNumber.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\SpecialNumber\obj\Debug\net5.0\SpecialNumber.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\SpecialNumber\obj\Debug\net5.0\SpecialNumber.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\SpecialNumber\obj\Debug\net5.0\ref\SpecialNumber.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\SpecialNumber\obj\Debug\net5.0\SpecialNumber.pdb
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\SpecialNumber\obj\Debug\net5.0\SpecialNumber.genruntimeconfig.cache
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\SpecialNumber\obj\Debug\net5.0\SpecialNumber.csproj.AssemblyReference.cache

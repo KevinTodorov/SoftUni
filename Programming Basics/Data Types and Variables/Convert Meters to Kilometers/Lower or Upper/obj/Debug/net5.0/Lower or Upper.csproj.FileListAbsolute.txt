@@ -1,0 +1,15 @@
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\Lower or Upper\bin\Debug\net5.0\Lower or Upper.exe
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\Lower or Upper\bin\Debug\net5.0\Lower or Upper.deps.json
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\Lower or Upper\bin\Debug\net5.0\Lower or Upper.runtimeconfig.json
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\Lower or Upper\bin\Debug\net5.0\Lower or Upper.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\Lower or Upper\bin\Debug\net5.0\Lower or Upper.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\Lower or Upper\bin\Debug\net5.0\ref\Lower or Upper.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\Lower or Upper\bin\Debug\net5.0\Lower or Upper.pdb
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\Lower or Upper\obj\Debug\net5.0\Lower or Upper.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\Lower or Upper\obj\Debug\net5.0\Lower or Upper.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\Lower or Upper\obj\Debug\net5.0\Lower or Upper.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\Lower or Upper\obj\Debug\net5.0\Lower or Upper.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\Lower or Upper\obj\Debug\net5.0\Lower or Upper.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\Lower or Upper\obj\Debug\net5.0\ref\Lower or Upper.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\Lower or Upper\obj\Debug\net5.0\Lower or Upper.pdb
+D:\programiranee\Fundamentals Early\Data Types and Variables\Convert Meters to Kilometers\Lower or Upper\obj\Debug\net5.0\Lower or Upper.genruntimeconfig.cache
