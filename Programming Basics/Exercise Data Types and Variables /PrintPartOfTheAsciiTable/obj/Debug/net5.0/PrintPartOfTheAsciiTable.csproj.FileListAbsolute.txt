@@ -1,0 +1,15 @@
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\PrintPartOfTheAsciiTable\bin\Debug\net5.0\PrintPartOfTheAsciiTable.exe
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\PrintPartOfTheAsciiTable\bin\Debug\net5.0\PrintPartOfTheAsciiTable.deps.json
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\PrintPartOfTheAsciiTable\bin\Debug\net5.0\PrintPartOfTheAsciiTable.runtimeconfig.json
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\PrintPartOfTheAsciiTable\bin\Debug\net5.0\PrintPartOfTheAsciiTable.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\PrintPartOfTheAsciiTable\bin\Debug\net5.0\PrintPartOfTheAsciiTable.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\PrintPartOfTheAsciiTable\bin\Debug\net5.0\ref\PrintPartOfTheAsciiTable.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\PrintPartOfTheAsciiTable\bin\Debug\net5.0\PrintPartOfTheAsciiTable.pdb
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\PrintPartOfTheAsciiTable\obj\Debug\net5.0\PrintPartOfTheAsciiTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\PrintPartOfTheAsciiTable\obj\Debug\net5.0\PrintPartOfTheAsciiTable.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\PrintPartOfTheAsciiTable\obj\Debug\net5.0\PrintPartOfTheAsciiTable.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\PrintPartOfTheAsciiTable\obj\Debug\net5.0\PrintPartOfTheAsciiTable.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\PrintPartOfTheAsciiTable\obj\Debug\net5.0\PrintPartOfTheAsciiTable.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\PrintPartOfTheAsciiTable\obj\Debug\net5.0\ref\PrintPartOfTheAsciiTable.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\PrintPartOfTheAsciiTable\obj\Debug\net5.0\PrintPartOfTheAsciiTable.pdb
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\PrintPartOfTheAsciiTable\obj\Debug\net5.0\PrintPartOfTheAsciiTable.genruntimeconfig.cache

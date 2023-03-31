@@ -1,0 +1,15 @@
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\SnowBalls\bin\Debug\net5.0\SnowBalls.exe
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\SnowBalls\bin\Debug\net5.0\SnowBalls.deps.json
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\SnowBalls\bin\Debug\net5.0\SnowBalls.runtimeconfig.json
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\SnowBalls\bin\Debug\net5.0\SnowBalls.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\SnowBalls\bin\Debug\net5.0\SnowBalls.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\SnowBalls\bin\Debug\net5.0\ref\SnowBalls.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\SnowBalls\bin\Debug\net5.0\SnowBalls.pdb
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\SnowBalls\obj\Debug\net5.0\SnowBalls.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\SnowBalls\obj\Debug\net5.0\SnowBalls.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\SnowBalls\obj\Debug\net5.0\SnowBalls.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\SnowBalls\obj\Debug\net5.0\SnowBalls.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\SnowBalls\obj\Debug\net5.0\SnowBalls.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\SnowBalls\obj\Debug\net5.0\ref\SnowBalls.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\SnowBalls\obj\Debug\net5.0\SnowBalls.pdb
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\SnowBalls\obj\Debug\net5.0\SnowBalls.genruntimeconfig.cache

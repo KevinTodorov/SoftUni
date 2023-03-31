@@ -1,0 +1,16 @@
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Integer Options\bin\Debug\net5.0\Integer Options.exe
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Integer Options\bin\Debug\net5.0\Integer Options.deps.json
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Integer Options\bin\Debug\net5.0\Integer Options.runtimeconfig.json
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Integer Options\bin\Debug\net5.0\Integer Options.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Integer Options\bin\Debug\net5.0\Integer Options.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Integer Options\bin\Debug\net5.0\ref\Integer Options.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Integer Options\bin\Debug\net5.0\Integer Options.pdb
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Integer Options\obj\Debug\net5.0\Integer Options.csproj.AssemblyReference.cache
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Integer Options\obj\Debug\net5.0\Integer Options.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Integer Options\obj\Debug\net5.0\Integer Options.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Integer Options\obj\Debug\net5.0\Integer Options.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Integer Options\obj\Debug\net5.0\Integer Options.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Integer Options\obj\Debug\net5.0\Integer Options.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Integer Options\obj\Debug\net5.0\ref\Integer Options.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Integer Options\obj\Debug\net5.0\Integer Options.pdb
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Integer Options\obj\Debug\net5.0\Integer Options.genruntimeconfig.cache

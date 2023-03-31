@@ -1,0 +1,16 @@
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Beer Kegs\bin\Debug\net5.0\Beer Kegs.exe
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Beer Kegs\bin\Debug\net5.0\Beer Kegs.deps.json
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Beer Kegs\bin\Debug\net5.0\Beer Kegs.runtimeconfig.json
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Beer Kegs\bin\Debug\net5.0\Beer Kegs.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Beer Kegs\bin\Debug\net5.0\Beer Kegs.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Beer Kegs\bin\Debug\net5.0\ref\Beer Kegs.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Beer Kegs\bin\Debug\net5.0\Beer Kegs.pdb
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Beer Kegs\obj\Debug\net5.0\Beer Kegs.csproj.AssemblyReference.cache
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Beer Kegs\obj\Debug\net5.0\Beer Kegs.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Beer Kegs\obj\Debug\net5.0\Beer Kegs.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Beer Kegs\obj\Debug\net5.0\Beer Kegs.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Beer Kegs\obj\Debug\net5.0\Beer Kegs.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Beer Kegs\obj\Debug\net5.0\Beer Kegs.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Beer Kegs\obj\Debug\net5.0\ref\Beer Kegs.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Beer Kegs\obj\Debug\net5.0\Beer Kegs.pdb
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Beer Kegs\obj\Debug\net5.0\Beer Kegs.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Triples of Latin Letters\bin\Debug\net5.0\Triples of Latin Letters.exe
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Triples of Latin Letters\bin\Debug\net5.0\Triples of Latin Letters.deps.json
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Triples of Latin Letters\bin\Debug\net5.0\Triples of Latin Letters.runtimeconfig.json
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Triples of Latin Letters\bin\Debug\net5.0\Triples of Latin Letters.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Triples of Latin Letters\bin\Debug\net5.0\Triples of Latin Letters.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Triples of Latin Letters\bin\Debug\net5.0\ref\Triples of Latin Letters.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Triples of Latin Letters\bin\Debug\net5.0\Triples of Latin Letters.pdb
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Triples of Latin Letters\obj\Debug\net5.0\Triples of Latin Letters.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Triples of Latin Letters\obj\Debug\net5.0\Triples of Latin Letters.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Triples of Latin Letters\obj\Debug\net5.0\Triples of Latin Letters.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Triples of Latin Letters\obj\Debug\net5.0\Triples of Latin Letters.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Triples of Latin Letters\obj\Debug\net5.0\Triples of Latin Letters.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Triples of Latin Letters\obj\Debug\net5.0\ref\Triples of Latin Letters.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Triples of Latin Letters\obj\Debug\net5.0\Triples of Latin Letters.pdb
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Triples of Latin Letters\obj\Debug\net5.0\Triples of Latin Letters.genruntimeconfig.cache

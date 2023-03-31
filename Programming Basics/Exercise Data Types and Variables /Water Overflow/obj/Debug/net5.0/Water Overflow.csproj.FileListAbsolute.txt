@@ -1,0 +1,15 @@
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Water Overflow\bin\Debug\net5.0\Water Overflow.exe
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Water Overflow\bin\Debug\net5.0\Water Overflow.deps.json
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Water Overflow\bin\Debug\net5.0\Water Overflow.runtimeconfig.json
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Water Overflow\bin\Debug\net5.0\Water Overflow.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Water Overflow\bin\Debug\net5.0\Water Overflow.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Water Overflow\bin\Debug\net5.0\ref\Water Overflow.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Water Overflow\bin\Debug\net5.0\Water Overflow.pdb
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Water Overflow\obj\Debug\net5.0\Water Overflow.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Water Overflow\obj\Debug\net5.0\Water Overflow.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Water Overflow\obj\Debug\net5.0\Water Overflow.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Water Overflow\obj\Debug\net5.0\Water Overflow.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Water Overflow\obj\Debug\net5.0\Water Overflow.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Water Overflow\obj\Debug\net5.0\ref\Water Overflow.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Water Overflow\obj\Debug\net5.0\Water Overflow.pdb
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Water Overflow\obj\Debug\net5.0\Water Overflow.genruntimeconfig.cache

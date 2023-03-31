@@ -1,0 +1,16 @@
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\SpiceMustFlow\bin\Debug\net5.0\SpiceMustFlow.exe
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\SpiceMustFlow\bin\Debug\net5.0\SpiceMustFlow.deps.json
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\SpiceMustFlow\bin\Debug\net5.0\SpiceMustFlow.runtimeconfig.json
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\SpiceMustFlow\bin\Debug\net5.0\SpiceMustFlow.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\SpiceMustFlow\bin\Debug\net5.0\SpiceMustFlow.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\SpiceMustFlow\bin\Debug\net5.0\ref\SpiceMustFlow.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\SpiceMustFlow\bin\Debug\net5.0\SpiceMustFlow.pdb
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\SpiceMustFlow\obj\Debug\net5.0\SpiceMustFlow.csproj.AssemblyReference.cache
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\SpiceMustFlow\obj\Debug\net5.0\SpiceMustFlow.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\SpiceMustFlow\obj\Debug\net5.0\SpiceMustFlow.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\SpiceMustFlow\obj\Debug\net5.0\SpiceMustFlow.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\SpiceMustFlow\obj\Debug\net5.0\SpiceMustFlow.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\SpiceMustFlow\obj\Debug\net5.0\SpiceMustFlow.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\SpiceMustFlow\obj\Debug\net5.0\ref\SpiceMustFlow.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\SpiceMustFlow\obj\Debug\net5.0\SpiceMustFlow.pdb
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\SpiceMustFlow\obj\Debug\net5.0\SpiceMustFlow.genruntimeconfig.cache

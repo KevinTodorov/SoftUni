@@ -1,0 +1,15 @@
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\SumOfChars\bin\Debug\net5.0\SumOfChars.exe
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\SumOfChars\bin\Debug\net5.0\SumOfChars.deps.json
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\SumOfChars\bin\Debug\net5.0\SumOfChars.runtimeconfig.json
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\SumOfChars\bin\Debug\net5.0\SumOfChars.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\SumOfChars\bin\Debug\net5.0\SumOfChars.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\SumOfChars\bin\Debug\net5.0\ref\SumOfChars.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\SumOfChars\bin\Debug\net5.0\SumOfChars.pdb
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\SumOfChars\obj\Debug\net5.0\SumOfChars.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\SumOfChars\obj\Debug\net5.0\SumOfChars.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\SumOfChars\obj\Debug\net5.0\SumOfChars.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\SumOfChars\obj\Debug\net5.0\SumOfChars.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\SumOfChars\obj\Debug\net5.0\SumOfChars.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\SumOfChars\obj\Debug\net5.0\ref\SumOfChars.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\SumOfChars\obj\Debug\net5.0\SumOfChars.pdb
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\SumOfChars\obj\Debug\net5.0\SumOfChars.genruntimeconfig.cache

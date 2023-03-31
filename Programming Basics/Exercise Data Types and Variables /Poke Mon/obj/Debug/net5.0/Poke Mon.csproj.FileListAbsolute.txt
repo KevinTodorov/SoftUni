@@ -1,0 +1,16 @@
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Poke Mon\bin\Debug\net5.0\Poke Mon.exe
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Poke Mon\bin\Debug\net5.0\Poke Mon.deps.json
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Poke Mon\bin\Debug\net5.0\Poke Mon.runtimeconfig.json
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Poke Mon\bin\Debug\net5.0\Poke Mon.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Poke Mon\bin\Debug\net5.0\Poke Mon.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Poke Mon\bin\Debug\net5.0\ref\Poke Mon.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Poke Mon\bin\Debug\net5.0\Poke Mon.pdb
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Poke Mon\obj\Debug\net5.0\Poke Mon.csproj.AssemblyReference.cache
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Poke Mon\obj\Debug\net5.0\Poke Mon.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Poke Mon\obj\Debug\net5.0\Poke Mon.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Poke Mon\obj\Debug\net5.0\Poke Mon.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Poke Mon\obj\Debug\net5.0\Poke Mon.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Poke Mon\obj\Debug\net5.0\Poke Mon.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Poke Mon\obj\Debug\net5.0\ref\Poke Mon.dll
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Poke Mon\obj\Debug\net5.0\Poke Mon.pdb
+D:\programiranee\Fundamentals Early\Data Types and Variables exercise\Poke Mon\obj\Debug\net5.0\Poke Mon.genruntimeconfig.cache
