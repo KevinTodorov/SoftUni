@@ -1,0 +1,15 @@
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\asd\bin\Debug\net5.0\asd.exe
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\asd\bin\Debug\net5.0\asd.deps.json
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\asd\bin\Debug\net5.0\asd.runtimeconfig.json
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\asd\bin\Debug\net5.0\asd.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\asd\bin\Debug\net5.0\asd.dll
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\asd\bin\Debug\net5.0\ref\asd.dll
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\asd\bin\Debug\net5.0\asd.pdb
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\asd\obj\Debug\net5.0\asd.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\asd\obj\Debug\net5.0\asd.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\asd\obj\Debug\net5.0\asd.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\asd\obj\Debug\net5.0\asd.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\asd\obj\Debug\net5.0\asd.dll
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\asd\obj\Debug\net5.0\ref\asd.dll
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\asd\obj\Debug\net5.0\asd.pdb
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\asd\obj\Debug\net5.0\asd.genruntimeconfig.cache

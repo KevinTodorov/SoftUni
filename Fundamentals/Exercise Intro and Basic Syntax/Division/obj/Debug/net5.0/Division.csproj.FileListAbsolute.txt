@@ -1,0 +1,16 @@
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Division\bin\Debug\net5.0\Division.exe
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Division\bin\Debug\net5.0\Division.deps.json
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Division\bin\Debug\net5.0\Division.runtimeconfig.json
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Division\bin\Debug\net5.0\Division.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Division\bin\Debug\net5.0\Division.dll
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Division\bin\Debug\net5.0\ref\Division.dll
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Division\bin\Debug\net5.0\Division.pdb
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Division\obj\Debug\net5.0\Division.csproj.AssemblyReference.cache
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Division\obj\Debug\net5.0\Division.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Division\obj\Debug\net5.0\Division.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Division\obj\Debug\net5.0\Division.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Division\obj\Debug\net5.0\Division.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Division\obj\Debug\net5.0\Division.dll
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Division\obj\Debug\net5.0\ref\Division.dll
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Division\obj\Debug\net5.0\Division.pdb
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Division\obj\Debug\net5.0\Division.genruntimeconfig.cache

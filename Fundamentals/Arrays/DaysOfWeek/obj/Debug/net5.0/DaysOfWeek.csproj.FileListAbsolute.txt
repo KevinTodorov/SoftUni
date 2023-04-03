@@ -1,0 +1,16 @@
+D:\programiranee\Fundamentals Early\ArraysV2\DaysOfWeek\bin\Debug\net5.0\DaysOfWeek.exe
+D:\programiranee\Fundamentals Early\ArraysV2\DaysOfWeek\bin\Debug\net5.0\DaysOfWeek.deps.json
+D:\programiranee\Fundamentals Early\ArraysV2\DaysOfWeek\bin\Debug\net5.0\DaysOfWeek.runtimeconfig.json
+D:\programiranee\Fundamentals Early\ArraysV2\DaysOfWeek\bin\Debug\net5.0\DaysOfWeek.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\ArraysV2\DaysOfWeek\bin\Debug\net5.0\DaysOfWeek.dll
+D:\programiranee\Fundamentals Early\ArraysV2\DaysOfWeek\bin\Debug\net5.0\ref\DaysOfWeek.dll
+D:\programiranee\Fundamentals Early\ArraysV2\DaysOfWeek\bin\Debug\net5.0\DaysOfWeek.pdb
+D:\programiranee\Fundamentals Early\ArraysV2\DaysOfWeek\obj\Debug\net5.0\DaysOfWeek.csproj.AssemblyReference.cache
+D:\programiranee\Fundamentals Early\ArraysV2\DaysOfWeek\obj\Debug\net5.0\DaysOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\ArraysV2\DaysOfWeek\obj\Debug\net5.0\DaysOfWeek.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\ArraysV2\DaysOfWeek\obj\Debug\net5.0\DaysOfWeek.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\ArraysV2\DaysOfWeek\obj\Debug\net5.0\DaysOfWeek.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\ArraysV2\DaysOfWeek\obj\Debug\net5.0\DaysOfWeek.dll
+D:\programiranee\Fundamentals Early\ArraysV2\DaysOfWeek\obj\Debug\net5.0\ref\DaysOfWeek.dll
+D:\programiranee\Fundamentals Early\ArraysV2\DaysOfWeek\obj\Debug\net5.0\DaysOfWeek.pdb
+D:\programiranee\Fundamentals Early\ArraysV2\DaysOfWeek\obj\Debug\net5.0\DaysOfWeek.genruntimeconfig.cache

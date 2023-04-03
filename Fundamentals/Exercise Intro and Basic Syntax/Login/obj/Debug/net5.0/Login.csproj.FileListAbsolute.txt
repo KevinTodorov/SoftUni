@@ -1,0 +1,16 @@
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Login\bin\Debug\net5.0\Login.exe
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Login\bin\Debug\net5.0\Login.deps.json
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Login\bin\Debug\net5.0\Login.runtimeconfig.json
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Login\bin\Debug\net5.0\Login.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Login\bin\Debug\net5.0\Login.dll
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Login\bin\Debug\net5.0\ref\Login.dll
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Login\bin\Debug\net5.0\Login.pdb
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Login\obj\Debug\net5.0\Login.csproj.AssemblyReference.cache
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Login\obj\Debug\net5.0\Login.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Login\obj\Debug\net5.0\Login.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Login\obj\Debug\net5.0\Login.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Login\obj\Debug\net5.0\Login.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Login\obj\Debug\net5.0\Login.dll
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Login\obj\Debug\net5.0\ref\Login.dll
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Login\obj\Debug\net5.0\Login.pdb
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Login\obj\Debug\net5.0\Login.genruntimeconfig.cache

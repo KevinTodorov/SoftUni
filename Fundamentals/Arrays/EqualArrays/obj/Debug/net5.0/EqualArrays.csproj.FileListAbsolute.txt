@@ -1,0 +1,16 @@
+D:\programiranee\Fundamentals Early\ArraysV2\EqualArrays\bin\Debug\net5.0\EqualArrays.exe
+D:\programiranee\Fundamentals Early\ArraysV2\EqualArrays\bin\Debug\net5.0\EqualArrays.deps.json
+D:\programiranee\Fundamentals Early\ArraysV2\EqualArrays\bin\Debug\net5.0\EqualArrays.runtimeconfig.json
+D:\programiranee\Fundamentals Early\ArraysV2\EqualArrays\bin\Debug\net5.0\EqualArrays.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\ArraysV2\EqualArrays\bin\Debug\net5.0\EqualArrays.dll
+D:\programiranee\Fundamentals Early\ArraysV2\EqualArrays\bin\Debug\net5.0\ref\EqualArrays.dll
+D:\programiranee\Fundamentals Early\ArraysV2\EqualArrays\bin\Debug\net5.0\EqualArrays.pdb
+D:\programiranee\Fundamentals Early\ArraysV2\EqualArrays\obj\Debug\net5.0\EqualArrays.csproj.AssemblyReference.cache
+D:\programiranee\Fundamentals Early\ArraysV2\EqualArrays\obj\Debug\net5.0\EqualArrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\ArraysV2\EqualArrays\obj\Debug\net5.0\EqualArrays.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\ArraysV2\EqualArrays\obj\Debug\net5.0\EqualArrays.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\ArraysV2\EqualArrays\obj\Debug\net5.0\EqualArrays.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\ArraysV2\EqualArrays\obj\Debug\net5.0\EqualArrays.dll
+D:\programiranee\Fundamentals Early\ArraysV2\EqualArrays\obj\Debug\net5.0\ref\EqualArrays.dll
+D:\programiranee\Fundamentals Early\ArraysV2\EqualArrays\obj\Debug\net5.0\EqualArrays.pdb
+D:\programiranee\Fundamentals Early\ArraysV2\EqualArrays\obj\Debug\net5.0\EqualArrays.genruntimeconfig.cache

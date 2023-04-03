@@ -1,0 +1,15 @@
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Strong Number\bin\Debug\net5.0\Strong Number.exe
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Strong Number\bin\Debug\net5.0\Strong Number.deps.json
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Strong Number\bin\Debug\net5.0\Strong Number.runtimeconfig.json
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Strong Number\bin\Debug\net5.0\Strong Number.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Strong Number\bin\Debug\net5.0\Strong Number.dll
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Strong Number\bin\Debug\net5.0\ref\Strong Number.dll
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Strong Number\bin\Debug\net5.0\Strong Number.pdb
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Strong Number\obj\Debug\net5.0\Strong Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Strong Number\obj\Debug\net5.0\Strong Number.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Strong Number\obj\Debug\net5.0\Strong Number.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Strong Number\obj\Debug\net5.0\Strong Number.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Strong Number\obj\Debug\net5.0\Strong Number.dll
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Strong Number\obj\Debug\net5.0\ref\Strong Number.dll
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Strong Number\obj\Debug\net5.0\Strong Number.pdb
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Strong Number\obj\Debug\net5.0\Strong Number.genruntimeconfig.cache

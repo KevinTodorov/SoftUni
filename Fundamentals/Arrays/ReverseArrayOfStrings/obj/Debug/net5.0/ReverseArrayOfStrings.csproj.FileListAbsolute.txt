@@ -1,0 +1,15 @@
+D:\programiranee\Fundamentals Early\ArraysV2\ReverseArrayOfStrings\bin\Debug\net5.0\ReverseArrayOfStrings.exe
+D:\programiranee\Fundamentals Early\ArraysV2\ReverseArrayOfStrings\bin\Debug\net5.0\ReverseArrayOfStrings.deps.json
+D:\programiranee\Fundamentals Early\ArraysV2\ReverseArrayOfStrings\bin\Debug\net5.0\ReverseArrayOfStrings.runtimeconfig.json
+D:\programiranee\Fundamentals Early\ArraysV2\ReverseArrayOfStrings\bin\Debug\net5.0\ReverseArrayOfStrings.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\ArraysV2\ReverseArrayOfStrings\bin\Debug\net5.0\ReverseArrayOfStrings.dll
+D:\programiranee\Fundamentals Early\ArraysV2\ReverseArrayOfStrings\bin\Debug\net5.0\ref\ReverseArrayOfStrings.dll
+D:\programiranee\Fundamentals Early\ArraysV2\ReverseArrayOfStrings\bin\Debug\net5.0\ReverseArrayOfStrings.pdb
+D:\programiranee\Fundamentals Early\ArraysV2\ReverseArrayOfStrings\obj\Debug\net5.0\ReverseArrayOfStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\ArraysV2\ReverseArrayOfStrings\obj\Debug\net5.0\ReverseArrayOfStrings.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\ArraysV2\ReverseArrayOfStrings\obj\Debug\net5.0\ReverseArrayOfStrings.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\ArraysV2\ReverseArrayOfStrings\obj\Debug\net5.0\ReverseArrayOfStrings.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\ArraysV2\ReverseArrayOfStrings\obj\Debug\net5.0\ReverseArrayOfStrings.dll
+D:\programiranee\Fundamentals Early\ArraysV2\ReverseArrayOfStrings\obj\Debug\net5.0\ref\ReverseArrayOfStrings.dll
+D:\programiranee\Fundamentals Early\ArraysV2\ReverseArrayOfStrings\obj\Debug\net5.0\ReverseArrayOfStrings.pdb
+D:\programiranee\Fundamentals Early\ArraysV2\ReverseArrayOfStrings\obj\Debug\net5.0\ReverseArrayOfStrings.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Print and Sum\bin\Debug\net5.0\Print and Sum.exe
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Print and Sum\bin\Debug\net5.0\Print and Sum.deps.json
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Print and Sum\bin\Debug\net5.0\Print and Sum.runtimeconfig.json
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Print and Sum\bin\Debug\net5.0\Print and Sum.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Print and Sum\bin\Debug\net5.0\Print and Sum.dll
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Print and Sum\bin\Debug\net5.0\ref\Print and Sum.dll
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Print and Sum\bin\Debug\net5.0\Print and Sum.pdb
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Print and Sum\obj\Debug\net5.0\Print and Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Print and Sum\obj\Debug\net5.0\Print and Sum.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Print and Sum\obj\Debug\net5.0\Print and Sum.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Print and Sum\obj\Debug\net5.0\Print and Sum.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Print and Sum\obj\Debug\net5.0\Print and Sum.dll
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Print and Sum\obj\Debug\net5.0\ref\Print and Sum.dll
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Print and Sum\obj\Debug\net5.0\Print and Sum.pdb
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Print and Sum\obj\Debug\net5.0\Print and Sum.genruntimeconfig.cache

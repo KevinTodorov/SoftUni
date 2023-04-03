@@ -1,0 +1,16 @@
+D:\programiranee\Fundamentals Early\ArraysV2\PrintNumbersInReverseOrder\bin\Debug\net5.0\PrintNumbersInReverseOrder.exe
+D:\programiranee\Fundamentals Early\ArraysV2\PrintNumbersInReverseOrder\bin\Debug\net5.0\PrintNumbersInReverseOrder.deps.json
+D:\programiranee\Fundamentals Early\ArraysV2\PrintNumbersInReverseOrder\bin\Debug\net5.0\PrintNumbersInReverseOrder.runtimeconfig.json
+D:\programiranee\Fundamentals Early\ArraysV2\PrintNumbersInReverseOrder\bin\Debug\net5.0\PrintNumbersInReverseOrder.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\ArraysV2\PrintNumbersInReverseOrder\bin\Debug\net5.0\PrintNumbersInReverseOrder.dll
+D:\programiranee\Fundamentals Early\ArraysV2\PrintNumbersInReverseOrder\bin\Debug\net5.0\ref\PrintNumbersInReverseOrder.dll
+D:\programiranee\Fundamentals Early\ArraysV2\PrintNumbersInReverseOrder\bin\Debug\net5.0\PrintNumbersInReverseOrder.pdb
+D:\programiranee\Fundamentals Early\ArraysV2\PrintNumbersInReverseOrder\obj\Debug\net5.0\PrintNumbersInReverseOrder.csproj.AssemblyReference.cache
+D:\programiranee\Fundamentals Early\ArraysV2\PrintNumbersInReverseOrder\obj\Debug\net5.0\PrintNumbersInReverseOrder.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\ArraysV2\PrintNumbersInReverseOrder\obj\Debug\net5.0\PrintNumbersInReverseOrder.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\ArraysV2\PrintNumbersInReverseOrder\obj\Debug\net5.0\PrintNumbersInReverseOrder.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\ArraysV2\PrintNumbersInReverseOrder\obj\Debug\net5.0\PrintNumbersInReverseOrder.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\ArraysV2\PrintNumbersInReverseOrder\obj\Debug\net5.0\PrintNumbersInReverseOrder.dll
+D:\programiranee\Fundamentals Early\ArraysV2\PrintNumbersInReverseOrder\obj\Debug\net5.0\ref\PrintNumbersInReverseOrder.dll
+D:\programiranee\Fundamentals Early\ArraysV2\PrintNumbersInReverseOrder\obj\Debug\net5.0\PrintNumbersInReverseOrder.pdb
+D:\programiranee\Fundamentals Early\ArraysV2\PrintNumbersInReverseOrder\obj\Debug\net5.0\PrintNumbersInReverseOrder.genruntimeconfig.cache

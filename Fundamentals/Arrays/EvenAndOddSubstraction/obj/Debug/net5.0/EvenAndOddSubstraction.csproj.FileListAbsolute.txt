@@ -1,0 +1,15 @@
+D:\programiranee\Fundamentals Early\ArraysV2\EvenAndOddSubstraction\bin\Debug\net5.0\EvenAndOddSubstraction.exe
+D:\programiranee\Fundamentals Early\ArraysV2\EvenAndOddSubstraction\bin\Debug\net5.0\EvenAndOddSubstraction.deps.json
+D:\programiranee\Fundamentals Early\ArraysV2\EvenAndOddSubstraction\bin\Debug\net5.0\EvenAndOddSubstraction.runtimeconfig.json
+D:\programiranee\Fundamentals Early\ArraysV2\EvenAndOddSubstraction\bin\Debug\net5.0\EvenAndOddSubstraction.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\ArraysV2\EvenAndOddSubstraction\bin\Debug\net5.0\EvenAndOddSubstraction.dll
+D:\programiranee\Fundamentals Early\ArraysV2\EvenAndOddSubstraction\bin\Debug\net5.0\ref\EvenAndOddSubstraction.dll
+D:\programiranee\Fundamentals Early\ArraysV2\EvenAndOddSubstraction\bin\Debug\net5.0\EvenAndOddSubstraction.pdb
+D:\programiranee\Fundamentals Early\ArraysV2\EvenAndOddSubstraction\obj\Debug\net5.0\EvenAndOddSubstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\ArraysV2\EvenAndOddSubstraction\obj\Debug\net5.0\EvenAndOddSubstraction.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\ArraysV2\EvenAndOddSubstraction\obj\Debug\net5.0\EvenAndOddSubstraction.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\ArraysV2\EvenAndOddSubstraction\obj\Debug\net5.0\EvenAndOddSubstraction.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\ArraysV2\EvenAndOddSubstraction\obj\Debug\net5.0\EvenAndOddSubstraction.dll
+D:\programiranee\Fundamentals Early\ArraysV2\EvenAndOddSubstraction\obj\Debug\net5.0\ref\EvenAndOddSubstraction.dll
+D:\programiranee\Fundamentals Early\ArraysV2\EvenAndOddSubstraction\obj\Debug\net5.0\EvenAndOddSubstraction.pdb
+D:\programiranee\Fundamentals Early\ArraysV2\EvenAndOddSubstraction\obj\Debug\net5.0\EvenAndOddSubstraction.genruntimeconfig.cache

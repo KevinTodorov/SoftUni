@@ -1,0 +1,16 @@
+D:\programiranee\Fundamentals Early\ArraysV2\CondenceArrayToNumber\bin\Debug\net5.0\CondenceArrayToNumber.exe
+D:\programiranee\Fundamentals Early\ArraysV2\CondenceArrayToNumber\bin\Debug\net5.0\CondenceArrayToNumber.deps.json
+D:\programiranee\Fundamentals Early\ArraysV2\CondenceArrayToNumber\bin\Debug\net5.0\CondenceArrayToNumber.runtimeconfig.json
+D:\programiranee\Fundamentals Early\ArraysV2\CondenceArrayToNumber\bin\Debug\net5.0\CondenceArrayToNumber.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\ArraysV2\CondenceArrayToNumber\bin\Debug\net5.0\CondenceArrayToNumber.dll
+D:\programiranee\Fundamentals Early\ArraysV2\CondenceArrayToNumber\bin\Debug\net5.0\ref\CondenceArrayToNumber.dll
+D:\programiranee\Fundamentals Early\ArraysV2\CondenceArrayToNumber\bin\Debug\net5.0\CondenceArrayToNumber.pdb
+D:\programiranee\Fundamentals Early\ArraysV2\CondenceArrayToNumber\obj\Debug\net5.0\CondenceArrayToNumber.csproj.AssemblyReference.cache
+D:\programiranee\Fundamentals Early\ArraysV2\CondenceArrayToNumber\obj\Debug\net5.0\CondenceArrayToNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\ArraysV2\CondenceArrayToNumber\obj\Debug\net5.0\CondenceArrayToNumber.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\ArraysV2\CondenceArrayToNumber\obj\Debug\net5.0\CondenceArrayToNumber.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\ArraysV2\CondenceArrayToNumber\obj\Debug\net5.0\CondenceArrayToNumber.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\ArraysV2\CondenceArrayToNumber\obj\Debug\net5.0\CondenceArrayToNumber.dll
+D:\programiranee\Fundamentals Early\ArraysV2\CondenceArrayToNumber\obj\Debug\net5.0\ref\CondenceArrayToNumber.dll
+D:\programiranee\Fundamentals Early\ArraysV2\CondenceArrayToNumber\obj\Debug\net5.0\CondenceArrayToNumber.pdb
+D:\programiranee\Fundamentals Early\ArraysV2\CondenceArrayToNumber\obj\Debug\net5.0\CondenceArrayToNumber.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Rage Expenses\bin\Debug\net5.0\Rage Expenses.exe
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Rage Expenses\bin\Debug\net5.0\Rage Expenses.deps.json
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Rage Expenses\bin\Debug\net5.0\Rage Expenses.runtimeconfig.json
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Rage Expenses\bin\Debug\net5.0\Rage Expenses.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Rage Expenses\bin\Debug\net5.0\Rage Expenses.dll
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Rage Expenses\bin\Debug\net5.0\ref\Rage Expenses.dll
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Rage Expenses\bin\Debug\net5.0\Rage Expenses.pdb
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Rage Expenses\obj\Debug\net5.0\Rage Expenses.csproj.AssemblyReference.cache
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Rage Expenses\obj\Debug\net5.0\Rage Expenses.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Rage Expenses\obj\Debug\net5.0\Rage Expenses.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Rage Expenses\obj\Debug\net5.0\Rage Expenses.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Rage Expenses\obj\Debug\net5.0\Rage Expenses.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Rage Expenses\obj\Debug\net5.0\Rage Expenses.dll
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Rage Expenses\obj\Debug\net5.0\ref\Rage Expenses.dll
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Rage Expenses\obj\Debug\net5.0\Rage Expenses.pdb
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Rage Expenses\obj\Debug\net5.0\Rage Expenses.genruntimeconfig.cache

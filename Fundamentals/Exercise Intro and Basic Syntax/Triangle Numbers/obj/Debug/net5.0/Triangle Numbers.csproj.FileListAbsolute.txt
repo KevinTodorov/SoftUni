@@ -1,0 +1,15 @@
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Triangle Numbers\bin\Debug\net5.0\Triangle Numbers.exe
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Triangle Numbers\bin\Debug\net5.0\Triangle Numbers.deps.json
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Triangle Numbers\bin\Debug\net5.0\Triangle Numbers.runtimeconfig.json
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Triangle Numbers\bin\Debug\net5.0\Triangle Numbers.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Triangle Numbers\bin\Debug\net5.0\Triangle Numbers.dll
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Triangle Numbers\bin\Debug\net5.0\ref\Triangle Numbers.dll
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Triangle Numbers\bin\Debug\net5.0\Triangle Numbers.pdb
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Triangle Numbers\obj\Debug\net5.0\Triangle Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Triangle Numbers\obj\Debug\net5.0\Triangle Numbers.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Triangle Numbers\obj\Debug\net5.0\Triangle Numbers.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Triangle Numbers\obj\Debug\net5.0\Triangle Numbers.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Triangle Numbers\obj\Debug\net5.0\Triangle Numbers.dll
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Triangle Numbers\obj\Debug\net5.0\ref\Triangle Numbers.dll
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Triangle Numbers\obj\Debug\net5.0\Triangle Numbers.pdb
+D:\programiranee\Fundamentals Early\Exercise Intro and Basic Syntax\Triangle Numbers\obj\Debug\net5.0\Triangle Numbers.genruntimeconfig.cache

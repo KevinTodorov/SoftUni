@@ -1,0 +1,15 @@
+D:\programiranee\Fundamentals Early\ArraysV2\RoundingNumbers\bin\Debug\net5.0\RoundingNumbers.exe
+D:\programiranee\Fundamentals Early\ArraysV2\RoundingNumbers\bin\Debug\net5.0\RoundingNumbers.deps.json
+D:\programiranee\Fundamentals Early\ArraysV2\RoundingNumbers\bin\Debug\net5.0\RoundingNumbers.runtimeconfig.json
+D:\programiranee\Fundamentals Early\ArraysV2\RoundingNumbers\bin\Debug\net5.0\RoundingNumbers.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\ArraysV2\RoundingNumbers\bin\Debug\net5.0\RoundingNumbers.dll
+D:\programiranee\Fundamentals Early\ArraysV2\RoundingNumbers\bin\Debug\net5.0\ref\RoundingNumbers.dll
+D:\programiranee\Fundamentals Early\ArraysV2\RoundingNumbers\bin\Debug\net5.0\RoundingNumbers.pdb
+D:\programiranee\Fundamentals Early\ArraysV2\RoundingNumbers\obj\Debug\net5.0\RoundingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\ArraysV2\RoundingNumbers\obj\Debug\net5.0\RoundingNumbers.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\ArraysV2\RoundingNumbers\obj\Debug\net5.0\RoundingNumbers.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\ArraysV2\RoundingNumbers\obj\Debug\net5.0\RoundingNumbers.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\ArraysV2\RoundingNumbers\obj\Debug\net5.0\RoundingNumbers.dll
+D:\programiranee\Fundamentals Early\ArraysV2\RoundingNumbers\obj\Debug\net5.0\ref\RoundingNumbers.dll
+D:\programiranee\Fundamentals Early\ArraysV2\RoundingNumbers\obj\Debug\net5.0\RoundingNumbers.pdb
+D:\programiranee\Fundamentals Early\ArraysV2\RoundingNumbers\obj\Debug\net5.0\RoundingNumbers.genruntimeconfig.cache
