@@ -1,0 +1,16 @@
+D:\programiranee\Fundamentals Early\ArraysExercise\ArrayRotation\bin\Debug\net5.0\ArrayRotation.exe
+D:\programiranee\Fundamentals Early\ArraysExercise\ArrayRotation\bin\Debug\net5.0\ArrayRotation.deps.json
+D:\programiranee\Fundamentals Early\ArraysExercise\ArrayRotation\bin\Debug\net5.0\ArrayRotation.runtimeconfig.json
+D:\programiranee\Fundamentals Early\ArraysExercise\ArrayRotation\bin\Debug\net5.0\ArrayRotation.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\ArraysExercise\ArrayRotation\bin\Debug\net5.0\ArrayRotation.dll
+D:\programiranee\Fundamentals Early\ArraysExercise\ArrayRotation\bin\Debug\net5.0\ref\ArrayRotation.dll
+D:\programiranee\Fundamentals Early\ArraysExercise\ArrayRotation\bin\Debug\net5.0\ArrayRotation.pdb
+D:\programiranee\Fundamentals Early\ArraysExercise\ArrayRotation\obj\Debug\net5.0\ArrayRotation.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\ArraysExercise\ArrayRotation\obj\Debug\net5.0\ArrayRotation.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\ArraysExercise\ArrayRotation\obj\Debug\net5.0\ArrayRotation.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\ArraysExercise\ArrayRotation\obj\Debug\net5.0\ArrayRotation.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\ArraysExercise\ArrayRotation\obj\Debug\net5.0\ArrayRotation.dll
+D:\programiranee\Fundamentals Early\ArraysExercise\ArrayRotation\obj\Debug\net5.0\ref\ArrayRotation.dll
+D:\programiranee\Fundamentals Early\ArraysExercise\ArrayRotation\obj\Debug\net5.0\ArrayRotation.pdb
+D:\programiranee\Fundamentals Early\ArraysExercise\ArrayRotation\obj\Debug\net5.0\ArrayRotation.genruntimeconfig.cache
+D:\programiranee\Fundamentals Early\ArraysExercise\ArrayRotation\obj\Debug\net5.0\ArrayRotation.csproj.AssemblyReference.cache

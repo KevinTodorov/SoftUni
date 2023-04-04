@@ -1,0 +1,16 @@
+D:\programiranee\Fundamentals Early\ArraysExercise\TopIntegers\bin\Debug\net5.0\TopIntegers.exe
+D:\programiranee\Fundamentals Early\ArraysExercise\TopIntegers\bin\Debug\net5.0\TopIntegers.deps.json
+D:\programiranee\Fundamentals Early\ArraysExercise\TopIntegers\bin\Debug\net5.0\TopIntegers.runtimeconfig.json
+D:\programiranee\Fundamentals Early\ArraysExercise\TopIntegers\bin\Debug\net5.0\TopIntegers.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\ArraysExercise\TopIntegers\bin\Debug\net5.0\TopIntegers.dll
+D:\programiranee\Fundamentals Early\ArraysExercise\TopIntegers\bin\Debug\net5.0\ref\TopIntegers.dll
+D:\programiranee\Fundamentals Early\ArraysExercise\TopIntegers\bin\Debug\net5.0\TopIntegers.pdb
+D:\programiranee\Fundamentals Early\ArraysExercise\TopIntegers\obj\Debug\net5.0\TopIntegers.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\ArraysExercise\TopIntegers\obj\Debug\net5.0\TopIntegers.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\ArraysExercise\TopIntegers\obj\Debug\net5.0\TopIntegers.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\ArraysExercise\TopIntegers\obj\Debug\net5.0\TopIntegers.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\ArraysExercise\TopIntegers\obj\Debug\net5.0\TopIntegers.dll
+D:\programiranee\Fundamentals Early\ArraysExercise\TopIntegers\obj\Debug\net5.0\ref\TopIntegers.dll
+D:\programiranee\Fundamentals Early\ArraysExercise\TopIntegers\obj\Debug\net5.0\TopIntegers.pdb
+D:\programiranee\Fundamentals Early\ArraysExercise\TopIntegers\obj\Debug\net5.0\TopIntegers.genruntimeconfig.cache
+D:\programiranee\Fundamentals Early\ArraysExercise\TopIntegers\obj\Debug\net5.0\TopIntegers.csproj.AssemblyReference.cache

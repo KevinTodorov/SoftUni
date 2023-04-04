@@ -1,0 +1,16 @@
+D:\programiranee\Fundamentals Early\ArraysExercise\CommonElements\bin\Debug\net5.0\CommonElements.exe
+D:\programiranee\Fundamentals Early\ArraysExercise\CommonElements\bin\Debug\net5.0\CommonElements.deps.json
+D:\programiranee\Fundamentals Early\ArraysExercise\CommonElements\bin\Debug\net5.0\CommonElements.runtimeconfig.json
+D:\programiranee\Fundamentals Early\ArraysExercise\CommonElements\bin\Debug\net5.0\CommonElements.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\ArraysExercise\CommonElements\bin\Debug\net5.0\CommonElements.dll
+D:\programiranee\Fundamentals Early\ArraysExercise\CommonElements\bin\Debug\net5.0\ref\CommonElements.dll
+D:\programiranee\Fundamentals Early\ArraysExercise\CommonElements\bin\Debug\net5.0\CommonElements.pdb
+D:\programiranee\Fundamentals Early\ArraysExercise\CommonElements\obj\Debug\net5.0\CommonElements.csproj.AssemblyReference.cache
+D:\programiranee\Fundamentals Early\ArraysExercise\CommonElements\obj\Debug\net5.0\CommonElements.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\ArraysExercise\CommonElements\obj\Debug\net5.0\CommonElements.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\ArraysExercise\CommonElements\obj\Debug\net5.0\CommonElements.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\ArraysExercise\CommonElements\obj\Debug\net5.0\CommonElements.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\ArraysExercise\CommonElements\obj\Debug\net5.0\CommonElements.dll
+D:\programiranee\Fundamentals Early\ArraysExercise\CommonElements\obj\Debug\net5.0\ref\CommonElements.dll
+D:\programiranee\Fundamentals Early\ArraysExercise\CommonElements\obj\Debug\net5.0\CommonElements.pdb
+D:\programiranee\Fundamentals Early\ArraysExercise\CommonElements\obj\Debug\net5.0\CommonElements.genruntimeconfig.cache

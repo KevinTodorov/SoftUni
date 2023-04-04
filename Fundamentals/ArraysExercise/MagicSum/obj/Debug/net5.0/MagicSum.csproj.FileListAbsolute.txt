@@ -1,0 +1,15 @@
+D:\programiranee\Fundamentals Early\ArraysExercise\MagicSum\bin\Debug\net5.0\MagicSum.exe
+D:\programiranee\Fundamentals Early\ArraysExercise\MagicSum\bin\Debug\net5.0\MagicSum.deps.json
+D:\programiranee\Fundamentals Early\ArraysExercise\MagicSum\bin\Debug\net5.0\MagicSum.runtimeconfig.json
+D:\programiranee\Fundamentals Early\ArraysExercise\MagicSum\bin\Debug\net5.0\MagicSum.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\ArraysExercise\MagicSum\bin\Debug\net5.0\MagicSum.dll
+D:\programiranee\Fundamentals Early\ArraysExercise\MagicSum\bin\Debug\net5.0\ref\MagicSum.dll
+D:\programiranee\Fundamentals Early\ArraysExercise\MagicSum\bin\Debug\net5.0\MagicSum.pdb
+D:\programiranee\Fundamentals Early\ArraysExercise\MagicSum\obj\Debug\net5.0\MagicSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\ArraysExercise\MagicSum\obj\Debug\net5.0\MagicSum.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\ArraysExercise\MagicSum\obj\Debug\net5.0\MagicSum.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\ArraysExercise\MagicSum\obj\Debug\net5.0\MagicSum.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\ArraysExercise\MagicSum\obj\Debug\net5.0\MagicSum.dll
+D:\programiranee\Fundamentals Early\ArraysExercise\MagicSum\obj\Debug\net5.0\ref\MagicSum.dll
+D:\programiranee\Fundamentals Early\ArraysExercise\MagicSum\obj\Debug\net5.0\MagicSum.pdb
+D:\programiranee\Fundamentals Early\ArraysExercise\MagicSum\obj\Debug\net5.0\MagicSum.genruntimeconfig.cache

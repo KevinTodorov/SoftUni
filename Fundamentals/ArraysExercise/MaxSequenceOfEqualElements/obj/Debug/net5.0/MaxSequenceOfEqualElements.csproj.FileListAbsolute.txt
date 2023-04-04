@@ -1,0 +1,15 @@
+D:\programiranee\Fundamentals Early\ArraysExercise\MaxSequenceOfEqualElements\bin\Debug\net5.0\MaxSequenceOfEqualElements.exe
+D:\programiranee\Fundamentals Early\ArraysExercise\MaxSequenceOfEqualElements\bin\Debug\net5.0\MaxSequenceOfEqualElements.deps.json
+D:\programiranee\Fundamentals Early\ArraysExercise\MaxSequenceOfEqualElements\bin\Debug\net5.0\MaxSequenceOfEqualElements.runtimeconfig.json
+D:\programiranee\Fundamentals Early\ArraysExercise\MaxSequenceOfEqualElements\bin\Debug\net5.0\MaxSequenceOfEqualElements.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\ArraysExercise\MaxSequenceOfEqualElements\bin\Debug\net5.0\MaxSequenceOfEqualElements.dll
+D:\programiranee\Fundamentals Early\ArraysExercise\MaxSequenceOfEqualElements\bin\Debug\net5.0\ref\MaxSequenceOfEqualElements.dll
+D:\programiranee\Fundamentals Early\ArraysExercise\MaxSequenceOfEqualElements\bin\Debug\net5.0\MaxSequenceOfEqualElements.pdb
+D:\programiranee\Fundamentals Early\ArraysExercise\MaxSequenceOfEqualElements\obj\Debug\net5.0\MaxSequenceOfEqualElements.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\ArraysExercise\MaxSequenceOfEqualElements\obj\Debug\net5.0\MaxSequenceOfEqualElements.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\ArraysExercise\MaxSequenceOfEqualElements\obj\Debug\net5.0\MaxSequenceOfEqualElements.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\ArraysExercise\MaxSequenceOfEqualElements\obj\Debug\net5.0\MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\ArraysExercise\MaxSequenceOfEqualElements\obj\Debug\net5.0\MaxSequenceOfEqualElements.dll
+D:\programiranee\Fundamentals Early\ArraysExercise\MaxSequenceOfEqualElements\obj\Debug\net5.0\ref\MaxSequenceOfEqualElements.dll
+D:\programiranee\Fundamentals Early\ArraysExercise\MaxSequenceOfEqualElements\obj\Debug\net5.0\MaxSequenceOfEqualElements.pdb
+D:\programiranee\Fundamentals Early\ArraysExercise\MaxSequenceOfEqualElements\obj\Debug\net5.0\MaxSequenceOfEqualElements.genruntimeconfig.cache

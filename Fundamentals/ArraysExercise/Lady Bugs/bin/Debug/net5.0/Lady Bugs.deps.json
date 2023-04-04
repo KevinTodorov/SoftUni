@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Lady Bugs/1.0.0": {
+        "runtime": {
+          "Lady Bugs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lady Bugs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+D:\programiranee\Fundamentals Early\ArraysExercise\LadyBugsV2\bin\Debug\net5.0\LadyBugsV2.exe
+D:\programiranee\Fundamentals Early\ArraysExercise\LadyBugsV2\bin\Debug\net5.0\LadyBugsV2.deps.json
+D:\programiranee\Fundamentals Early\ArraysExercise\LadyBugsV2\bin\Debug\net5.0\LadyBugsV2.runtimeconfig.json
+D:\programiranee\Fundamentals Early\ArraysExercise\LadyBugsV2\bin\Debug\net5.0\LadyBugsV2.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\ArraysExercise\LadyBugsV2\bin\Debug\net5.0\LadyBugsV2.dll
+D:\programiranee\Fundamentals Early\ArraysExercise\LadyBugsV2\bin\Debug\net5.0\ref\LadyBugsV2.dll
+D:\programiranee\Fundamentals Early\ArraysExercise\LadyBugsV2\bin\Debug\net5.0\LadyBugsV2.pdb
+D:\programiranee\Fundamentals Early\ArraysExercise\LadyBugsV2\obj\Debug\net5.0\LadyBugsV2.csproj.AssemblyReference.cache
+D:\programiranee\Fundamentals Early\ArraysExercise\LadyBugsV2\obj\Debug\net5.0\LadyBugsV2.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\ArraysExercise\LadyBugsV2\obj\Debug\net5.0\LadyBugsV2.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\ArraysExercise\LadyBugsV2\obj\Debug\net5.0\LadyBugsV2.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\ArraysExercise\LadyBugsV2\obj\Debug\net5.0\LadyBugsV2.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\ArraysExercise\LadyBugsV2\obj\Debug\net5.0\LadyBugsV2.dll
+D:\programiranee\Fundamentals Early\ArraysExercise\LadyBugsV2\obj\Debug\net5.0\ref\LadyBugsV2.dll
+D:\programiranee\Fundamentals Early\ArraysExercise\LadyBugsV2\obj\Debug\net5.0\LadyBugsV2.pdb
+D:\programiranee\Fundamentals Early\ArraysExercise\LadyBugsV2\obj\Debug\net5.0\LadyBugsV2.genruntimeconfig.cache
