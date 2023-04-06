@@ -1,0 +1,16 @@
+D:\programiranee\Fundamentals Early\Methods\Sign of Integer Number\bin\Debug\net5.0\Sign of Integer Number.exe
+D:\programiranee\Fundamentals Early\Methods\Sign of Integer Number\bin\Debug\net5.0\Sign of Integer Number.deps.json
+D:\programiranee\Fundamentals Early\Methods\Sign of Integer Number\bin\Debug\net5.0\Sign of Integer Number.runtimeconfig.json
+D:\programiranee\Fundamentals Early\Methods\Sign of Integer Number\bin\Debug\net5.0\Sign of Integer Number.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\Methods\Sign of Integer Number\bin\Debug\net5.0\Sign of Integer Number.dll
+D:\programiranee\Fundamentals Early\Methods\Sign of Integer Number\bin\Debug\net5.0\ref\Sign of Integer Number.dll
+D:\programiranee\Fundamentals Early\Methods\Sign of Integer Number\bin\Debug\net5.0\Sign of Integer Number.pdb
+D:\programiranee\Fundamentals Early\Methods\Sign of Integer Number\obj\Debug\net5.0\Sign of Integer Number.csproj.AssemblyReference.cache
+D:\programiranee\Fundamentals Early\Methods\Sign of Integer Number\obj\Debug\net5.0\Sign of Integer Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\Methods\Sign of Integer Number\obj\Debug\net5.0\Sign of Integer Number.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\Methods\Sign of Integer Number\obj\Debug\net5.0\Sign of Integer Number.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\Methods\Sign of Integer Number\obj\Debug\net5.0\Sign of Integer Number.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\Methods\Sign of Integer Number\obj\Debug\net5.0\Sign of Integer Number.dll
+D:\programiranee\Fundamentals Early\Methods\Sign of Integer Number\obj\Debug\net5.0\ref\Sign of Integer Number.dll
+D:\programiranee\Fundamentals Early\Methods\Sign of Integer Number\obj\Debug\net5.0\Sign of Integer Number.pdb
+D:\programiranee\Fundamentals Early\Methods\Sign of Integer Number\obj\Debug\net5.0\Sign of Integer Number.genruntimeconfig.cache

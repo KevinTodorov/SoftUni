@@ -1,0 +1,15 @@
+D:\programiranee\Fundamentals Early\Methods\Orders\bin\Debug\net5.0\Orders.exe
+D:\programiranee\Fundamentals Early\Methods\Orders\bin\Debug\net5.0\Orders.deps.json
+D:\programiranee\Fundamentals Early\Methods\Orders\bin\Debug\net5.0\Orders.runtimeconfig.json
+D:\programiranee\Fundamentals Early\Methods\Orders\bin\Debug\net5.0\Orders.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\Methods\Orders\bin\Debug\net5.0\Orders.dll
+D:\programiranee\Fundamentals Early\Methods\Orders\bin\Debug\net5.0\ref\Orders.dll
+D:\programiranee\Fundamentals Early\Methods\Orders\bin\Debug\net5.0\Orders.pdb
+D:\programiranee\Fundamentals Early\Methods\Orders\obj\Debug\net5.0\Orders.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\Methods\Orders\obj\Debug\net5.0\Orders.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\Methods\Orders\obj\Debug\net5.0\Orders.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\Methods\Orders\obj\Debug\net5.0\Orders.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\Methods\Orders\obj\Debug\net5.0\Orders.dll
+D:\programiranee\Fundamentals Early\Methods\Orders\obj\Debug\net5.0\ref\Orders.dll
+D:\programiranee\Fundamentals Early\Methods\Orders\obj\Debug\net5.0\Orders.pdb
+D:\programiranee\Fundamentals Early\Methods\Orders\obj\Debug\net5.0\Orders.genruntimeconfig.cache

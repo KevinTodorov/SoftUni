@@ -1,0 +1,16 @@
+D:\programiranee\Fundamentals Early\Methods\Multiply Evens by Odds\bin\Debug\net5.0\Multiply Evens by Odds.exe
+D:\programiranee\Fundamentals Early\Methods\Multiply Evens by Odds\bin\Debug\net5.0\Multiply Evens by Odds.deps.json
+D:\programiranee\Fundamentals Early\Methods\Multiply Evens by Odds\bin\Debug\net5.0\Multiply Evens by Odds.runtimeconfig.json
+D:\programiranee\Fundamentals Early\Methods\Multiply Evens by Odds\bin\Debug\net5.0\Multiply Evens by Odds.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\Methods\Multiply Evens by Odds\bin\Debug\net5.0\Multiply Evens by Odds.dll
+D:\programiranee\Fundamentals Early\Methods\Multiply Evens by Odds\bin\Debug\net5.0\ref\Multiply Evens by Odds.dll
+D:\programiranee\Fundamentals Early\Methods\Multiply Evens by Odds\bin\Debug\net5.0\Multiply Evens by Odds.pdb
+D:\programiranee\Fundamentals Early\Methods\Multiply Evens by Odds\obj\Debug\net5.0\Multiply Evens by Odds.csproj.AssemblyReference.cache
+D:\programiranee\Fundamentals Early\Methods\Multiply Evens by Odds\obj\Debug\net5.0\Multiply Evens by Odds.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\Methods\Multiply Evens by Odds\obj\Debug\net5.0\Multiply Evens by Odds.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\Methods\Multiply Evens by Odds\obj\Debug\net5.0\Multiply Evens by Odds.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\Methods\Multiply Evens by Odds\obj\Debug\net5.0\Multiply Evens by Odds.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\Methods\Multiply Evens by Odds\obj\Debug\net5.0\Multiply Evens by Odds.dll
+D:\programiranee\Fundamentals Early\Methods\Multiply Evens by Odds\obj\Debug\net5.0\ref\Multiply Evens by Odds.dll
+D:\programiranee\Fundamentals Early\Methods\Multiply Evens by Odds\obj\Debug\net5.0\Multiply Evens by Odds.pdb
+D:\programiranee\Fundamentals Early\Methods\Multiply Evens by Odds\obj\Debug\net5.0\Multiply Evens by Odds.genruntimeconfig.cache

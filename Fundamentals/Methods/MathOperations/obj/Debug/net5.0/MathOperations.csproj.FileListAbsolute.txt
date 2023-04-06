@@ -1,0 +1,16 @@
+D:\programiranee\Fundamentals Early\Methods\MathOperations\bin\Debug\net5.0\MathOperations.exe
+D:\programiranee\Fundamentals Early\Methods\MathOperations\bin\Debug\net5.0\MathOperations.deps.json
+D:\programiranee\Fundamentals Early\Methods\MathOperations\bin\Debug\net5.0\MathOperations.runtimeconfig.json
+D:\programiranee\Fundamentals Early\Methods\MathOperations\bin\Debug\net5.0\MathOperations.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\Methods\MathOperations\bin\Debug\net5.0\MathOperations.dll
+D:\programiranee\Fundamentals Early\Methods\MathOperations\bin\Debug\net5.0\ref\MathOperations.dll
+D:\programiranee\Fundamentals Early\Methods\MathOperations\bin\Debug\net5.0\MathOperations.pdb
+D:\programiranee\Fundamentals Early\Methods\MathOperations\obj\Debug\net5.0\MathOperations.csproj.AssemblyReference.cache
+D:\programiranee\Fundamentals Early\Methods\MathOperations\obj\Debug\net5.0\MathOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\Methods\MathOperations\obj\Debug\net5.0\MathOperations.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\Methods\MathOperations\obj\Debug\net5.0\MathOperations.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\Methods\MathOperations\obj\Debug\net5.0\MathOperations.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\Methods\MathOperations\obj\Debug\net5.0\MathOperations.dll
+D:\programiranee\Fundamentals Early\Methods\MathOperations\obj\Debug\net5.0\ref\MathOperations.dll
+D:\programiranee\Fundamentals Early\Methods\MathOperations\obj\Debug\net5.0\MathOperations.pdb
+D:\programiranee\Fundamentals Early\Methods\MathOperations\obj\Debug\net5.0\MathOperations.genruntimeconfig.cache

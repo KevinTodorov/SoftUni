@@ -1,0 +1,16 @@
+D:\programiranee\Fundamentals Early\Methods\ArrayManipulator\bin\Debug\net5.0\ArrayManipulator.exe
+D:\programiranee\Fundamentals Early\Methods\ArrayManipulator\bin\Debug\net5.0\ArrayManipulator.deps.json
+D:\programiranee\Fundamentals Early\Methods\ArrayManipulator\bin\Debug\net5.0\ArrayManipulator.runtimeconfig.json
+D:\programiranee\Fundamentals Early\Methods\ArrayManipulator\bin\Debug\net5.0\ArrayManipulator.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\Methods\ArrayManipulator\bin\Debug\net5.0\ArrayManipulator.dll
+D:\programiranee\Fundamentals Early\Methods\ArrayManipulator\bin\Debug\net5.0\ref\ArrayManipulator.dll
+D:\programiranee\Fundamentals Early\Methods\ArrayManipulator\bin\Debug\net5.0\ArrayManipulator.pdb
+D:\programiranee\Fundamentals Early\Methods\ArrayManipulator\obj\Debug\net5.0\ArrayManipulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\Methods\ArrayManipulator\obj\Debug\net5.0\ArrayManipulator.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\Methods\ArrayManipulator\obj\Debug\net5.0\ArrayManipulator.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\Methods\ArrayManipulator\obj\Debug\net5.0\ArrayManipulator.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\Methods\ArrayManipulator\obj\Debug\net5.0\ArrayManipulator.dll
+D:\programiranee\Fundamentals Early\Methods\ArrayManipulator\obj\Debug\net5.0\ref\ArrayManipulator.dll
+D:\programiranee\Fundamentals Early\Methods\ArrayManipulator\obj\Debug\net5.0\ArrayManipulator.pdb
+D:\programiranee\Fundamentals Early\Methods\ArrayManipulator\obj\Debug\net5.0\ArrayManipulator.genruntimeconfig.cache
+D:\programiranee\Fundamentals Early\Methods\ArrayManipulator\obj\Debug\net5.0\ArrayManipulator.csproj.AssemblyReference.cache

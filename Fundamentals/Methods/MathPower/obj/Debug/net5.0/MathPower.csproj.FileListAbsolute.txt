@@ -1,0 +1,15 @@
+D:\programiranee\Fundamentals Early\Methods\MathPower\bin\Debug\net5.0\MathPower.exe
+D:\programiranee\Fundamentals Early\Methods\MathPower\bin\Debug\net5.0\MathPower.deps.json
+D:\programiranee\Fundamentals Early\Methods\MathPower\bin\Debug\net5.0\MathPower.runtimeconfig.json
+D:\programiranee\Fundamentals Early\Methods\MathPower\bin\Debug\net5.0\MathPower.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\Methods\MathPower\bin\Debug\net5.0\MathPower.dll
+D:\programiranee\Fundamentals Early\Methods\MathPower\bin\Debug\net5.0\ref\MathPower.dll
+D:\programiranee\Fundamentals Early\Methods\MathPower\bin\Debug\net5.0\MathPower.pdb
+D:\programiranee\Fundamentals Early\Methods\MathPower\obj\Debug\net5.0\MathPower.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\Methods\MathPower\obj\Debug\net5.0\MathPower.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\Methods\MathPower\obj\Debug\net5.0\MathPower.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\Methods\MathPower\obj\Debug\net5.0\MathPower.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\Methods\MathPower\obj\Debug\net5.0\MathPower.dll
+D:\programiranee\Fundamentals Early\Methods\MathPower\obj\Debug\net5.0\ref\MathPower.dll
+D:\programiranee\Fundamentals Early\Methods\MathPower\obj\Debug\net5.0\MathPower.pdb
+D:\programiranee\Fundamentals Early\Methods\MathPower\obj\Debug\net5.0\MathPower.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\programiranee\Fundamentals Early\Methods\Calculations\bin\Debug\net5.0\Calculations.exe
+D:\programiranee\Fundamentals Early\Methods\Calculations\bin\Debug\net5.0\Calculations.deps.json
+D:\programiranee\Fundamentals Early\Methods\Calculations\bin\Debug\net5.0\Calculations.runtimeconfig.json
+D:\programiranee\Fundamentals Early\Methods\Calculations\bin\Debug\net5.0\Calculations.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\Methods\Calculations\bin\Debug\net5.0\Calculations.dll
+D:\programiranee\Fundamentals Early\Methods\Calculations\bin\Debug\net5.0\ref\Calculations.dll
+D:\programiranee\Fundamentals Early\Methods\Calculations\bin\Debug\net5.0\Calculations.pdb
+D:\programiranee\Fundamentals Early\Methods\Calculations\obj\Debug\net5.0\Calculations.csproj.AssemblyReference.cache
+D:\programiranee\Fundamentals Early\Methods\Calculations\obj\Debug\net5.0\Calculations.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\Methods\Calculations\obj\Debug\net5.0\Calculations.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\Methods\Calculations\obj\Debug\net5.0\Calculations.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\Methods\Calculations\obj\Debug\net5.0\Calculations.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\Methods\Calculations\obj\Debug\net5.0\Calculations.dll
+D:\programiranee\Fundamentals Early\Methods\Calculations\obj\Debug\net5.0\ref\Calculations.dll
+D:\programiranee\Fundamentals Early\Methods\Calculations\obj\Debug\net5.0\Calculations.pdb
+D:\programiranee\Fundamentals Early\Methods\Calculations\obj\Debug\net5.0\Calculations.genruntimeconfig.cache

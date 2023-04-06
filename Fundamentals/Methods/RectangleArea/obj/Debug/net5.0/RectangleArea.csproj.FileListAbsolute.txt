@@ -1,0 +1,15 @@
+D:\programiranee\Fundamentals Early\Methods\RectangleArea\bin\Debug\net5.0\RectangleArea.exe
+D:\programiranee\Fundamentals Early\Methods\RectangleArea\bin\Debug\net5.0\RectangleArea.deps.json
+D:\programiranee\Fundamentals Early\Methods\RectangleArea\bin\Debug\net5.0\RectangleArea.runtimeconfig.json
+D:\programiranee\Fundamentals Early\Methods\RectangleArea\bin\Debug\net5.0\RectangleArea.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\Methods\RectangleArea\bin\Debug\net5.0\RectangleArea.dll
+D:\programiranee\Fundamentals Early\Methods\RectangleArea\bin\Debug\net5.0\ref\RectangleArea.dll
+D:\programiranee\Fundamentals Early\Methods\RectangleArea\bin\Debug\net5.0\RectangleArea.pdb
+D:\programiranee\Fundamentals Early\Methods\RectangleArea\obj\Debug\net5.0\RectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\Methods\RectangleArea\obj\Debug\net5.0\RectangleArea.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\Methods\RectangleArea\obj\Debug\net5.0\RectangleArea.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\Methods\RectangleArea\obj\Debug\net5.0\RectangleArea.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\Methods\RectangleArea\obj\Debug\net5.0\RectangleArea.dll
+D:\programiranee\Fundamentals Early\Methods\RectangleArea\obj\Debug\net5.0\ref\RectangleArea.dll
+D:\programiranee\Fundamentals Early\Methods\RectangleArea\obj\Debug\net5.0\RectangleArea.pdb
+D:\programiranee\Fundamentals Early\Methods\RectangleArea\obj\Debug\net5.0\RectangleArea.genruntimeconfig.cache

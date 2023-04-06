@@ -1,0 +1,16 @@
+D:\programiranee\Fundamentals Early\Methods\Grades\bin\Debug\net5.0\Grades.exe
+D:\programiranee\Fundamentals Early\Methods\Grades\bin\Debug\net5.0\Grades.deps.json
+D:\programiranee\Fundamentals Early\Methods\Grades\bin\Debug\net5.0\Grades.runtimeconfig.json
+D:\programiranee\Fundamentals Early\Methods\Grades\bin\Debug\net5.0\Grades.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\Methods\Grades\bin\Debug\net5.0\Grades.dll
+D:\programiranee\Fundamentals Early\Methods\Grades\bin\Debug\net5.0\ref\Grades.dll
+D:\programiranee\Fundamentals Early\Methods\Grades\bin\Debug\net5.0\Grades.pdb
+D:\programiranee\Fundamentals Early\Methods\Grades\obj\Debug\net5.0\Grades.csproj.AssemblyReference.cache
+D:\programiranee\Fundamentals Early\Methods\Grades\obj\Debug\net5.0\Grades.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\Methods\Grades\obj\Debug\net5.0\Grades.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\Methods\Grades\obj\Debug\net5.0\Grades.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\Methods\Grades\obj\Debug\net5.0\Grades.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\Methods\Grades\obj\Debug\net5.0\Grades.dll
+D:\programiranee\Fundamentals Early\Methods\Grades\obj\Debug\net5.0\ref\Grades.dll
+D:\programiranee\Fundamentals Early\Methods\Grades\obj\Debug\net5.0\Grades.pdb
+D:\programiranee\Fundamentals Early\Methods\Grades\obj\Debug\net5.0\Grades.genruntimeconfig.cache

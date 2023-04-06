@@ -1,0 +1,15 @@
+D:\programiranee\Fundamentals Early\Methods\PrintingTriangle\bin\Debug\net5.0\PrintingTriangle.exe
+D:\programiranee\Fundamentals Early\Methods\PrintingTriangle\bin\Debug\net5.0\PrintingTriangle.deps.json
+D:\programiranee\Fundamentals Early\Methods\PrintingTriangle\bin\Debug\net5.0\PrintingTriangle.runtimeconfig.json
+D:\programiranee\Fundamentals Early\Methods\PrintingTriangle\bin\Debug\net5.0\PrintingTriangle.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\Methods\PrintingTriangle\bin\Debug\net5.0\PrintingTriangle.dll
+D:\programiranee\Fundamentals Early\Methods\PrintingTriangle\bin\Debug\net5.0\ref\PrintingTriangle.dll
+D:\programiranee\Fundamentals Early\Methods\PrintingTriangle\bin\Debug\net5.0\PrintingTriangle.pdb
+D:\programiranee\Fundamentals Early\Methods\PrintingTriangle\obj\Debug\net5.0\PrintingTriangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\Methods\PrintingTriangle\obj\Debug\net5.0\PrintingTriangle.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\Methods\PrintingTriangle\obj\Debug\net5.0\PrintingTriangle.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\Methods\PrintingTriangle\obj\Debug\net5.0\PrintingTriangle.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\Methods\PrintingTriangle\obj\Debug\net5.0\PrintingTriangle.dll
+D:\programiranee\Fundamentals Early\Methods\PrintingTriangle\obj\Debug\net5.0\ref\PrintingTriangle.dll
+D:\programiranee\Fundamentals Early\Methods\PrintingTriangle\obj\Debug\net5.0\PrintingTriangle.pdb
+D:\programiranee\Fundamentals Early\Methods\PrintingTriangle\obj\Debug\net5.0\PrintingTriangle.genruntimeconfig.cache

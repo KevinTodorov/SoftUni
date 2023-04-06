@@ -1,0 +1,16 @@
+D:\programiranee\Fundamentals Early\Methods\GreaterOfTwoValues\bin\Debug\net5.0\GreaterOfTwoValues.exe
+D:\programiranee\Fundamentals Early\Methods\GreaterOfTwoValues\bin\Debug\net5.0\GreaterOfTwoValues.deps.json
+D:\programiranee\Fundamentals Early\Methods\GreaterOfTwoValues\bin\Debug\net5.0\GreaterOfTwoValues.runtimeconfig.json
+D:\programiranee\Fundamentals Early\Methods\GreaterOfTwoValues\bin\Debug\net5.0\GreaterOfTwoValues.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\Methods\GreaterOfTwoValues\bin\Debug\net5.0\GreaterOfTwoValues.dll
+D:\programiranee\Fundamentals Early\Methods\GreaterOfTwoValues\bin\Debug\net5.0\ref\GreaterOfTwoValues.dll
+D:\programiranee\Fundamentals Early\Methods\GreaterOfTwoValues\bin\Debug\net5.0\GreaterOfTwoValues.pdb
+D:\programiranee\Fundamentals Early\Methods\GreaterOfTwoValues\obj\Debug\net5.0\GreaterOfTwoValues.csproj.AssemblyReference.cache
+D:\programiranee\Fundamentals Early\Methods\GreaterOfTwoValues\obj\Debug\net5.0\GreaterOfTwoValues.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\Methods\GreaterOfTwoValues\obj\Debug\net5.0\GreaterOfTwoValues.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\Methods\GreaterOfTwoValues\obj\Debug\net5.0\GreaterOfTwoValues.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\Methods\GreaterOfTwoValues\obj\Debug\net5.0\GreaterOfTwoValues.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\Methods\GreaterOfTwoValues\obj\Debug\net5.0\GreaterOfTwoValues.dll
+D:\programiranee\Fundamentals Early\Methods\GreaterOfTwoValues\obj\Debug\net5.0\ref\GreaterOfTwoValues.dll
+D:\programiranee\Fundamentals Early\Methods\GreaterOfTwoValues\obj\Debug\net5.0\GreaterOfTwoValues.pdb
+D:\programiranee\Fundamentals Early\Methods\GreaterOfTwoValues\obj\Debug\net5.0\GreaterOfTwoValues.genruntimeconfig.cache

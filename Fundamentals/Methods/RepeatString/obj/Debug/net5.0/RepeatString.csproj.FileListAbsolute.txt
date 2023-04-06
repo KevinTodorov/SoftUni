@@ -1,0 +1,16 @@
+D:\programiranee\Fundamentals Early\Methods\RepeatString\bin\Debug\net5.0\RepeatString.exe
+D:\programiranee\Fundamentals Early\Methods\RepeatString\bin\Debug\net5.0\RepeatString.deps.json
+D:\programiranee\Fundamentals Early\Methods\RepeatString\bin\Debug\net5.0\RepeatString.runtimeconfig.json
+D:\programiranee\Fundamentals Early\Methods\RepeatString\bin\Debug\net5.0\RepeatString.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\Methods\RepeatString\bin\Debug\net5.0\RepeatString.dll
+D:\programiranee\Fundamentals Early\Methods\RepeatString\bin\Debug\net5.0\ref\RepeatString.dll
+D:\programiranee\Fundamentals Early\Methods\RepeatString\bin\Debug\net5.0\RepeatString.pdb
+D:\programiranee\Fundamentals Early\Methods\RepeatString\obj\Debug\net5.0\RepeatString.csproj.AssemblyReference.cache
+D:\programiranee\Fundamentals Early\Methods\RepeatString\obj\Debug\net5.0\RepeatString.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\Methods\RepeatString\obj\Debug\net5.0\RepeatString.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\Methods\RepeatString\obj\Debug\net5.0\RepeatString.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\Methods\RepeatString\obj\Debug\net5.0\RepeatString.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\Methods\RepeatString\obj\Debug\net5.0\RepeatString.dll
+D:\programiranee\Fundamentals Early\Methods\RepeatString\obj\Debug\net5.0\ref\RepeatString.dll
+D:\programiranee\Fundamentals Early\Methods\RepeatString\obj\Debug\net5.0\RepeatString.pdb
+D:\programiranee\Fundamentals Early\Methods\RepeatString\obj\Debug\net5.0\RepeatString.genruntimeconfig.cache
