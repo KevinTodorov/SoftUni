@@ -1,0 +1,15 @@
+D:\programiranee\Fundamentals Early\MethodsExercise\MiddleCharacters\bin\Debug\net5.0\MiddleCharacters.exe
+D:\programiranee\Fundamentals Early\MethodsExercise\MiddleCharacters\bin\Debug\net5.0\MiddleCharacters.deps.json
+D:\programiranee\Fundamentals Early\MethodsExercise\MiddleCharacters\bin\Debug\net5.0\MiddleCharacters.runtimeconfig.json
+D:\programiranee\Fundamentals Early\MethodsExercise\MiddleCharacters\bin\Debug\net5.0\MiddleCharacters.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\MethodsExercise\MiddleCharacters\bin\Debug\net5.0\MiddleCharacters.dll
+D:\programiranee\Fundamentals Early\MethodsExercise\MiddleCharacters\bin\Debug\net5.0\ref\MiddleCharacters.dll
+D:\programiranee\Fundamentals Early\MethodsExercise\MiddleCharacters\bin\Debug\net5.0\MiddleCharacters.pdb
+D:\programiranee\Fundamentals Early\MethodsExercise\MiddleCharacters\obj\Debug\net5.0\MiddleCharacters.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\MethodsExercise\MiddleCharacters\obj\Debug\net5.0\MiddleCharacters.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\MethodsExercise\MiddleCharacters\obj\Debug\net5.0\MiddleCharacters.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\MethodsExercise\MiddleCharacters\obj\Debug\net5.0\MiddleCharacters.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\MethodsExercise\MiddleCharacters\obj\Debug\net5.0\MiddleCharacters.dll
+D:\programiranee\Fundamentals Early\MethodsExercise\MiddleCharacters\obj\Debug\net5.0\ref\MiddleCharacters.dll
+D:\programiranee\Fundamentals Early\MethodsExercise\MiddleCharacters\obj\Debug\net5.0\MiddleCharacters.pdb
+D:\programiranee\Fundamentals Early\MethodsExercise\MiddleCharacters\obj\Debug\net5.0\MiddleCharacters.genruntimeconfig.cache

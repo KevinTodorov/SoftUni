@@ -1,0 +1,16 @@
+D:\programiranee\Fundamentals Early\MethodsExercise\Smallest of Three Numbers\bin\Debug\net5.0\Smallest of Three Numbers.exe
+D:\programiranee\Fundamentals Early\MethodsExercise\Smallest of Three Numbers\bin\Debug\net5.0\Smallest of Three Numbers.deps.json
+D:\programiranee\Fundamentals Early\MethodsExercise\Smallest of Three Numbers\bin\Debug\net5.0\Smallest of Three Numbers.runtimeconfig.json
+D:\programiranee\Fundamentals Early\MethodsExercise\Smallest of Three Numbers\bin\Debug\net5.0\Smallest of Three Numbers.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\MethodsExercise\Smallest of Three Numbers\bin\Debug\net5.0\Smallest of Three Numbers.dll
+D:\programiranee\Fundamentals Early\MethodsExercise\Smallest of Three Numbers\bin\Debug\net5.0\ref\Smallest of Three Numbers.dll
+D:\programiranee\Fundamentals Early\MethodsExercise\Smallest of Three Numbers\bin\Debug\net5.0\Smallest of Three Numbers.pdb
+D:\programiranee\Fundamentals Early\MethodsExercise\Smallest of Three Numbers\obj\Debug\net5.0\Smallest of Three Numbers.csproj.AssemblyReference.cache
+D:\programiranee\Fundamentals Early\MethodsExercise\Smallest of Three Numbers\obj\Debug\net5.0\Smallest of Three Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\MethodsExercise\Smallest of Three Numbers\obj\Debug\net5.0\Smallest of Three Numbers.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\MethodsExercise\Smallest of Three Numbers\obj\Debug\net5.0\Smallest of Three Numbers.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\MethodsExercise\Smallest of Three Numbers\obj\Debug\net5.0\Smallest of Three Numbers.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\MethodsExercise\Smallest of Three Numbers\obj\Debug\net5.0\Smallest of Three Numbers.dll
+D:\programiranee\Fundamentals Early\MethodsExercise\Smallest of Three Numbers\obj\Debug\net5.0\ref\Smallest of Three Numbers.dll
+D:\programiranee\Fundamentals Early\MethodsExercise\Smallest of Three Numbers\obj\Debug\net5.0\Smallest of Three Numbers.pdb
+D:\programiranee\Fundamentals Early\MethodsExercise\Smallest of Three Numbers\obj\Debug\net5.0\Smallest of Three Numbers.genruntimeconfig.cache

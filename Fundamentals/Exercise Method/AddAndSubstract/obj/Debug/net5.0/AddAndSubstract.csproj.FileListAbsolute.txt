@@ -1,0 +1,15 @@
+D:\programiranee\Fundamentals Early\MethodsExercise\AddAndSubstract\bin\Debug\net5.0\AddAndSubstract.exe
+D:\programiranee\Fundamentals Early\MethodsExercise\AddAndSubstract\bin\Debug\net5.0\AddAndSubstract.deps.json
+D:\programiranee\Fundamentals Early\MethodsExercise\AddAndSubstract\bin\Debug\net5.0\AddAndSubstract.runtimeconfig.json
+D:\programiranee\Fundamentals Early\MethodsExercise\AddAndSubstract\bin\Debug\net5.0\AddAndSubstract.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\MethodsExercise\AddAndSubstract\bin\Debug\net5.0\AddAndSubstract.dll
+D:\programiranee\Fundamentals Early\MethodsExercise\AddAndSubstract\bin\Debug\net5.0\ref\AddAndSubstract.dll
+D:\programiranee\Fundamentals Early\MethodsExercise\AddAndSubstract\bin\Debug\net5.0\AddAndSubstract.pdb
+D:\programiranee\Fundamentals Early\MethodsExercise\AddAndSubstract\obj\Debug\net5.0\AddAndSubstract.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\MethodsExercise\AddAndSubstract\obj\Debug\net5.0\AddAndSubstract.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\MethodsExercise\AddAndSubstract\obj\Debug\net5.0\AddAndSubstract.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\MethodsExercise\AddAndSubstract\obj\Debug\net5.0\AddAndSubstract.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\MethodsExercise\AddAndSubstract\obj\Debug\net5.0\AddAndSubstract.dll
+D:\programiranee\Fundamentals Early\MethodsExercise\AddAndSubstract\obj\Debug\net5.0\ref\AddAndSubstract.dll
+D:\programiranee\Fundamentals Early\MethodsExercise\AddAndSubstract\obj\Debug\net5.0\AddAndSubstract.pdb
+D:\programiranee\Fundamentals Early\MethodsExercise\AddAndSubstract\obj\Debug\net5.0\AddAndSubstract.genruntimeconfig.cache

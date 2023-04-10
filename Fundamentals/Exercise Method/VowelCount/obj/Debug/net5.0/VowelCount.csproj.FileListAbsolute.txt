@@ -1,0 +1,16 @@
+D:\programiranee\Fundamentals Early\MethodsExercise\VowelCount\bin\Debug\net5.0\VowelCount.exe
+D:\programiranee\Fundamentals Early\MethodsExercise\VowelCount\bin\Debug\net5.0\VowelCount.deps.json
+D:\programiranee\Fundamentals Early\MethodsExercise\VowelCount\bin\Debug\net5.0\VowelCount.runtimeconfig.json
+D:\programiranee\Fundamentals Early\MethodsExercise\VowelCount\bin\Debug\net5.0\VowelCount.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\MethodsExercise\VowelCount\bin\Debug\net5.0\VowelCount.dll
+D:\programiranee\Fundamentals Early\MethodsExercise\VowelCount\bin\Debug\net5.0\ref\VowelCount.dll
+D:\programiranee\Fundamentals Early\MethodsExercise\VowelCount\bin\Debug\net5.0\VowelCount.pdb
+D:\programiranee\Fundamentals Early\MethodsExercise\VowelCount\obj\Debug\net5.0\VowelCount.csproj.AssemblyReference.cache
+D:\programiranee\Fundamentals Early\MethodsExercise\VowelCount\obj\Debug\net5.0\VowelCount.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\MethodsExercise\VowelCount\obj\Debug\net5.0\VowelCount.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\MethodsExercise\VowelCount\obj\Debug\net5.0\VowelCount.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\MethodsExercise\VowelCount\obj\Debug\net5.0\VowelCount.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\MethodsExercise\VowelCount\obj\Debug\net5.0\VowelCount.dll
+D:\programiranee\Fundamentals Early\MethodsExercise\VowelCount\obj\Debug\net5.0\ref\VowelCount.dll
+D:\programiranee\Fundamentals Early\MethodsExercise\VowelCount\obj\Debug\net5.0\VowelCount.pdb
+D:\programiranee\Fundamentals Early\MethodsExercise\VowelCount\obj\Debug\net5.0\VowelCount.genruntimeconfig.cache

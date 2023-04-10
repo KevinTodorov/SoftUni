@@ -1,0 +1,15 @@
+D:\programiranee\Fundamentals Early\MethodsExercise\FactorielDivision\bin\Debug\net5.0\FactorielDivision.exe
+D:\programiranee\Fundamentals Early\MethodsExercise\FactorielDivision\bin\Debug\net5.0\FactorielDivision.deps.json
+D:\programiranee\Fundamentals Early\MethodsExercise\FactorielDivision\bin\Debug\net5.0\FactorielDivision.runtimeconfig.json
+D:\programiranee\Fundamentals Early\MethodsExercise\FactorielDivision\bin\Debug\net5.0\FactorielDivision.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\MethodsExercise\FactorielDivision\bin\Debug\net5.0\FactorielDivision.dll
+D:\programiranee\Fundamentals Early\MethodsExercise\FactorielDivision\bin\Debug\net5.0\ref\FactorielDivision.dll
+D:\programiranee\Fundamentals Early\MethodsExercise\FactorielDivision\bin\Debug\net5.0\FactorielDivision.pdb
+D:\programiranee\Fundamentals Early\MethodsExercise\FactorielDivision\obj\Debug\net5.0\FactorielDivision.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\MethodsExercise\FactorielDivision\obj\Debug\net5.0\FactorielDivision.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\MethodsExercise\FactorielDivision\obj\Debug\net5.0\FactorielDivision.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\MethodsExercise\FactorielDivision\obj\Debug\net5.0\FactorielDivision.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\MethodsExercise\FactorielDivision\obj\Debug\net5.0\FactorielDivision.dll
+D:\programiranee\Fundamentals Early\MethodsExercise\FactorielDivision\obj\Debug\net5.0\ref\FactorielDivision.dll
+D:\programiranee\Fundamentals Early\MethodsExercise\FactorielDivision\obj\Debug\net5.0\FactorielDivision.pdb
+D:\programiranee\Fundamentals Early\MethodsExercise\FactorielDivision\obj\Debug\net5.0\FactorielDivision.genruntimeconfig.cache

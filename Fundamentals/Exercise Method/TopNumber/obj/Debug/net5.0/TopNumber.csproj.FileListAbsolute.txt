@@ -1,0 +1,16 @@
+D:\programiranee\Fundamentals Early\MethodsExercise\TopNumber\bin\Debug\net5.0\TopNumber.exe
+D:\programiranee\Fundamentals Early\MethodsExercise\TopNumber\bin\Debug\net5.0\TopNumber.deps.json
+D:\programiranee\Fundamentals Early\MethodsExercise\TopNumber\bin\Debug\net5.0\TopNumber.runtimeconfig.json
+D:\programiranee\Fundamentals Early\MethodsExercise\TopNumber\bin\Debug\net5.0\TopNumber.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\MethodsExercise\TopNumber\bin\Debug\net5.0\TopNumber.dll
+D:\programiranee\Fundamentals Early\MethodsExercise\TopNumber\bin\Debug\net5.0\ref\TopNumber.dll
+D:\programiranee\Fundamentals Early\MethodsExercise\TopNumber\bin\Debug\net5.0\TopNumber.pdb
+D:\programiranee\Fundamentals Early\MethodsExercise\TopNumber\obj\Debug\net5.0\TopNumber.csproj.AssemblyReference.cache
+D:\programiranee\Fundamentals Early\MethodsExercise\TopNumber\obj\Debug\net5.0\TopNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\MethodsExercise\TopNumber\obj\Debug\net5.0\TopNumber.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\MethodsExercise\TopNumber\obj\Debug\net5.0\TopNumber.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\MethodsExercise\TopNumber\obj\Debug\net5.0\TopNumber.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\MethodsExercise\TopNumber\obj\Debug\net5.0\TopNumber.dll
+D:\programiranee\Fundamentals Early\MethodsExercise\TopNumber\obj\Debug\net5.0\ref\TopNumber.dll
+D:\programiranee\Fundamentals Early\MethodsExercise\TopNumber\obj\Debug\net5.0\TopNumber.pdb
+D:\programiranee\Fundamentals Early\MethodsExercise\TopNumber\obj\Debug\net5.0\TopNumber.genruntimeconfig.cache

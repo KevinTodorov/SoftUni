@@ -1,0 +1,16 @@
+D:\programiranee\Fundamentals Early\MethodsExercise\PalindromeIntegers\bin\Debug\net5.0\PalindromeIntegers.exe
+D:\programiranee\Fundamentals Early\MethodsExercise\PalindromeIntegers\bin\Debug\net5.0\PalindromeIntegers.deps.json
+D:\programiranee\Fundamentals Early\MethodsExercise\PalindromeIntegers\bin\Debug\net5.0\PalindromeIntegers.runtimeconfig.json
+D:\programiranee\Fundamentals Early\MethodsExercise\PalindromeIntegers\bin\Debug\net5.0\PalindromeIntegers.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\MethodsExercise\PalindromeIntegers\bin\Debug\net5.0\PalindromeIntegers.dll
+D:\programiranee\Fundamentals Early\MethodsExercise\PalindromeIntegers\bin\Debug\net5.0\ref\PalindromeIntegers.dll
+D:\programiranee\Fundamentals Early\MethodsExercise\PalindromeIntegers\bin\Debug\net5.0\PalindromeIntegers.pdb
+D:\programiranee\Fundamentals Early\MethodsExercise\PalindromeIntegers\obj\Debug\net5.0\PalindromeIntegers.csproj.AssemblyReference.cache
+D:\programiranee\Fundamentals Early\MethodsExercise\PalindromeIntegers\obj\Debug\net5.0\PalindromeIntegers.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\MethodsExercise\PalindromeIntegers\obj\Debug\net5.0\PalindromeIntegers.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\MethodsExercise\PalindromeIntegers\obj\Debug\net5.0\PalindromeIntegers.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\MethodsExercise\PalindromeIntegers\obj\Debug\net5.0\PalindromeIntegers.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\MethodsExercise\PalindromeIntegers\obj\Debug\net5.0\PalindromeIntegers.dll
+D:\programiranee\Fundamentals Early\MethodsExercise\PalindromeIntegers\obj\Debug\net5.0\ref\PalindromeIntegers.dll
+D:\programiranee\Fundamentals Early\MethodsExercise\PalindromeIntegers\obj\Debug\net5.0\PalindromeIntegers.pdb
+D:\programiranee\Fundamentals Early\MethodsExercise\PalindromeIntegers\obj\Debug\net5.0\PalindromeIntegers.genruntimeconfig.cache
