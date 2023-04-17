@@ -1,0 +1,16 @@
+D:\programiranee\Fundamentals Early\LIsts\SumAdjacentEqualNumbers\bin\Debug\net5.0\SumAdjacentEqualNumbers.exe
+D:\programiranee\Fundamentals Early\LIsts\SumAdjacentEqualNumbers\bin\Debug\net5.0\SumAdjacentEqualNumbers.deps.json
+D:\programiranee\Fundamentals Early\LIsts\SumAdjacentEqualNumbers\bin\Debug\net5.0\SumAdjacentEqualNumbers.runtimeconfig.json
+D:\programiranee\Fundamentals Early\LIsts\SumAdjacentEqualNumbers\bin\Debug\net5.0\SumAdjacentEqualNumbers.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\LIsts\SumAdjacentEqualNumbers\bin\Debug\net5.0\SumAdjacentEqualNumbers.dll
+D:\programiranee\Fundamentals Early\LIsts\SumAdjacentEqualNumbers\bin\Debug\net5.0\ref\SumAdjacentEqualNumbers.dll
+D:\programiranee\Fundamentals Early\LIsts\SumAdjacentEqualNumbers\bin\Debug\net5.0\SumAdjacentEqualNumbers.pdb
+D:\programiranee\Fundamentals Early\LIsts\SumAdjacentEqualNumbers\obj\Debug\net5.0\SumAdjacentEqualNumbers.csproj.AssemblyReference.cache
+D:\programiranee\Fundamentals Early\LIsts\SumAdjacentEqualNumbers\obj\Debug\net5.0\SumAdjacentEqualNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\LIsts\SumAdjacentEqualNumbers\obj\Debug\net5.0\SumAdjacentEqualNumbers.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\LIsts\SumAdjacentEqualNumbers\obj\Debug\net5.0\SumAdjacentEqualNumbers.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\LIsts\SumAdjacentEqualNumbers\obj\Debug\net5.0\SumAdjacentEqualNumbers.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\LIsts\SumAdjacentEqualNumbers\obj\Debug\net5.0\SumAdjacentEqualNumbers.dll
+D:\programiranee\Fundamentals Early\LIsts\SumAdjacentEqualNumbers\obj\Debug\net5.0\ref\SumAdjacentEqualNumbers.dll
+D:\programiranee\Fundamentals Early\LIsts\SumAdjacentEqualNumbers\obj\Debug\net5.0\SumAdjacentEqualNumbers.pdb
+D:\programiranee\Fundamentals Early\LIsts\SumAdjacentEqualNumbers\obj\Debug\net5.0\SumAdjacentEqualNumbers.genruntimeconfig.cache

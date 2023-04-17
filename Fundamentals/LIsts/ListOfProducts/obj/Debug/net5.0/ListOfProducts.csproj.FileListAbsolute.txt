@@ -1,0 +1,15 @@
+D:\programiranee\Fundamentals Early\LIsts\ListOfProducts\bin\Debug\net5.0\ListOfProducts.exe
+D:\programiranee\Fundamentals Early\LIsts\ListOfProducts\bin\Debug\net5.0\ListOfProducts.deps.json
+D:\programiranee\Fundamentals Early\LIsts\ListOfProducts\bin\Debug\net5.0\ListOfProducts.runtimeconfig.json
+D:\programiranee\Fundamentals Early\LIsts\ListOfProducts\bin\Debug\net5.0\ListOfProducts.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\LIsts\ListOfProducts\bin\Debug\net5.0\ListOfProducts.dll
+D:\programiranee\Fundamentals Early\LIsts\ListOfProducts\bin\Debug\net5.0\ref\ListOfProducts.dll
+D:\programiranee\Fundamentals Early\LIsts\ListOfProducts\bin\Debug\net5.0\ListOfProducts.pdb
+D:\programiranee\Fundamentals Early\LIsts\ListOfProducts\obj\Debug\net5.0\ListOfProducts.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\LIsts\ListOfProducts\obj\Debug\net5.0\ListOfProducts.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\LIsts\ListOfProducts\obj\Debug\net5.0\ListOfProducts.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\LIsts\ListOfProducts\obj\Debug\net5.0\ListOfProducts.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\LIsts\ListOfProducts\obj\Debug\net5.0\ListOfProducts.dll
+D:\programiranee\Fundamentals Early\LIsts\ListOfProducts\obj\Debug\net5.0\ref\ListOfProducts.dll
+D:\programiranee\Fundamentals Early\LIsts\ListOfProducts\obj\Debug\net5.0\ListOfProducts.pdb
+D:\programiranee\Fundamentals Early\LIsts\ListOfProducts\obj\Debug\net5.0\ListOfProducts.genruntimeconfig.cache

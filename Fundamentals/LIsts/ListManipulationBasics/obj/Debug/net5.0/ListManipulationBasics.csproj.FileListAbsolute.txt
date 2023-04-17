@@ -1,0 +1,15 @@
+D:\programiranee\Fundamentals Early\LIsts\ListManipulationBasics\bin\Debug\net5.0\ListManipulationBasics.exe
+D:\programiranee\Fundamentals Early\LIsts\ListManipulationBasics\bin\Debug\net5.0\ListManipulationBasics.deps.json
+D:\programiranee\Fundamentals Early\LIsts\ListManipulationBasics\bin\Debug\net5.0\ListManipulationBasics.runtimeconfig.json
+D:\programiranee\Fundamentals Early\LIsts\ListManipulationBasics\bin\Debug\net5.0\ListManipulationBasics.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\LIsts\ListManipulationBasics\bin\Debug\net5.0\ListManipulationBasics.dll
+D:\programiranee\Fundamentals Early\LIsts\ListManipulationBasics\bin\Debug\net5.0\ref\ListManipulationBasics.dll
+D:\programiranee\Fundamentals Early\LIsts\ListManipulationBasics\bin\Debug\net5.0\ListManipulationBasics.pdb
+D:\programiranee\Fundamentals Early\LIsts\ListManipulationBasics\obj\Debug\net5.0\ListManipulationBasics.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\LIsts\ListManipulationBasics\obj\Debug\net5.0\ListManipulationBasics.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\LIsts\ListManipulationBasics\obj\Debug\net5.0\ListManipulationBasics.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\LIsts\ListManipulationBasics\obj\Debug\net5.0\ListManipulationBasics.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\LIsts\ListManipulationBasics\obj\Debug\net5.0\ListManipulationBasics.dll
+D:\programiranee\Fundamentals Early\LIsts\ListManipulationBasics\obj\Debug\net5.0\ref\ListManipulationBasics.dll
+D:\programiranee\Fundamentals Early\LIsts\ListManipulationBasics\obj\Debug\net5.0\ListManipulationBasics.pdb
+D:\programiranee\Fundamentals Early\LIsts\ListManipulationBasics\obj\Debug\net5.0\ListManipulationBasics.genruntimeconfig.cache

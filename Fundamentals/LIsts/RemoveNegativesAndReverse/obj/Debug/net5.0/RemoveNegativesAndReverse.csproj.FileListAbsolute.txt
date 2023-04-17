@@ -1,0 +1,16 @@
+D:\programiranee\Fundamentals Early\LIsts\RemoveNegativesAndReverse\bin\Debug\net5.0\RemoveNegativesAndReverse.exe
+D:\programiranee\Fundamentals Early\LIsts\RemoveNegativesAndReverse\bin\Debug\net5.0\RemoveNegativesAndReverse.deps.json
+D:\programiranee\Fundamentals Early\LIsts\RemoveNegativesAndReverse\bin\Debug\net5.0\RemoveNegativesAndReverse.runtimeconfig.json
+D:\programiranee\Fundamentals Early\LIsts\RemoveNegativesAndReverse\bin\Debug\net5.0\RemoveNegativesAndReverse.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\LIsts\RemoveNegativesAndReverse\bin\Debug\net5.0\RemoveNegativesAndReverse.dll
+D:\programiranee\Fundamentals Early\LIsts\RemoveNegativesAndReverse\bin\Debug\net5.0\ref\RemoveNegativesAndReverse.dll
+D:\programiranee\Fundamentals Early\LIsts\RemoveNegativesAndReverse\bin\Debug\net5.0\RemoveNegativesAndReverse.pdb
+D:\programiranee\Fundamentals Early\LIsts\RemoveNegativesAndReverse\obj\Debug\net5.0\RemoveNegativesAndReverse.csproj.AssemblyReference.cache
+D:\programiranee\Fundamentals Early\LIsts\RemoveNegativesAndReverse\obj\Debug\net5.0\RemoveNegativesAndReverse.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\LIsts\RemoveNegativesAndReverse\obj\Debug\net5.0\RemoveNegativesAndReverse.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\LIsts\RemoveNegativesAndReverse\obj\Debug\net5.0\RemoveNegativesAndReverse.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\LIsts\RemoveNegativesAndReverse\obj\Debug\net5.0\RemoveNegativesAndReverse.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\LIsts\RemoveNegativesAndReverse\obj\Debug\net5.0\RemoveNegativesAndReverse.dll
+D:\programiranee\Fundamentals Early\LIsts\RemoveNegativesAndReverse\obj\Debug\net5.0\ref\RemoveNegativesAndReverse.dll
+D:\programiranee\Fundamentals Early\LIsts\RemoveNegativesAndReverse\obj\Debug\net5.0\RemoveNegativesAndReverse.pdb
+D:\programiranee\Fundamentals Early\LIsts\RemoveNegativesAndReverse\obj\Debug\net5.0\RemoveNegativesAndReverse.genruntimeconfig.cache
