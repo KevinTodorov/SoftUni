@@ -1,0 +1,16 @@
+D:\programiranee\Fundamentals Early\ListsExercise\CardsGame\bin\Debug\net5.0\CardsGame.exe
+D:\programiranee\Fundamentals Early\ListsExercise\CardsGame\bin\Debug\net5.0\CardsGame.deps.json
+D:\programiranee\Fundamentals Early\ListsExercise\CardsGame\bin\Debug\net5.0\CardsGame.runtimeconfig.json
+D:\programiranee\Fundamentals Early\ListsExercise\CardsGame\bin\Debug\net5.0\CardsGame.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\ListsExercise\CardsGame\bin\Debug\net5.0\CardsGame.dll
+D:\programiranee\Fundamentals Early\ListsExercise\CardsGame\bin\Debug\net5.0\ref\CardsGame.dll
+D:\programiranee\Fundamentals Early\ListsExercise\CardsGame\bin\Debug\net5.0\CardsGame.pdb
+D:\programiranee\Fundamentals Early\ListsExercise\CardsGame\obj\Debug\net5.0\CardsGame.csproj.AssemblyReference.cache
+D:\programiranee\Fundamentals Early\ListsExercise\CardsGame\obj\Debug\net5.0\CardsGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\ListsExercise\CardsGame\obj\Debug\net5.0\CardsGame.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\ListsExercise\CardsGame\obj\Debug\net5.0\CardsGame.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\ListsExercise\CardsGame\obj\Debug\net5.0\CardsGame.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\ListsExercise\CardsGame\obj\Debug\net5.0\CardsGame.dll
+D:\programiranee\Fundamentals Early\ListsExercise\CardsGame\obj\Debug\net5.0\ref\CardsGame.dll
+D:\programiranee\Fundamentals Early\ListsExercise\CardsGame\obj\Debug\net5.0\CardsGame.pdb
+D:\programiranee\Fundamentals Early\ListsExercise\CardsGame\obj\Debug\net5.0\CardsGame.genruntimeconfig.cache

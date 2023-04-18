@@ -1,0 +1,16 @@
+D:\programiranee\Fundamentals Early\ListsExercise\BombNumbers\bin\Debug\net5.0\BombNumbers.exe
+D:\programiranee\Fundamentals Early\ListsExercise\BombNumbers\bin\Debug\net5.0\BombNumbers.deps.json
+D:\programiranee\Fundamentals Early\ListsExercise\BombNumbers\bin\Debug\net5.0\BombNumbers.runtimeconfig.json
+D:\programiranee\Fundamentals Early\ListsExercise\BombNumbers\bin\Debug\net5.0\BombNumbers.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\ListsExercise\BombNumbers\bin\Debug\net5.0\BombNumbers.dll
+D:\programiranee\Fundamentals Early\ListsExercise\BombNumbers\bin\Debug\net5.0\ref\BombNumbers.dll
+D:\programiranee\Fundamentals Early\ListsExercise\BombNumbers\bin\Debug\net5.0\BombNumbers.pdb
+D:\programiranee\Fundamentals Early\ListsExercise\BombNumbers\obj\Debug\net5.0\BombNumbers.csproj.AssemblyReference.cache
+D:\programiranee\Fundamentals Early\ListsExercise\BombNumbers\obj\Debug\net5.0\BombNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\ListsExercise\BombNumbers\obj\Debug\net5.0\BombNumbers.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\ListsExercise\BombNumbers\obj\Debug\net5.0\BombNumbers.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\ListsExercise\BombNumbers\obj\Debug\net5.0\BombNumbers.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\ListsExercise\BombNumbers\obj\Debug\net5.0\BombNumbers.dll
+D:\programiranee\Fundamentals Early\ListsExercise\BombNumbers\obj\Debug\net5.0\ref\BombNumbers.dll
+D:\programiranee\Fundamentals Early\ListsExercise\BombNumbers\obj\Debug\net5.0\BombNumbers.pdb
+D:\programiranee\Fundamentals Early\ListsExercise\BombNumbers\obj\Debug\net5.0\BombNumbers.genruntimeconfig.cache

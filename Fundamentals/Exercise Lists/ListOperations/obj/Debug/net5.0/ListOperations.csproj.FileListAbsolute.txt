@@ -1,0 +1,16 @@
+D:\programiranee\Fundamentals Early\ListsExercise\ListOperations\bin\Debug\net5.0\ListOperations.exe
+D:\programiranee\Fundamentals Early\ListsExercise\ListOperations\bin\Debug\net5.0\ListOperations.deps.json
+D:\programiranee\Fundamentals Early\ListsExercise\ListOperations\bin\Debug\net5.0\ListOperations.runtimeconfig.json
+D:\programiranee\Fundamentals Early\ListsExercise\ListOperations\bin\Debug\net5.0\ListOperations.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\ListsExercise\ListOperations\bin\Debug\net5.0\ListOperations.dll
+D:\programiranee\Fundamentals Early\ListsExercise\ListOperations\bin\Debug\net5.0\ref\ListOperations.dll
+D:\programiranee\Fundamentals Early\ListsExercise\ListOperations\bin\Debug\net5.0\ListOperations.pdb
+D:\programiranee\Fundamentals Early\ListsExercise\ListOperations\obj\Debug\net5.0\ListOperations.csproj.AssemblyReference.cache
+D:\programiranee\Fundamentals Early\ListsExercise\ListOperations\obj\Debug\net5.0\ListOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\ListsExercise\ListOperations\obj\Debug\net5.0\ListOperations.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\ListsExercise\ListOperations\obj\Debug\net5.0\ListOperations.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\ListsExercise\ListOperations\obj\Debug\net5.0\ListOperations.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\ListsExercise\ListOperations\obj\Debug\net5.0\ListOperations.dll
+D:\programiranee\Fundamentals Early\ListsExercise\ListOperations\obj\Debug\net5.0\ref\ListOperations.dll
+D:\programiranee\Fundamentals Early\ListsExercise\ListOperations\obj\Debug\net5.0\ListOperations.pdb
+D:\programiranee\Fundamentals Early\ListsExercise\ListOperations\obj\Debug\net5.0\ListOperations.genruntimeconfig.cache

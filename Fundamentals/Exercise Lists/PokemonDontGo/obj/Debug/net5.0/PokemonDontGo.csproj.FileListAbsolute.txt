@@ -1,0 +1,16 @@
+D:\programiranee\Fundamentals Early\ListsExercise\PokemonDontGo\bin\Debug\net5.0\PokemonDontGo.exe
+D:\programiranee\Fundamentals Early\ListsExercise\PokemonDontGo\bin\Debug\net5.0\PokemonDontGo.deps.json
+D:\programiranee\Fundamentals Early\ListsExercise\PokemonDontGo\bin\Debug\net5.0\PokemonDontGo.runtimeconfig.json
+D:\programiranee\Fundamentals Early\ListsExercise\PokemonDontGo\bin\Debug\net5.0\PokemonDontGo.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\ListsExercise\PokemonDontGo\bin\Debug\net5.0\PokemonDontGo.dll
+D:\programiranee\Fundamentals Early\ListsExercise\PokemonDontGo\bin\Debug\net5.0\ref\PokemonDontGo.dll
+D:\programiranee\Fundamentals Early\ListsExercise\PokemonDontGo\bin\Debug\net5.0\PokemonDontGo.pdb
+D:\programiranee\Fundamentals Early\ListsExercise\PokemonDontGo\obj\Debug\net5.0\PokemonDontGo.csproj.AssemblyReference.cache
+D:\programiranee\Fundamentals Early\ListsExercise\PokemonDontGo\obj\Debug\net5.0\PokemonDontGo.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\ListsExercise\PokemonDontGo\obj\Debug\net5.0\PokemonDontGo.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\ListsExercise\PokemonDontGo\obj\Debug\net5.0\PokemonDontGo.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\ListsExercise\PokemonDontGo\obj\Debug\net5.0\PokemonDontGo.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\ListsExercise\PokemonDontGo\obj\Debug\net5.0\PokemonDontGo.dll
+D:\programiranee\Fundamentals Early\ListsExercise\PokemonDontGo\obj\Debug\net5.0\ref\PokemonDontGo.dll
+D:\programiranee\Fundamentals Early\ListsExercise\PokemonDontGo\obj\Debug\net5.0\PokemonDontGo.pdb
+D:\programiranee\Fundamentals Early\ListsExercise\PokemonDontGo\obj\Debug\net5.0\PokemonDontGo.genruntimeconfig.cache

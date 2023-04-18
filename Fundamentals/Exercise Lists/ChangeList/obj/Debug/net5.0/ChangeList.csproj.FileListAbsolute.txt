@@ -1,0 +1,16 @@
+D:\programiranee\Fundamentals Early\ListsExercise\ChangeList\bin\Debug\net5.0\ChangeList.exe
+D:\programiranee\Fundamentals Early\ListsExercise\ChangeList\bin\Debug\net5.0\ChangeList.deps.json
+D:\programiranee\Fundamentals Early\ListsExercise\ChangeList\bin\Debug\net5.0\ChangeList.runtimeconfig.json
+D:\programiranee\Fundamentals Early\ListsExercise\ChangeList\bin\Debug\net5.0\ChangeList.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\ListsExercise\ChangeList\bin\Debug\net5.0\ChangeList.dll
+D:\programiranee\Fundamentals Early\ListsExercise\ChangeList\bin\Debug\net5.0\ref\ChangeList.dll
+D:\programiranee\Fundamentals Early\ListsExercise\ChangeList\bin\Debug\net5.0\ChangeList.pdb
+D:\programiranee\Fundamentals Early\ListsExercise\ChangeList\obj\Debug\net5.0\ChangeList.csproj.AssemblyReference.cache
+D:\programiranee\Fundamentals Early\ListsExercise\ChangeList\obj\Debug\net5.0\ChangeList.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\ListsExercise\ChangeList\obj\Debug\net5.0\ChangeList.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\ListsExercise\ChangeList\obj\Debug\net5.0\ChangeList.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\ListsExercise\ChangeList\obj\Debug\net5.0\ChangeList.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\ListsExercise\ChangeList\obj\Debug\net5.0\ChangeList.dll
+D:\programiranee\Fundamentals Early\ListsExercise\ChangeList\obj\Debug\net5.0\ref\ChangeList.dll
+D:\programiranee\Fundamentals Early\ListsExercise\ChangeList\obj\Debug\net5.0\ChangeList.pdb
+D:\programiranee\Fundamentals Early\ListsExercise\ChangeList\obj\Debug\net5.0\ChangeList.genruntimeconfig.cache

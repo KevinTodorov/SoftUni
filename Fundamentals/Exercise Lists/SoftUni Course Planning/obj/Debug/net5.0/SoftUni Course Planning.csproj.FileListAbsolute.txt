@@ -1,0 +1,16 @@
+D:\programiranee\Fundamentals Early\ListsExercise\SoftUni Course Planning\bin\Debug\net5.0\SoftUni Course Planning.exe
+D:\programiranee\Fundamentals Early\ListsExercise\SoftUni Course Planning\bin\Debug\net5.0\SoftUni Course Planning.deps.json
+D:\programiranee\Fundamentals Early\ListsExercise\SoftUni Course Planning\bin\Debug\net5.0\SoftUni Course Planning.runtimeconfig.json
+D:\programiranee\Fundamentals Early\ListsExercise\SoftUni Course Planning\bin\Debug\net5.0\SoftUni Course Planning.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\ListsExercise\SoftUni Course Planning\bin\Debug\net5.0\SoftUni Course Planning.dll
+D:\programiranee\Fundamentals Early\ListsExercise\SoftUni Course Planning\bin\Debug\net5.0\ref\SoftUni Course Planning.dll
+D:\programiranee\Fundamentals Early\ListsExercise\SoftUni Course Planning\bin\Debug\net5.0\SoftUni Course Planning.pdb
+D:\programiranee\Fundamentals Early\ListsExercise\SoftUni Course Planning\obj\Debug\net5.0\SoftUni Course Planning.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\ListsExercise\SoftUni Course Planning\obj\Debug\net5.0\SoftUni Course Planning.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\ListsExercise\SoftUni Course Planning\obj\Debug\net5.0\SoftUni Course Planning.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\ListsExercise\SoftUni Course Planning\obj\Debug\net5.0\SoftUni Course Planning.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\ListsExercise\SoftUni Course Planning\obj\Debug\net5.0\SoftUni Course Planning.dll
+D:\programiranee\Fundamentals Early\ListsExercise\SoftUni Course Planning\obj\Debug\net5.0\ref\SoftUni Course Planning.dll
+D:\programiranee\Fundamentals Early\ListsExercise\SoftUni Course Planning\obj\Debug\net5.0\SoftUni Course Planning.pdb
+D:\programiranee\Fundamentals Early\ListsExercise\SoftUni Course Planning\obj\Debug\net5.0\SoftUni Course Planning.genruntimeconfig.cache
+D:\programiranee\Fundamentals Early\ListsExercise\SoftUni Course Planning\obj\Debug\net5.0\SoftUni Course Planning.csproj.AssemblyReference.cache

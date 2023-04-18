@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Anonymous Threatv2/1.0.0": {
+        "runtime": {
+          "Anonymous Threatv2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Anonymous Threatv2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
