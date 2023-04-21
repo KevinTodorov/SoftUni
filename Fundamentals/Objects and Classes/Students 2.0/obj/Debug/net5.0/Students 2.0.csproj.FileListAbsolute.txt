@@ -1,0 +1,16 @@
+D:\Softuni Programming\Fundamentals\Objects and Classes\Students 2.0\bin\Debug\net5.0\Students 2.0.exe
+D:\Softuni Programming\Fundamentals\Objects and Classes\Students 2.0\bin\Debug\net5.0\Students 2.0.deps.json
+D:\Softuni Programming\Fundamentals\Objects and Classes\Students 2.0\bin\Debug\net5.0\Students 2.0.runtimeconfig.json
+D:\Softuni Programming\Fundamentals\Objects and Classes\Students 2.0\bin\Debug\net5.0\Students 2.0.runtimeconfig.dev.json
+D:\Softuni Programming\Fundamentals\Objects and Classes\Students 2.0\bin\Debug\net5.0\Students 2.0.dll
+D:\Softuni Programming\Fundamentals\Objects and Classes\Students 2.0\bin\Debug\net5.0\ref\Students 2.0.dll
+D:\Softuni Programming\Fundamentals\Objects and Classes\Students 2.0\bin\Debug\net5.0\Students 2.0.pdb
+D:\Softuni Programming\Fundamentals\Objects and Classes\Students 2.0\obj\Debug\net5.0\Students 2.0.csproj.AssemblyReference.cache
+D:\Softuni Programming\Fundamentals\Objects and Classes\Students 2.0\obj\Debug\net5.0\Students 2.0.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Fundamentals\Objects and Classes\Students 2.0\obj\Debug\net5.0\Students 2.0.AssemblyInfoInputs.cache
+D:\Softuni Programming\Fundamentals\Objects and Classes\Students 2.0\obj\Debug\net5.0\Students 2.0.AssemblyInfo.cs
+D:\Softuni Programming\Fundamentals\Objects and Classes\Students 2.0\obj\Debug\net5.0\Students 2.0.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Fundamentals\Objects and Classes\Students 2.0\obj\Debug\net5.0\Students 2.0.dll
+D:\Softuni Programming\Fundamentals\Objects and Classes\Students 2.0\obj\Debug\net5.0\ref\Students 2.0.dll
+D:\Softuni Programming\Fundamentals\Objects and Classes\Students 2.0\obj\Debug\net5.0\Students 2.0.pdb
+D:\Softuni Programming\Fundamentals\Objects and Classes\Students 2.0\obj\Debug\net5.0\Students 2.0.genruntimeconfig.cache
