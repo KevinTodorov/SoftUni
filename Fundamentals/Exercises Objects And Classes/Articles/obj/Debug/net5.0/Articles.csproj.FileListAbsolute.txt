@@ -1,0 +1,16 @@
+D:\Softuni Programming\Fundamentals\ObjectsAndClassesExercise\Articles\bin\Debug\net5.0\Articles.exe
+D:\Softuni Programming\Fundamentals\ObjectsAndClassesExercise\Articles\bin\Debug\net5.0\Articles.deps.json
+D:\Softuni Programming\Fundamentals\ObjectsAndClassesExercise\Articles\bin\Debug\net5.0\Articles.runtimeconfig.json
+D:\Softuni Programming\Fundamentals\ObjectsAndClassesExercise\Articles\bin\Debug\net5.0\Articles.runtimeconfig.dev.json
+D:\Softuni Programming\Fundamentals\ObjectsAndClassesExercise\Articles\bin\Debug\net5.0\Articles.dll
+D:\Softuni Programming\Fundamentals\ObjectsAndClassesExercise\Articles\bin\Debug\net5.0\ref\Articles.dll
+D:\Softuni Programming\Fundamentals\ObjectsAndClassesExercise\Articles\bin\Debug\net5.0\Articles.pdb
+D:\Softuni Programming\Fundamentals\ObjectsAndClassesExercise\Articles\obj\Debug\net5.0\Articles.csproj.AssemblyReference.cache
+D:\Softuni Programming\Fundamentals\ObjectsAndClassesExercise\Articles\obj\Debug\net5.0\Articles.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Fundamentals\ObjectsAndClassesExercise\Articles\obj\Debug\net5.0\Articles.AssemblyInfoInputs.cache
+D:\Softuni Programming\Fundamentals\ObjectsAndClassesExercise\Articles\obj\Debug\net5.0\Articles.AssemblyInfo.cs
+D:\Softuni Programming\Fundamentals\ObjectsAndClassesExercise\Articles\obj\Debug\net5.0\Articles.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Fundamentals\ObjectsAndClassesExercise\Articles\obj\Debug\net5.0\Articles.dll
+D:\Softuni Programming\Fundamentals\ObjectsAndClassesExercise\Articles\obj\Debug\net5.0\ref\Articles.dll
+D:\Softuni Programming\Fundamentals\ObjectsAndClassesExercise\Articles\obj\Debug\net5.0\Articles.pdb
+D:\Softuni Programming\Fundamentals\ObjectsAndClassesExercise\Articles\obj\Debug\net5.0\Articles.genruntimeconfig.cache
