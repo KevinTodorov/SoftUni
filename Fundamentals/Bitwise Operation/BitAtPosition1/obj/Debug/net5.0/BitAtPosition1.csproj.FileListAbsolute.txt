@@ -1,0 +1,16 @@
+D:\Softuni Programming\Fundamentals\Bitwise Operation\BitAtPosition1\bin\Debug\net5.0\BitAtPosition1.exe
+D:\Softuni Programming\Fundamentals\Bitwise Operation\BitAtPosition1\bin\Debug\net5.0\BitAtPosition1.deps.json
+D:\Softuni Programming\Fundamentals\Bitwise Operation\BitAtPosition1\bin\Debug\net5.0\BitAtPosition1.runtimeconfig.json
+D:\Softuni Programming\Fundamentals\Bitwise Operation\BitAtPosition1\bin\Debug\net5.0\BitAtPosition1.runtimeconfig.dev.json
+D:\Softuni Programming\Fundamentals\Bitwise Operation\BitAtPosition1\bin\Debug\net5.0\BitAtPosition1.dll
+D:\Softuni Programming\Fundamentals\Bitwise Operation\BitAtPosition1\bin\Debug\net5.0\ref\BitAtPosition1.dll
+D:\Softuni Programming\Fundamentals\Bitwise Operation\BitAtPosition1\bin\Debug\net5.0\BitAtPosition1.pdb
+D:\Softuni Programming\Fundamentals\Bitwise Operation\BitAtPosition1\obj\Debug\net5.0\BitAtPosition1.csproj.AssemblyReference.cache
+D:\Softuni Programming\Fundamentals\Bitwise Operation\BitAtPosition1\obj\Debug\net5.0\BitAtPosition1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Fundamentals\Bitwise Operation\BitAtPosition1\obj\Debug\net5.0\BitAtPosition1.AssemblyInfoInputs.cache
+D:\Softuni Programming\Fundamentals\Bitwise Operation\BitAtPosition1\obj\Debug\net5.0\BitAtPosition1.AssemblyInfo.cs
+D:\Softuni Programming\Fundamentals\Bitwise Operation\BitAtPosition1\obj\Debug\net5.0\BitAtPosition1.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Fundamentals\Bitwise Operation\BitAtPosition1\obj\Debug\net5.0\BitAtPosition1.dll
+D:\Softuni Programming\Fundamentals\Bitwise Operation\BitAtPosition1\obj\Debug\net5.0\ref\BitAtPosition1.dll
+D:\Softuni Programming\Fundamentals\Bitwise Operation\BitAtPosition1\obj\Debug\net5.0\BitAtPosition1.pdb
+D:\Softuni Programming\Fundamentals\Bitwise Operation\BitAtPosition1\obj\Debug\net5.0\BitAtPosition1.genruntimeconfig.cache

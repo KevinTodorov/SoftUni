@@ -1,0 +1,16 @@
+D:\Softuni Programming\Fundamentals\Bitwise Operation\BinaryDigitsCount\bin\Debug\net5.0\BinaryDigitsCount.exe
+D:\Softuni Programming\Fundamentals\Bitwise Operation\BinaryDigitsCount\bin\Debug\net5.0\BinaryDigitsCount.deps.json
+D:\Softuni Programming\Fundamentals\Bitwise Operation\BinaryDigitsCount\bin\Debug\net5.0\BinaryDigitsCount.runtimeconfig.json
+D:\Softuni Programming\Fundamentals\Bitwise Operation\BinaryDigitsCount\bin\Debug\net5.0\BinaryDigitsCount.runtimeconfig.dev.json
+D:\Softuni Programming\Fundamentals\Bitwise Operation\BinaryDigitsCount\bin\Debug\net5.0\BinaryDigitsCount.dll
+D:\Softuni Programming\Fundamentals\Bitwise Operation\BinaryDigitsCount\bin\Debug\net5.0\ref\BinaryDigitsCount.dll
+D:\Softuni Programming\Fundamentals\Bitwise Operation\BinaryDigitsCount\bin\Debug\net5.0\BinaryDigitsCount.pdb
+D:\Softuni Programming\Fundamentals\Bitwise Operation\BinaryDigitsCount\obj\Debug\net5.0\BinaryDigitsCount.csproj.AssemblyReference.cache
+D:\Softuni Programming\Fundamentals\Bitwise Operation\BinaryDigitsCount\obj\Debug\net5.0\BinaryDigitsCount.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Fundamentals\Bitwise Operation\BinaryDigitsCount\obj\Debug\net5.0\BinaryDigitsCount.AssemblyInfoInputs.cache
+D:\Softuni Programming\Fundamentals\Bitwise Operation\BinaryDigitsCount\obj\Debug\net5.0\BinaryDigitsCount.AssemblyInfo.cs
+D:\Softuni Programming\Fundamentals\Bitwise Operation\BinaryDigitsCount\obj\Debug\net5.0\BinaryDigitsCount.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Fundamentals\Bitwise Operation\BinaryDigitsCount\obj\Debug\net5.0\BinaryDigitsCount.dll
+D:\Softuni Programming\Fundamentals\Bitwise Operation\BinaryDigitsCount\obj\Debug\net5.0\ref\BinaryDigitsCount.dll
+D:\Softuni Programming\Fundamentals\Bitwise Operation\BinaryDigitsCount\obj\Debug\net5.0\BinaryDigitsCount.pdb
+D:\Softuni Programming\Fundamentals\Bitwise Operation\BinaryDigitsCount\obj\Debug\net5.0\BinaryDigitsCount.genruntimeconfig.cache

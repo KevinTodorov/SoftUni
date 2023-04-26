@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BinaryDigitsCount/1.0.0": {
+        "runtime": {
+          "BinaryDigitsCount.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BinaryDigitsCount/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
