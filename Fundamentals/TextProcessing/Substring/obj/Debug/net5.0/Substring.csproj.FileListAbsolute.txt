@@ -1,0 +1,16 @@
+D:\Softuni Programming\Fundamentals\TextProcessing\Substring\bin\Debug\net5.0\Substring.exe
+D:\Softuni Programming\Fundamentals\TextProcessing\Substring\bin\Debug\net5.0\Substring.deps.json
+D:\Softuni Programming\Fundamentals\TextProcessing\Substring\bin\Debug\net5.0\Substring.runtimeconfig.json
+D:\Softuni Programming\Fundamentals\TextProcessing\Substring\bin\Debug\net5.0\Substring.runtimeconfig.dev.json
+D:\Softuni Programming\Fundamentals\TextProcessing\Substring\bin\Debug\net5.0\Substring.dll
+D:\Softuni Programming\Fundamentals\TextProcessing\Substring\bin\Debug\net5.0\ref\Substring.dll
+D:\Softuni Programming\Fundamentals\TextProcessing\Substring\bin\Debug\net5.0\Substring.pdb
+D:\Softuni Programming\Fundamentals\TextProcessing\Substring\obj\Debug\net5.0\Substring.csproj.AssemblyReference.cache
+D:\Softuni Programming\Fundamentals\TextProcessing\Substring\obj\Debug\net5.0\Substring.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Fundamentals\TextProcessing\Substring\obj\Debug\net5.0\Substring.AssemblyInfoInputs.cache
+D:\Softuni Programming\Fundamentals\TextProcessing\Substring\obj\Debug\net5.0\Substring.AssemblyInfo.cs
+D:\Softuni Programming\Fundamentals\TextProcessing\Substring\obj\Debug\net5.0\Substring.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Fundamentals\TextProcessing\Substring\obj\Debug\net5.0\Substring.dll
+D:\Softuni Programming\Fundamentals\TextProcessing\Substring\obj\Debug\net5.0\ref\Substring.dll
+D:\Softuni Programming\Fundamentals\TextProcessing\Substring\obj\Debug\net5.0\Substring.pdb
+D:\Softuni Programming\Fundamentals\TextProcessing\Substring\obj\Debug\net5.0\Substring.genruntimeconfig.cache

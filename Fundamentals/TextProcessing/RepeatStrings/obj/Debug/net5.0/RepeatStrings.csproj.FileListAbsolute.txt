@@ -1,0 +1,16 @@
+D:\Softuni Programming\Fundamentals\TextProcessing\RepeatStrings\bin\Debug\net5.0\RepeatStrings.exe
+D:\Softuni Programming\Fundamentals\TextProcessing\RepeatStrings\bin\Debug\net5.0\RepeatStrings.deps.json
+D:\Softuni Programming\Fundamentals\TextProcessing\RepeatStrings\bin\Debug\net5.0\RepeatStrings.runtimeconfig.json
+D:\Softuni Programming\Fundamentals\TextProcessing\RepeatStrings\bin\Debug\net5.0\RepeatStrings.runtimeconfig.dev.json
+D:\Softuni Programming\Fundamentals\TextProcessing\RepeatStrings\bin\Debug\net5.0\RepeatStrings.dll
+D:\Softuni Programming\Fundamentals\TextProcessing\RepeatStrings\bin\Debug\net5.0\ref\RepeatStrings.dll
+D:\Softuni Programming\Fundamentals\TextProcessing\RepeatStrings\bin\Debug\net5.0\RepeatStrings.pdb
+D:\Softuni Programming\Fundamentals\TextProcessing\RepeatStrings\obj\Debug\net5.0\RepeatStrings.csproj.AssemblyReference.cache
+D:\Softuni Programming\Fundamentals\TextProcessing\RepeatStrings\obj\Debug\net5.0\RepeatStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Fundamentals\TextProcessing\RepeatStrings\obj\Debug\net5.0\RepeatStrings.AssemblyInfoInputs.cache
+D:\Softuni Programming\Fundamentals\TextProcessing\RepeatStrings\obj\Debug\net5.0\RepeatStrings.AssemblyInfo.cs
+D:\Softuni Programming\Fundamentals\TextProcessing\RepeatStrings\obj\Debug\net5.0\RepeatStrings.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Fundamentals\TextProcessing\RepeatStrings\obj\Debug\net5.0\RepeatStrings.dll
+D:\Softuni Programming\Fundamentals\TextProcessing\RepeatStrings\obj\Debug\net5.0\ref\RepeatStrings.dll
+D:\Softuni Programming\Fundamentals\TextProcessing\RepeatStrings\obj\Debug\net5.0\RepeatStrings.pdb
+D:\Softuni Programming\Fundamentals\TextProcessing\RepeatStrings\obj\Debug\net5.0\RepeatStrings.genruntimeconfig.cache
