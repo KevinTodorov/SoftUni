@@ -1,0 +1,15 @@
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\Replace Repeating Chars\bin\Debug\net5.0\Replace Repeating Chars.exe
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\Replace Repeating Chars\bin\Debug\net5.0\Replace Repeating Chars.deps.json
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\Replace Repeating Chars\bin\Debug\net5.0\Replace Repeating Chars.runtimeconfig.json
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\Replace Repeating Chars\bin\Debug\net5.0\Replace Repeating Chars.runtimeconfig.dev.json
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\Replace Repeating Chars\bin\Debug\net5.0\Replace Repeating Chars.dll
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\Replace Repeating Chars\bin\Debug\net5.0\ref\Replace Repeating Chars.dll
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\Replace Repeating Chars\bin\Debug\net5.0\Replace Repeating Chars.pdb
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\Replace Repeating Chars\obj\Debug\net5.0\Replace Repeating Chars.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\Replace Repeating Chars\obj\Debug\net5.0\Replace Repeating Chars.AssemblyInfoInputs.cache
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\Replace Repeating Chars\obj\Debug\net5.0\Replace Repeating Chars.AssemblyInfo.cs
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\Replace Repeating Chars\obj\Debug\net5.0\Replace Repeating Chars.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\Replace Repeating Chars\obj\Debug\net5.0\Replace Repeating Chars.dll
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\Replace Repeating Chars\obj\Debug\net5.0\ref\Replace Repeating Chars.dll
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\Replace Repeating Chars\obj\Debug\net5.0\Replace Repeating Chars.pdb
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\Replace Repeating Chars\obj\Debug\net5.0\Replace Repeating Chars.genruntimeconfig.cache

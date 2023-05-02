@@ -1,0 +1,15 @@
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\Letters Change NumbersV2\bin\Debug\net5.0\Letters Change NumbersV2.exe
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\Letters Change NumbersV2\bin\Debug\net5.0\Letters Change NumbersV2.deps.json
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\Letters Change NumbersV2\bin\Debug\net5.0\Letters Change NumbersV2.runtimeconfig.json
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\Letters Change NumbersV2\bin\Debug\net5.0\Letters Change NumbersV2.runtimeconfig.dev.json
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\Letters Change NumbersV2\bin\Debug\net5.0\Letters Change NumbersV2.dll
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\Letters Change NumbersV2\bin\Debug\net5.0\ref\Letters Change NumbersV2.dll
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\Letters Change NumbersV2\bin\Debug\net5.0\Letters Change NumbersV2.pdb
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\Letters Change NumbersV2\obj\Debug\net5.0\Letters Change NumbersV2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\Letters Change NumbersV2\obj\Debug\net5.0\Letters Change NumbersV2.AssemblyInfoInputs.cache
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\Letters Change NumbersV2\obj\Debug\net5.0\Letters Change NumbersV2.AssemblyInfo.cs
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\Letters Change NumbersV2\obj\Debug\net5.0\Letters Change NumbersV2.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\Letters Change NumbersV2\obj\Debug\net5.0\Letters Change NumbersV2.dll
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\Letters Change NumbersV2\obj\Debug\net5.0\ref\Letters Change NumbersV2.dll
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\Letters Change NumbersV2\obj\Debug\net5.0\Letters Change NumbersV2.pdb
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\Letters Change NumbersV2\obj\Debug\net5.0\Letters Change NumbersV2.genruntimeconfig.cache

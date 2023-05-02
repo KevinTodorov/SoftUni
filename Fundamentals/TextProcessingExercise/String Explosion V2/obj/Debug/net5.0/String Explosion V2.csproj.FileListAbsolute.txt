@@ -1,0 +1,16 @@
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\String Explosion V2\bin\Debug\net5.0\String Explosion V2.exe
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\String Explosion V2\bin\Debug\net5.0\String Explosion V2.deps.json
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\String Explosion V2\bin\Debug\net5.0\String Explosion V2.runtimeconfig.json
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\String Explosion V2\bin\Debug\net5.0\String Explosion V2.runtimeconfig.dev.json
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\String Explosion V2\bin\Debug\net5.0\String Explosion V2.dll
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\String Explosion V2\bin\Debug\net5.0\ref\String Explosion V2.dll
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\String Explosion V2\bin\Debug\net5.0\String Explosion V2.pdb
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\String Explosion V2\obj\Debug\net5.0\String Explosion V2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\String Explosion V2\obj\Debug\net5.0\String Explosion V2.AssemblyInfoInputs.cache
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\String Explosion V2\obj\Debug\net5.0\String Explosion V2.AssemblyInfo.cs
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\String Explosion V2\obj\Debug\net5.0\String Explosion V2.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\String Explosion V2\obj\Debug\net5.0\String Explosion V2.dll
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\String Explosion V2\obj\Debug\net5.0\ref\String Explosion V2.dll
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\String Explosion V2\obj\Debug\net5.0\String Explosion V2.pdb
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\String Explosion V2\obj\Debug\net5.0\String Explosion V2.genruntimeconfig.cache
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\String Explosion V2\obj\Debug\net5.0\String Explosion V2.csproj.AssemblyReference.cache

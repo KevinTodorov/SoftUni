@@ -1,0 +1,16 @@
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\Letters Change Numbers\bin\Debug\net5.0\Letters Change Numbers.exe
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\Letters Change Numbers\bin\Debug\net5.0\Letters Change Numbers.deps.json
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\Letters Change Numbers\bin\Debug\net5.0\Letters Change Numbers.runtimeconfig.json
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\Letters Change Numbers\bin\Debug\net5.0\Letters Change Numbers.runtimeconfig.dev.json
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\Letters Change Numbers\bin\Debug\net5.0\Letters Change Numbers.dll
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\Letters Change Numbers\bin\Debug\net5.0\ref\Letters Change Numbers.dll
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\Letters Change Numbers\bin\Debug\net5.0\Letters Change Numbers.pdb
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\Letters Change Numbers\obj\Debug\net5.0\Letters Change Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\Letters Change Numbers\obj\Debug\net5.0\Letters Change Numbers.AssemblyInfoInputs.cache
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\Letters Change Numbers\obj\Debug\net5.0\Letters Change Numbers.AssemblyInfo.cs
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\Letters Change Numbers\obj\Debug\net5.0\Letters Change Numbers.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\Letters Change Numbers\obj\Debug\net5.0\Letters Change Numbers.dll
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\Letters Change Numbers\obj\Debug\net5.0\ref\Letters Change Numbers.dll
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\Letters Change Numbers\obj\Debug\net5.0\Letters Change Numbers.pdb
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\Letters Change Numbers\obj\Debug\net5.0\Letters Change Numbers.genruntimeconfig.cache
+D:\Softuni Programming\Fundamentals\TextProcessingExercise\Letters Change Numbers\obj\Debug\net5.0\Letters Change Numbers.csproj.AssemblyReference.cache
