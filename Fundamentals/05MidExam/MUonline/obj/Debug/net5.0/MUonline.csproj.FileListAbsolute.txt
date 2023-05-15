@@ -1,0 +1,16 @@
+D:\programiranee\Fundamentals Early\05MidExam\MUonline\bin\Debug\net5.0\MUonline.exe
+D:\programiranee\Fundamentals Early\05MidExam\MUonline\bin\Debug\net5.0\MUonline.deps.json
+D:\programiranee\Fundamentals Early\05MidExam\MUonline\bin\Debug\net5.0\MUonline.runtimeconfig.json
+D:\programiranee\Fundamentals Early\05MidExam\MUonline\bin\Debug\net5.0\MUonline.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\05MidExam\MUonline\bin\Debug\net5.0\MUonline.dll
+D:\programiranee\Fundamentals Early\05MidExam\MUonline\bin\Debug\net5.0\ref\MUonline.dll
+D:\programiranee\Fundamentals Early\05MidExam\MUonline\bin\Debug\net5.0\MUonline.pdb
+D:\programiranee\Fundamentals Early\05MidExam\MUonline\obj\Debug\net5.0\MUonline.csproj.AssemblyReference.cache
+D:\programiranee\Fundamentals Early\05MidExam\MUonline\obj\Debug\net5.0\MUonline.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\05MidExam\MUonline\obj\Debug\net5.0\MUonline.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\05MidExam\MUonline\obj\Debug\net5.0\MUonline.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\05MidExam\MUonline\obj\Debug\net5.0\MUonline.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\05MidExam\MUonline\obj\Debug\net5.0\MUonline.dll
+D:\programiranee\Fundamentals Early\05MidExam\MUonline\obj\Debug\net5.0\ref\MUonline.dll
+D:\programiranee\Fundamentals Early\05MidExam\MUonline\obj\Debug\net5.0\MUonline.pdb
+D:\programiranee\Fundamentals Early\05MidExam\MUonline\obj\Debug\net5.0\MUonline.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\programiranee\Fundamentals Early\05MidExam\BonusScoringSystem\bin\Debug\net5.0\BonusScoringSystem.exe
+D:\programiranee\Fundamentals Early\05MidExam\BonusScoringSystem\bin\Debug\net5.0\BonusScoringSystem.deps.json
+D:\programiranee\Fundamentals Early\05MidExam\BonusScoringSystem\bin\Debug\net5.0\BonusScoringSystem.runtimeconfig.json
+D:\programiranee\Fundamentals Early\05MidExam\BonusScoringSystem\bin\Debug\net5.0\BonusScoringSystem.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\05MidExam\BonusScoringSystem\bin\Debug\net5.0\BonusScoringSystem.dll
+D:\programiranee\Fundamentals Early\05MidExam\BonusScoringSystem\bin\Debug\net5.0\ref\BonusScoringSystem.dll
+D:\programiranee\Fundamentals Early\05MidExam\BonusScoringSystem\bin\Debug\net5.0\BonusScoringSystem.pdb
+D:\programiranee\Fundamentals Early\05MidExam\BonusScoringSystem\obj\Debug\net5.0\BonusScoringSystem.csproj.AssemblyReference.cache
+D:\programiranee\Fundamentals Early\05MidExam\BonusScoringSystem\obj\Debug\net5.0\BonusScoringSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\05MidExam\BonusScoringSystem\obj\Debug\net5.0\BonusScoringSystem.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\05MidExam\BonusScoringSystem\obj\Debug\net5.0\BonusScoringSystem.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\05MidExam\BonusScoringSystem\obj\Debug\net5.0\BonusScoringSystem.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\05MidExam\BonusScoringSystem\obj\Debug\net5.0\BonusScoringSystem.dll
+D:\programiranee\Fundamentals Early\05MidExam\BonusScoringSystem\obj\Debug\net5.0\ref\BonusScoringSystem.dll
+D:\programiranee\Fundamentals Early\05MidExam\BonusScoringSystem\obj\Debug\net5.0\BonusScoringSystem.pdb
+D:\programiranee\Fundamentals Early\05MidExam\BonusScoringSystem\obj\Debug\net5.0\BonusScoringSystem.genruntimeconfig.cache

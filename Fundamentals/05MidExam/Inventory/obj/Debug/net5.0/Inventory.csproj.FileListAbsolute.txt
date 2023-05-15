@@ -1,0 +1,16 @@
+D:\programiranee\Fundamentals Early\05MidExam\Inventory\bin\Debug\net5.0\Inventory.exe
+D:\programiranee\Fundamentals Early\05MidExam\Inventory\bin\Debug\net5.0\Inventory.deps.json
+D:\programiranee\Fundamentals Early\05MidExam\Inventory\bin\Debug\net5.0\Inventory.runtimeconfig.json
+D:\programiranee\Fundamentals Early\05MidExam\Inventory\bin\Debug\net5.0\Inventory.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\05MidExam\Inventory\bin\Debug\net5.0\Inventory.dll
+D:\programiranee\Fundamentals Early\05MidExam\Inventory\bin\Debug\net5.0\ref\Inventory.dll
+D:\programiranee\Fundamentals Early\05MidExam\Inventory\bin\Debug\net5.0\Inventory.pdb
+D:\programiranee\Fundamentals Early\05MidExam\Inventory\obj\Debug\net5.0\Inventory.csproj.AssemblyReference.cache
+D:\programiranee\Fundamentals Early\05MidExam\Inventory\obj\Debug\net5.0\Inventory.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\05MidExam\Inventory\obj\Debug\net5.0\Inventory.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\05MidExam\Inventory\obj\Debug\net5.0\Inventory.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\05MidExam\Inventory\obj\Debug\net5.0\Inventory.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\05MidExam\Inventory\obj\Debug\net5.0\Inventory.dll
+D:\programiranee\Fundamentals Early\05MidExam\Inventory\obj\Debug\net5.0\ref\Inventory.dll
+D:\programiranee\Fundamentals Early\05MidExam\Inventory\obj\Debug\net5.0\Inventory.pdb
+D:\programiranee\Fundamentals Early\05MidExam\Inventory\obj\Debug\net5.0\Inventory.genruntimeconfig.cache
