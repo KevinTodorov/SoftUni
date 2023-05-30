@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "HeartDeliveryV2/1.0.0": {
+        "runtime": {
+          "HeartDeliveryV2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HeartDeliveryV2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

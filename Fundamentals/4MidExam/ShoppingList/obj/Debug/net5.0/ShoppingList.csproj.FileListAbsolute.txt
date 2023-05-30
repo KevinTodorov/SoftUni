@@ -1,0 +1,15 @@
+D:\programiranee\Fundamentals Early\4MidExam\ShoppingList\bin\Debug\net5.0\ShoppingList.exe
+D:\programiranee\Fundamentals Early\4MidExam\ShoppingList\bin\Debug\net5.0\ShoppingList.deps.json
+D:\programiranee\Fundamentals Early\4MidExam\ShoppingList\bin\Debug\net5.0\ShoppingList.runtimeconfig.json
+D:\programiranee\Fundamentals Early\4MidExam\ShoppingList\bin\Debug\net5.0\ShoppingList.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\4MidExam\ShoppingList\bin\Debug\net5.0\ShoppingList.dll
+D:\programiranee\Fundamentals Early\4MidExam\ShoppingList\bin\Debug\net5.0\ref\ShoppingList.dll
+D:\programiranee\Fundamentals Early\4MidExam\ShoppingList\bin\Debug\net5.0\ShoppingList.pdb
+D:\programiranee\Fundamentals Early\4MidExam\ShoppingList\obj\Debug\net5.0\ShoppingList.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\4MidExam\ShoppingList\obj\Debug\net5.0\ShoppingList.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\4MidExam\ShoppingList\obj\Debug\net5.0\ShoppingList.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\4MidExam\ShoppingList\obj\Debug\net5.0\ShoppingList.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\4MidExam\ShoppingList\obj\Debug\net5.0\ShoppingList.dll
+D:\programiranee\Fundamentals Early\4MidExam\ShoppingList\obj\Debug\net5.0\ref\ShoppingList.dll
+D:\programiranee\Fundamentals Early\4MidExam\ShoppingList\obj\Debug\net5.0\ShoppingList.pdb
+D:\programiranee\Fundamentals Early\4MidExam\ShoppingList\obj\Debug\net5.0\ShoppingList.genruntimeconfig.cache

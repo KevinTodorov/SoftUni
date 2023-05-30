@@ -1,0 +1,15 @@
+D:\programiranee\Fundamentals Early\4MidExam\HeartDelivery\bin\Debug\net5.0\HeartDeliveryV2.exe
+D:\programiranee\Fundamentals Early\4MidExam\HeartDelivery\bin\Debug\net5.0\HeartDeliveryV2.deps.json
+D:\programiranee\Fundamentals Early\4MidExam\HeartDelivery\bin\Debug\net5.0\HeartDeliveryV2.runtimeconfig.json
+D:\programiranee\Fundamentals Early\4MidExam\HeartDelivery\bin\Debug\net5.0\HeartDeliveryV2.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\4MidExam\HeartDelivery\bin\Debug\net5.0\HeartDeliveryV2.dll
+D:\programiranee\Fundamentals Early\4MidExam\HeartDelivery\bin\Debug\net5.0\ref\HeartDeliveryV2.dll
+D:\programiranee\Fundamentals Early\4MidExam\HeartDelivery\bin\Debug\net5.0\HeartDeliveryV2.pdb
+D:\programiranee\Fundamentals Early\4MidExam\HeartDelivery\obj\Debug\net5.0\HeartDeliveryV2.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\4MidExam\HeartDelivery\obj\Debug\net5.0\HeartDeliveryV2.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\4MidExam\HeartDelivery\obj\Debug\net5.0\HeartDeliveryV2.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\4MidExam\HeartDelivery\obj\Debug\net5.0\HeartDeliveryV2.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\4MidExam\HeartDelivery\obj\Debug\net5.0\HeartDeliveryV2.dll
+D:\programiranee\Fundamentals Early\4MidExam\HeartDelivery\obj\Debug\net5.0\ref\HeartDeliveryV2.dll
+D:\programiranee\Fundamentals Early\4MidExam\HeartDelivery\obj\Debug\net5.0\HeartDeliveryV2.pdb
+D:\programiranee\Fundamentals Early\4MidExam\HeartDelivery\obj\Debug\net5.0\HeartDeliveryV2.genruntimeconfig.cache
