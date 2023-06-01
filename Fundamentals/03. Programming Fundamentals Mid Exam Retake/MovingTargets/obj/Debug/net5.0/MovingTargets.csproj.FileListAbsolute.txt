@@ -1,0 +1,15 @@
+D:\programiranee\Fundamentals Early\03. Programming Fundamentals Mid Exam Retake\MovingTargets\bin\Debug\net5.0\MovingTargets.exe
+D:\programiranee\Fundamentals Early\03. Programming Fundamentals Mid Exam Retake\MovingTargets\bin\Debug\net5.0\MovingTargets.deps.json
+D:\programiranee\Fundamentals Early\03. Programming Fundamentals Mid Exam Retake\MovingTargets\bin\Debug\net5.0\MovingTargets.runtimeconfig.json
+D:\programiranee\Fundamentals Early\03. Programming Fundamentals Mid Exam Retake\MovingTargets\bin\Debug\net5.0\MovingTargets.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\03. Programming Fundamentals Mid Exam Retake\MovingTargets\bin\Debug\net5.0\MovingTargets.dll
+D:\programiranee\Fundamentals Early\03. Programming Fundamentals Mid Exam Retake\MovingTargets\bin\Debug\net5.0\ref\MovingTargets.dll
+D:\programiranee\Fundamentals Early\03. Programming Fundamentals Mid Exam Retake\MovingTargets\bin\Debug\net5.0\MovingTargets.pdb
+D:\programiranee\Fundamentals Early\03. Programming Fundamentals Mid Exam Retake\MovingTargets\obj\Debug\net5.0\MovingTargets.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\03. Programming Fundamentals Mid Exam Retake\MovingTargets\obj\Debug\net5.0\MovingTargets.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\03. Programming Fundamentals Mid Exam Retake\MovingTargets\obj\Debug\net5.0\MovingTargets.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\03. Programming Fundamentals Mid Exam Retake\MovingTargets\obj\Debug\net5.0\MovingTargets.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\03. Programming Fundamentals Mid Exam Retake\MovingTargets\obj\Debug\net5.0\MovingTargets.dll
+D:\programiranee\Fundamentals Early\03. Programming Fundamentals Mid Exam Retake\MovingTargets\obj\Debug\net5.0\ref\MovingTargets.dll
+D:\programiranee\Fundamentals Early\03. Programming Fundamentals Mid Exam Retake\MovingTargets\obj\Debug\net5.0\MovingTargets.pdb
+D:\programiranee\Fundamentals Early\03. Programming Fundamentals Mid Exam Retake\MovingTargets\obj\Debug\net5.0\MovingTargets.genruntimeconfig.cache

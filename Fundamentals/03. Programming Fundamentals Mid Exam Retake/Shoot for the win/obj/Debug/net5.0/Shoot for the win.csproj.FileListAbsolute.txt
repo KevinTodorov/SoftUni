@@ -1,0 +1,16 @@
+D:\programiranee\Fundamentals Early\03. Programming Fundamentals Mid Exam Retake\Shoot for the win\bin\Debug\net5.0\Shoot for the win.exe
+D:\programiranee\Fundamentals Early\03. Programming Fundamentals Mid Exam Retake\Shoot for the win\bin\Debug\net5.0\Shoot for the win.deps.json
+D:\programiranee\Fundamentals Early\03. Programming Fundamentals Mid Exam Retake\Shoot for the win\bin\Debug\net5.0\Shoot for the win.runtimeconfig.json
+D:\programiranee\Fundamentals Early\03. Programming Fundamentals Mid Exam Retake\Shoot for the win\bin\Debug\net5.0\Shoot for the win.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\03. Programming Fundamentals Mid Exam Retake\Shoot for the win\bin\Debug\net5.0\Shoot for the win.dll
+D:\programiranee\Fundamentals Early\03. Programming Fundamentals Mid Exam Retake\Shoot for the win\bin\Debug\net5.0\ref\Shoot for the win.dll
+D:\programiranee\Fundamentals Early\03. Programming Fundamentals Mid Exam Retake\Shoot for the win\bin\Debug\net5.0\Shoot for the win.pdb
+D:\programiranee\Fundamentals Early\03. Programming Fundamentals Mid Exam Retake\Shoot for the win\obj\Debug\net5.0\Shoot for the win.csproj.AssemblyReference.cache
+D:\programiranee\Fundamentals Early\03. Programming Fundamentals Mid Exam Retake\Shoot for the win\obj\Debug\net5.0\Shoot for the win.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\03. Programming Fundamentals Mid Exam Retake\Shoot for the win\obj\Debug\net5.0\Shoot for the win.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\03. Programming Fundamentals Mid Exam Retake\Shoot for the win\obj\Debug\net5.0\Shoot for the win.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\03. Programming Fundamentals Mid Exam Retake\Shoot for the win\obj\Debug\net5.0\Shoot for the win.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\03. Programming Fundamentals Mid Exam Retake\Shoot for the win\obj\Debug\net5.0\Shoot for the win.dll
+D:\programiranee\Fundamentals Early\03. Programming Fundamentals Mid Exam Retake\Shoot for the win\obj\Debug\net5.0\ref\Shoot for the win.dll
+D:\programiranee\Fundamentals Early\03. Programming Fundamentals Mid Exam Retake\Shoot for the win\obj\Debug\net5.0\Shoot for the win.pdb
+D:\programiranee\Fundamentals Early\03. Programming Fundamentals Mid Exam Retake\Shoot for the win\obj\Debug\net5.0\Shoot for the win.genruntimeconfig.cache

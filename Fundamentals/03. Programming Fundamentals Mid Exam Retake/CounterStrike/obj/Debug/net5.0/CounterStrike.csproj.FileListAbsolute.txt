@@ -1,0 +1,16 @@
+D:\programiranee\Fundamentals Early\03. Programming Fundamentals Mid Exam Retake\CounterStrike\bin\Debug\net5.0\CounterStrike.exe
+D:\programiranee\Fundamentals Early\03. Programming Fundamentals Mid Exam Retake\CounterStrike\bin\Debug\net5.0\CounterStrike.deps.json
+D:\programiranee\Fundamentals Early\03. Programming Fundamentals Mid Exam Retake\CounterStrike\bin\Debug\net5.0\CounterStrike.runtimeconfig.json
+D:\programiranee\Fundamentals Early\03. Programming Fundamentals Mid Exam Retake\CounterStrike\bin\Debug\net5.0\CounterStrike.runtimeconfig.dev.json
+D:\programiranee\Fundamentals Early\03. Programming Fundamentals Mid Exam Retake\CounterStrike\bin\Debug\net5.0\CounterStrike.dll
+D:\programiranee\Fundamentals Early\03. Programming Fundamentals Mid Exam Retake\CounterStrike\bin\Debug\net5.0\ref\CounterStrike.dll
+D:\programiranee\Fundamentals Early\03. Programming Fundamentals Mid Exam Retake\CounterStrike\bin\Debug\net5.0\CounterStrike.pdb
+D:\programiranee\Fundamentals Early\03. Programming Fundamentals Mid Exam Retake\CounterStrike\obj\Debug\net5.0\CounterStrike.csproj.AssemblyReference.cache
+D:\programiranee\Fundamentals Early\03. Programming Fundamentals Mid Exam Retake\CounterStrike\obj\Debug\net5.0\CounterStrike.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranee\Fundamentals Early\03. Programming Fundamentals Mid Exam Retake\CounterStrike\obj\Debug\net5.0\CounterStrike.AssemblyInfoInputs.cache
+D:\programiranee\Fundamentals Early\03. Programming Fundamentals Mid Exam Retake\CounterStrike\obj\Debug\net5.0\CounterStrike.AssemblyInfo.cs
+D:\programiranee\Fundamentals Early\03. Programming Fundamentals Mid Exam Retake\CounterStrike\obj\Debug\net5.0\CounterStrike.csproj.CoreCompileInputs.cache
+D:\programiranee\Fundamentals Early\03. Programming Fundamentals Mid Exam Retake\CounterStrike\obj\Debug\net5.0\CounterStrike.dll
+D:\programiranee\Fundamentals Early\03. Programming Fundamentals Mid Exam Retake\CounterStrike\obj\Debug\net5.0\ref\CounterStrike.dll
+D:\programiranee\Fundamentals Early\03. Programming Fundamentals Mid Exam Retake\CounterStrike\obj\Debug\net5.0\CounterStrike.pdb
+D:\programiranee\Fundamentals Early\03. Programming Fundamentals Mid Exam Retake\CounterStrike\obj\Debug\net5.0\CounterStrike.genruntimeconfig.cache
