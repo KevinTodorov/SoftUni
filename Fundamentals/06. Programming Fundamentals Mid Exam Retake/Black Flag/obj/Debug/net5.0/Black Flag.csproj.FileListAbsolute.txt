@@ -1,0 +1,16 @@
+D:\Softuni Programming\Fundamentals\06. Programming Fundamentals Mid Exam Retake\Black Flag\bin\Debug\net5.0\Black Flag.exe
+D:\Softuni Programming\Fundamentals\06. Programming Fundamentals Mid Exam Retake\Black Flag\bin\Debug\net5.0\Black Flag.deps.json
+D:\Softuni Programming\Fundamentals\06. Programming Fundamentals Mid Exam Retake\Black Flag\bin\Debug\net5.0\Black Flag.runtimeconfig.json
+D:\Softuni Programming\Fundamentals\06. Programming Fundamentals Mid Exam Retake\Black Flag\bin\Debug\net5.0\Black Flag.runtimeconfig.dev.json
+D:\Softuni Programming\Fundamentals\06. Programming Fundamentals Mid Exam Retake\Black Flag\bin\Debug\net5.0\Black Flag.dll
+D:\Softuni Programming\Fundamentals\06. Programming Fundamentals Mid Exam Retake\Black Flag\bin\Debug\net5.0\ref\Black Flag.dll
+D:\Softuni Programming\Fundamentals\06. Programming Fundamentals Mid Exam Retake\Black Flag\bin\Debug\net5.0\Black Flag.pdb
+D:\Softuni Programming\Fundamentals\06. Programming Fundamentals Mid Exam Retake\Black Flag\obj\Debug\net5.0\Black Flag.csproj.AssemblyReference.cache
+D:\Softuni Programming\Fundamentals\06. Programming Fundamentals Mid Exam Retake\Black Flag\obj\Debug\net5.0\Black Flag.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Fundamentals\06. Programming Fundamentals Mid Exam Retake\Black Flag\obj\Debug\net5.0\Black Flag.AssemblyInfoInputs.cache
+D:\Softuni Programming\Fundamentals\06. Programming Fundamentals Mid Exam Retake\Black Flag\obj\Debug\net5.0\Black Flag.AssemblyInfo.cs
+D:\Softuni Programming\Fundamentals\06. Programming Fundamentals Mid Exam Retake\Black Flag\obj\Debug\net5.0\Black Flag.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Fundamentals\06. Programming Fundamentals Mid Exam Retake\Black Flag\obj\Debug\net5.0\Black Flag.dll
+D:\Softuni Programming\Fundamentals\06. Programming Fundamentals Mid Exam Retake\Black Flag\obj\Debug\net5.0\ref\Black Flag.dll
+D:\Softuni Programming\Fundamentals\06. Programming Fundamentals Mid Exam Retake\Black Flag\obj\Debug\net5.0\Black Flag.pdb
+D:\Softuni Programming\Fundamentals\06. Programming Fundamentals Mid Exam Retake\Black Flag\obj\Debug\net5.0\Black Flag.genruntimeconfig.cache

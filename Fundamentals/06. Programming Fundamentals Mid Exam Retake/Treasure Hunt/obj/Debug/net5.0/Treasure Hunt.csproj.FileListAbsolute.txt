@@ -1,0 +1,16 @@
+D:\Softuni Programming\Fundamentals\06. Programming Fundamentals Mid Exam Retake\Treasure Hunt\bin\Debug\net5.0\Treasure Hunt.exe
+D:\Softuni Programming\Fundamentals\06. Programming Fundamentals Mid Exam Retake\Treasure Hunt\bin\Debug\net5.0\Treasure Hunt.deps.json
+D:\Softuni Programming\Fundamentals\06. Programming Fundamentals Mid Exam Retake\Treasure Hunt\bin\Debug\net5.0\Treasure Hunt.runtimeconfig.json
+D:\Softuni Programming\Fundamentals\06. Programming Fundamentals Mid Exam Retake\Treasure Hunt\bin\Debug\net5.0\Treasure Hunt.runtimeconfig.dev.json
+D:\Softuni Programming\Fundamentals\06. Programming Fundamentals Mid Exam Retake\Treasure Hunt\bin\Debug\net5.0\Treasure Hunt.dll
+D:\Softuni Programming\Fundamentals\06. Programming Fundamentals Mid Exam Retake\Treasure Hunt\bin\Debug\net5.0\ref\Treasure Hunt.dll
+D:\Softuni Programming\Fundamentals\06. Programming Fundamentals Mid Exam Retake\Treasure Hunt\bin\Debug\net5.0\Treasure Hunt.pdb
+D:\Softuni Programming\Fundamentals\06. Programming Fundamentals Mid Exam Retake\Treasure Hunt\obj\Debug\net5.0\Treasure Hunt.csproj.AssemblyReference.cache
+D:\Softuni Programming\Fundamentals\06. Programming Fundamentals Mid Exam Retake\Treasure Hunt\obj\Debug\net5.0\Treasure Hunt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Fundamentals\06. Programming Fundamentals Mid Exam Retake\Treasure Hunt\obj\Debug\net5.0\Treasure Hunt.AssemblyInfoInputs.cache
+D:\Softuni Programming\Fundamentals\06. Programming Fundamentals Mid Exam Retake\Treasure Hunt\obj\Debug\net5.0\Treasure Hunt.AssemblyInfo.cs
+D:\Softuni Programming\Fundamentals\06. Programming Fundamentals Mid Exam Retake\Treasure Hunt\obj\Debug\net5.0\Treasure Hunt.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Fundamentals\06. Programming Fundamentals Mid Exam Retake\Treasure Hunt\obj\Debug\net5.0\Treasure Hunt.dll
+D:\Softuni Programming\Fundamentals\06. Programming Fundamentals Mid Exam Retake\Treasure Hunt\obj\Debug\net5.0\ref\Treasure Hunt.dll
+D:\Softuni Programming\Fundamentals\06. Programming Fundamentals Mid Exam Retake\Treasure Hunt\obj\Debug\net5.0\Treasure Hunt.pdb
+D:\Softuni Programming\Fundamentals\06. Programming Fundamentals Mid Exam Retake\Treasure Hunt\obj\Debug\net5.0\Treasure Hunt.genruntimeconfig.cache

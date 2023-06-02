@@ -1,0 +1,15 @@
+D:\Softuni Programming\Fundamentals\06. Programming Fundamentals Mid Exam Retake\Black FlagV2\bin\Debug\net5.0\Black FlagV2.exe
+D:\Softuni Programming\Fundamentals\06. Programming Fundamentals Mid Exam Retake\Black FlagV2\bin\Debug\net5.0\Black FlagV2.deps.json
+D:\Softuni Programming\Fundamentals\06. Programming Fundamentals Mid Exam Retake\Black FlagV2\bin\Debug\net5.0\Black FlagV2.runtimeconfig.json
+D:\Softuni Programming\Fundamentals\06. Programming Fundamentals Mid Exam Retake\Black FlagV2\bin\Debug\net5.0\Black FlagV2.runtimeconfig.dev.json
+D:\Softuni Programming\Fundamentals\06. Programming Fundamentals Mid Exam Retake\Black FlagV2\bin\Debug\net5.0\Black FlagV2.dll
+D:\Softuni Programming\Fundamentals\06. Programming Fundamentals Mid Exam Retake\Black FlagV2\bin\Debug\net5.0\ref\Black FlagV2.dll
+D:\Softuni Programming\Fundamentals\06. Programming Fundamentals Mid Exam Retake\Black FlagV2\bin\Debug\net5.0\Black FlagV2.pdb
+D:\Softuni Programming\Fundamentals\06. Programming Fundamentals Mid Exam Retake\Black FlagV2\obj\Debug\net5.0\Black FlagV2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Fundamentals\06. Programming Fundamentals Mid Exam Retake\Black FlagV2\obj\Debug\net5.0\Black FlagV2.AssemblyInfoInputs.cache
+D:\Softuni Programming\Fundamentals\06. Programming Fundamentals Mid Exam Retake\Black FlagV2\obj\Debug\net5.0\Black FlagV2.AssemblyInfo.cs
+D:\Softuni Programming\Fundamentals\06. Programming Fundamentals Mid Exam Retake\Black FlagV2\obj\Debug\net5.0\Black FlagV2.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Fundamentals\06. Programming Fundamentals Mid Exam Retake\Black FlagV2\obj\Debug\net5.0\Black FlagV2.dll
+D:\Softuni Programming\Fundamentals\06. Programming Fundamentals Mid Exam Retake\Black FlagV2\obj\Debug\net5.0\ref\Black FlagV2.dll
+D:\Softuni Programming\Fundamentals\06. Programming Fundamentals Mid Exam Retake\Black FlagV2\obj\Debug\net5.0\Black FlagV2.pdb
+D:\Softuni Programming\Fundamentals\06. Programming Fundamentals Mid Exam Retake\Black FlagV2\obj\Debug\net5.0\Black FlagV2.genruntimeconfig.cache

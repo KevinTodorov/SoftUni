@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Black FlagV2/1.0.0": {
+        "runtime": {
+          "Black FlagV2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Black FlagV2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
