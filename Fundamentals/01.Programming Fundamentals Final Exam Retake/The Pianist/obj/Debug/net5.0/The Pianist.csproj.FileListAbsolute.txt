@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\Exams\01.Programming Fundamentals Final Exam Retake\The Pianist\bin\Debug\net5.0\The Pianist.exe
+C:\Users\PC\Desktop\Exams\01.Programming Fundamentals Final Exam Retake\The Pianist\bin\Debug\net5.0\The Pianist.deps.json
+C:\Users\PC\Desktop\Exams\01.Programming Fundamentals Final Exam Retake\The Pianist\bin\Debug\net5.0\The Pianist.runtimeconfig.json
+C:\Users\PC\Desktop\Exams\01.Programming Fundamentals Final Exam Retake\The Pianist\bin\Debug\net5.0\The Pianist.runtimeconfig.dev.json
+C:\Users\PC\Desktop\Exams\01.Programming Fundamentals Final Exam Retake\The Pianist\bin\Debug\net5.0\The Pianist.dll
+C:\Users\PC\Desktop\Exams\01.Programming Fundamentals Final Exam Retake\The Pianist\bin\Debug\net5.0\ref\The Pianist.dll
+C:\Users\PC\Desktop\Exams\01.Programming Fundamentals Final Exam Retake\The Pianist\bin\Debug\net5.0\The Pianist.pdb
+C:\Users\PC\Desktop\Exams\01.Programming Fundamentals Final Exam Retake\The Pianist\obj\Debug\net5.0\The Pianist.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Exams\01.Programming Fundamentals Final Exam Retake\The Pianist\obj\Debug\net5.0\The Pianist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Exams\01.Programming Fundamentals Final Exam Retake\The Pianist\obj\Debug\net5.0\The Pianist.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Exams\01.Programming Fundamentals Final Exam Retake\The Pianist\obj\Debug\net5.0\The Pianist.AssemblyInfo.cs
+C:\Users\PC\Desktop\Exams\01.Programming Fundamentals Final Exam Retake\The Pianist\obj\Debug\net5.0\The Pianist.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Exams\01.Programming Fundamentals Final Exam Retake\The Pianist\obj\Debug\net5.0\The Pianist.dll
+C:\Users\PC\Desktop\Exams\01.Programming Fundamentals Final Exam Retake\The Pianist\obj\Debug\net5.0\ref\The Pianist.dll
+C:\Users\PC\Desktop\Exams\01.Programming Fundamentals Final Exam Retake\The Pianist\obj\Debug\net5.0\The Pianist.pdb
+C:\Users\PC\Desktop\Exams\01.Programming Fundamentals Final Exam Retake\The Pianist\obj\Debug\net5.0\The Pianist.genruntimeconfig.cache
