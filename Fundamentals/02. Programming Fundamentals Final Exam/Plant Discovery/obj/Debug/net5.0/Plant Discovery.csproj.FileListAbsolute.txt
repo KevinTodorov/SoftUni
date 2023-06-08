@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\Exams\02. Programming Fundamentals Final Exam\Plant Discovery\bin\Debug\net5.0\Plant Discovery.exe
+C:\Users\PC\Desktop\Exams\02. Programming Fundamentals Final Exam\Plant Discovery\bin\Debug\net5.0\Plant Discovery.deps.json
+C:\Users\PC\Desktop\Exams\02. Programming Fundamentals Final Exam\Plant Discovery\bin\Debug\net5.0\Plant Discovery.runtimeconfig.json
+C:\Users\PC\Desktop\Exams\02. Programming Fundamentals Final Exam\Plant Discovery\bin\Debug\net5.0\Plant Discovery.runtimeconfig.dev.json
+C:\Users\PC\Desktop\Exams\02. Programming Fundamentals Final Exam\Plant Discovery\bin\Debug\net5.0\Plant Discovery.dll
+C:\Users\PC\Desktop\Exams\02. Programming Fundamentals Final Exam\Plant Discovery\bin\Debug\net5.0\ref\Plant Discovery.dll
+C:\Users\PC\Desktop\Exams\02. Programming Fundamentals Final Exam\Plant Discovery\bin\Debug\net5.0\Plant Discovery.pdb
+C:\Users\PC\Desktop\Exams\02. Programming Fundamentals Final Exam\Plant Discovery\obj\Debug\net5.0\Plant Discovery.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Exams\02. Programming Fundamentals Final Exam\Plant Discovery\obj\Debug\net5.0\Plant Discovery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Exams\02. Programming Fundamentals Final Exam\Plant Discovery\obj\Debug\net5.0\Plant Discovery.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Exams\02. Programming Fundamentals Final Exam\Plant Discovery\obj\Debug\net5.0\Plant Discovery.AssemblyInfo.cs
+C:\Users\PC\Desktop\Exams\02. Programming Fundamentals Final Exam\Plant Discovery\obj\Debug\net5.0\Plant Discovery.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Exams\02. Programming Fundamentals Final Exam\Plant Discovery\obj\Debug\net5.0\Plant Discovery.dll
+C:\Users\PC\Desktop\Exams\02. Programming Fundamentals Final Exam\Plant Discovery\obj\Debug\net5.0\ref\Plant Discovery.dll
+C:\Users\PC\Desktop\Exams\02. Programming Fundamentals Final Exam\Plant Discovery\obj\Debug\net5.0\Plant Discovery.pdb
+C:\Users\PC\Desktop\Exams\02. Programming Fundamentals Final Exam\Plant Discovery\obj\Debug\net5.0\Plant Discovery.genruntimeconfig.cache

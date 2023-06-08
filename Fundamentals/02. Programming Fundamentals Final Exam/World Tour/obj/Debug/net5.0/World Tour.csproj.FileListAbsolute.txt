@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\Exams\02. Programming Fundamentals Final Exam\World Tour\bin\Debug\net5.0\World Tour.exe
+C:\Users\PC\Desktop\Exams\02. Programming Fundamentals Final Exam\World Tour\bin\Debug\net5.0\World Tour.deps.json
+C:\Users\PC\Desktop\Exams\02. Programming Fundamentals Final Exam\World Tour\bin\Debug\net5.0\World Tour.runtimeconfig.json
+C:\Users\PC\Desktop\Exams\02. Programming Fundamentals Final Exam\World Tour\bin\Debug\net5.0\World Tour.runtimeconfig.dev.json
+C:\Users\PC\Desktop\Exams\02. Programming Fundamentals Final Exam\World Tour\bin\Debug\net5.0\World Tour.dll
+C:\Users\PC\Desktop\Exams\02. Programming Fundamentals Final Exam\World Tour\bin\Debug\net5.0\ref\World Tour.dll
+C:\Users\PC\Desktop\Exams\02. Programming Fundamentals Final Exam\World Tour\bin\Debug\net5.0\World Tour.pdb
+C:\Users\PC\Desktop\Exams\02. Programming Fundamentals Final Exam\World Tour\obj\Debug\net5.0\World Tour.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Exams\02. Programming Fundamentals Final Exam\World Tour\obj\Debug\net5.0\World Tour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Exams\02. Programming Fundamentals Final Exam\World Tour\obj\Debug\net5.0\World Tour.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Exams\02. Programming Fundamentals Final Exam\World Tour\obj\Debug\net5.0\World Tour.AssemblyInfo.cs
+C:\Users\PC\Desktop\Exams\02. Programming Fundamentals Final Exam\World Tour\obj\Debug\net5.0\World Tour.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Exams\02. Programming Fundamentals Final Exam\World Tour\obj\Debug\net5.0\World Tour.dll
+C:\Users\PC\Desktop\Exams\02. Programming Fundamentals Final Exam\World Tour\obj\Debug\net5.0\ref\World Tour.dll
+C:\Users\PC\Desktop\Exams\02. Programming Fundamentals Final Exam\World Tour\obj\Debug\net5.0\World Tour.pdb
+C:\Users\PC\Desktop\Exams\02. Programming Fundamentals Final Exam\World Tour\obj\Debug\net5.0\World Tour.genruntimeconfig.cache

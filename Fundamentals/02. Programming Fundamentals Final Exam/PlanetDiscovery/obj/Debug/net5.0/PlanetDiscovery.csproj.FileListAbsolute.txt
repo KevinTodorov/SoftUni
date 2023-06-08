@@ -1,0 +1,16 @@
+D:\Softuni Programming\Fundamentals\02. Programming Fundamentals Final Exam\PlanetDiscovery\bin\Debug\net5.0\PlanetDiscovery.exe
+D:\Softuni Programming\Fundamentals\02. Programming Fundamentals Final Exam\PlanetDiscovery\bin\Debug\net5.0\PlanetDiscovery.deps.json
+D:\Softuni Programming\Fundamentals\02. Programming Fundamentals Final Exam\PlanetDiscovery\bin\Debug\net5.0\PlanetDiscovery.runtimeconfig.json
+D:\Softuni Programming\Fundamentals\02. Programming Fundamentals Final Exam\PlanetDiscovery\bin\Debug\net5.0\PlanetDiscovery.runtimeconfig.dev.json
+D:\Softuni Programming\Fundamentals\02. Programming Fundamentals Final Exam\PlanetDiscovery\bin\Debug\net5.0\PlanetDiscovery.dll
+D:\Softuni Programming\Fundamentals\02. Programming Fundamentals Final Exam\PlanetDiscovery\bin\Debug\net5.0\ref\PlanetDiscovery.dll
+D:\Softuni Programming\Fundamentals\02. Programming Fundamentals Final Exam\PlanetDiscovery\bin\Debug\net5.0\PlanetDiscovery.pdb
+D:\Softuni Programming\Fundamentals\02. Programming Fundamentals Final Exam\PlanetDiscovery\obj\Debug\net5.0\PlanetDiscovery.csproj.AssemblyReference.cache
+D:\Softuni Programming\Fundamentals\02. Programming Fundamentals Final Exam\PlanetDiscovery\obj\Debug\net5.0\PlanetDiscovery.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Fundamentals\02. Programming Fundamentals Final Exam\PlanetDiscovery\obj\Debug\net5.0\PlanetDiscovery.AssemblyInfoInputs.cache
+D:\Softuni Programming\Fundamentals\02. Programming Fundamentals Final Exam\PlanetDiscovery\obj\Debug\net5.0\PlanetDiscovery.AssemblyInfo.cs
+D:\Softuni Programming\Fundamentals\02. Programming Fundamentals Final Exam\PlanetDiscovery\obj\Debug\net5.0\PlanetDiscovery.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Fundamentals\02. Programming Fundamentals Final Exam\PlanetDiscovery\obj\Debug\net5.0\PlanetDiscovery.dll
+D:\Softuni Programming\Fundamentals\02. Programming Fundamentals Final Exam\PlanetDiscovery\obj\Debug\net5.0\ref\PlanetDiscovery.dll
+D:\Softuni Programming\Fundamentals\02. Programming Fundamentals Final Exam\PlanetDiscovery\obj\Debug\net5.0\PlanetDiscovery.pdb
+D:\Softuni Programming\Fundamentals\02. Programming Fundamentals Final Exam\PlanetDiscovery\obj\Debug\net5.0\PlanetDiscovery.genruntimeconfig.cache
