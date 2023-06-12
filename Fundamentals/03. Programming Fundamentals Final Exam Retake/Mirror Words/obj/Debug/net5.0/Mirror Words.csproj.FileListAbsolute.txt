@@ -1,0 +1,16 @@
+D:\Softuni Programming\Fundamentals\03. Programming Fundamentals Final Exam Retake\Mirror Words\bin\Debug\net5.0\Mirror Words.exe
+D:\Softuni Programming\Fundamentals\03. Programming Fundamentals Final Exam Retake\Mirror Words\bin\Debug\net5.0\Mirror Words.deps.json
+D:\Softuni Programming\Fundamentals\03. Programming Fundamentals Final Exam Retake\Mirror Words\bin\Debug\net5.0\Mirror Words.runtimeconfig.json
+D:\Softuni Programming\Fundamentals\03. Programming Fundamentals Final Exam Retake\Mirror Words\bin\Debug\net5.0\Mirror Words.runtimeconfig.dev.json
+D:\Softuni Programming\Fundamentals\03. Programming Fundamentals Final Exam Retake\Mirror Words\bin\Debug\net5.0\Mirror Words.dll
+D:\Softuni Programming\Fundamentals\03. Programming Fundamentals Final Exam Retake\Mirror Words\bin\Debug\net5.0\ref\Mirror Words.dll
+D:\Softuni Programming\Fundamentals\03. Programming Fundamentals Final Exam Retake\Mirror Words\bin\Debug\net5.0\Mirror Words.pdb
+D:\Softuni Programming\Fundamentals\03. Programming Fundamentals Final Exam Retake\Mirror Words\obj\Debug\net5.0\Mirror Words.csproj.AssemblyReference.cache
+D:\Softuni Programming\Fundamentals\03. Programming Fundamentals Final Exam Retake\Mirror Words\obj\Debug\net5.0\Mirror Words.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Fundamentals\03. Programming Fundamentals Final Exam Retake\Mirror Words\obj\Debug\net5.0\Mirror Words.AssemblyInfoInputs.cache
+D:\Softuni Programming\Fundamentals\03. Programming Fundamentals Final Exam Retake\Mirror Words\obj\Debug\net5.0\Mirror Words.AssemblyInfo.cs
+D:\Softuni Programming\Fundamentals\03. Programming Fundamentals Final Exam Retake\Mirror Words\obj\Debug\net5.0\Mirror Words.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Fundamentals\03. Programming Fundamentals Final Exam Retake\Mirror Words\obj\Debug\net5.0\Mirror Words.dll
+D:\Softuni Programming\Fundamentals\03. Programming Fundamentals Final Exam Retake\Mirror Words\obj\Debug\net5.0\ref\Mirror Words.dll
+D:\Softuni Programming\Fundamentals\03. Programming Fundamentals Final Exam Retake\Mirror Words\obj\Debug\net5.0\Mirror Words.pdb
+D:\Softuni Programming\Fundamentals\03. Programming Fundamentals Final Exam Retake\Mirror Words\obj\Debug\net5.0\Mirror Words.genruntimeconfig.cache

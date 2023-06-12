@@ -1,0 +1,16 @@
+D:\Softuni Programming\Fundamentals\03. Programming Fundamentals Final Exam Retake\Need for Speed III\bin\Debug\net5.0\Need for Speed III.exe
+D:\Softuni Programming\Fundamentals\03. Programming Fundamentals Final Exam Retake\Need for Speed III\bin\Debug\net5.0\Need for Speed III.deps.json
+D:\Softuni Programming\Fundamentals\03. Programming Fundamentals Final Exam Retake\Need for Speed III\bin\Debug\net5.0\Need for Speed III.runtimeconfig.json
+D:\Softuni Programming\Fundamentals\03. Programming Fundamentals Final Exam Retake\Need for Speed III\bin\Debug\net5.0\Need for Speed III.runtimeconfig.dev.json
+D:\Softuni Programming\Fundamentals\03. Programming Fundamentals Final Exam Retake\Need for Speed III\bin\Debug\net5.0\Need for Speed III.dll
+D:\Softuni Programming\Fundamentals\03. Programming Fundamentals Final Exam Retake\Need for Speed III\bin\Debug\net5.0\ref\Need for Speed III.dll
+D:\Softuni Programming\Fundamentals\03. Programming Fundamentals Final Exam Retake\Need for Speed III\bin\Debug\net5.0\Need for Speed III.pdb
+D:\Softuni Programming\Fundamentals\03. Programming Fundamentals Final Exam Retake\Need for Speed III\obj\Debug\net5.0\Need for Speed III.csproj.AssemblyReference.cache
+D:\Softuni Programming\Fundamentals\03. Programming Fundamentals Final Exam Retake\Need for Speed III\obj\Debug\net5.0\Need for Speed III.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Fundamentals\03. Programming Fundamentals Final Exam Retake\Need for Speed III\obj\Debug\net5.0\Need for Speed III.AssemblyInfoInputs.cache
+D:\Softuni Programming\Fundamentals\03. Programming Fundamentals Final Exam Retake\Need for Speed III\obj\Debug\net5.0\Need for Speed III.AssemblyInfo.cs
+D:\Softuni Programming\Fundamentals\03. Programming Fundamentals Final Exam Retake\Need for Speed III\obj\Debug\net5.0\Need for Speed III.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Fundamentals\03. Programming Fundamentals Final Exam Retake\Need for Speed III\obj\Debug\net5.0\Need for Speed III.dll
+D:\Softuni Programming\Fundamentals\03. Programming Fundamentals Final Exam Retake\Need for Speed III\obj\Debug\net5.0\ref\Need for Speed III.dll
+D:\Softuni Programming\Fundamentals\03. Programming Fundamentals Final Exam Retake\Need for Speed III\obj\Debug\net5.0\Need for Speed III.pdb
+D:\Softuni Programming\Fundamentals\03. Programming Fundamentals Final Exam Retake\Need for Speed III\obj\Debug\net5.0\Need for Speed III.genruntimeconfig.cache
