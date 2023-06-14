@@ -1,0 +1,16 @@
+D:\Softuni Programming\Fundamentals\04. Programming Fundamentals Final Exam\Fancy Barcodes\bin\Debug\net5.0\Fancy Barcodes.exe
+D:\Softuni Programming\Fundamentals\04. Programming Fundamentals Final Exam\Fancy Barcodes\bin\Debug\net5.0\Fancy Barcodes.deps.json
+D:\Softuni Programming\Fundamentals\04. Programming Fundamentals Final Exam\Fancy Barcodes\bin\Debug\net5.0\Fancy Barcodes.runtimeconfig.json
+D:\Softuni Programming\Fundamentals\04. Programming Fundamentals Final Exam\Fancy Barcodes\bin\Debug\net5.0\Fancy Barcodes.runtimeconfig.dev.json
+D:\Softuni Programming\Fundamentals\04. Programming Fundamentals Final Exam\Fancy Barcodes\bin\Debug\net5.0\Fancy Barcodes.dll
+D:\Softuni Programming\Fundamentals\04. Programming Fundamentals Final Exam\Fancy Barcodes\bin\Debug\net5.0\ref\Fancy Barcodes.dll
+D:\Softuni Programming\Fundamentals\04. Programming Fundamentals Final Exam\Fancy Barcodes\bin\Debug\net5.0\Fancy Barcodes.pdb
+D:\Softuni Programming\Fundamentals\04. Programming Fundamentals Final Exam\Fancy Barcodes\obj\Debug\net5.0\Fancy Barcodes.csproj.AssemblyReference.cache
+D:\Softuni Programming\Fundamentals\04. Programming Fundamentals Final Exam\Fancy Barcodes\obj\Debug\net5.0\Fancy Barcodes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Fundamentals\04. Programming Fundamentals Final Exam\Fancy Barcodes\obj\Debug\net5.0\Fancy Barcodes.AssemblyInfoInputs.cache
+D:\Softuni Programming\Fundamentals\04. Programming Fundamentals Final Exam\Fancy Barcodes\obj\Debug\net5.0\Fancy Barcodes.AssemblyInfo.cs
+D:\Softuni Programming\Fundamentals\04. Programming Fundamentals Final Exam\Fancy Barcodes\obj\Debug\net5.0\Fancy Barcodes.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Fundamentals\04. Programming Fundamentals Final Exam\Fancy Barcodes\obj\Debug\net5.0\Fancy Barcodes.dll
+D:\Softuni Programming\Fundamentals\04. Programming Fundamentals Final Exam\Fancy Barcodes\obj\Debug\net5.0\ref\Fancy Barcodes.dll
+D:\Softuni Programming\Fundamentals\04. Programming Fundamentals Final Exam\Fancy Barcodes\obj\Debug\net5.0\Fancy Barcodes.pdb
+D:\Softuni Programming\Fundamentals\04. Programming Fundamentals Final Exam\Fancy Barcodes\obj\Debug\net5.0\Fancy Barcodes.genruntimeconfig.cache
