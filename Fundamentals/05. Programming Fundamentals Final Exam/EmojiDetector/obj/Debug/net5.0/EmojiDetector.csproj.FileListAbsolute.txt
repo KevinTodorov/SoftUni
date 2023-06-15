@@ -1,0 +1,16 @@
+D:\Softuni Programming\Fundamentals\05. Programming Fundamentals Final Exam\EmojiDetector\bin\Debug\net5.0\EmojiDetector.exe
+D:\Softuni Programming\Fundamentals\05. Programming Fundamentals Final Exam\EmojiDetector\bin\Debug\net5.0\EmojiDetector.deps.json
+D:\Softuni Programming\Fundamentals\05. Programming Fundamentals Final Exam\EmojiDetector\bin\Debug\net5.0\EmojiDetector.runtimeconfig.json
+D:\Softuni Programming\Fundamentals\05. Programming Fundamentals Final Exam\EmojiDetector\bin\Debug\net5.0\EmojiDetector.runtimeconfig.dev.json
+D:\Softuni Programming\Fundamentals\05. Programming Fundamentals Final Exam\EmojiDetector\bin\Debug\net5.0\EmojiDetector.dll
+D:\Softuni Programming\Fundamentals\05. Programming Fundamentals Final Exam\EmojiDetector\bin\Debug\net5.0\ref\EmojiDetector.dll
+D:\Softuni Programming\Fundamentals\05. Programming Fundamentals Final Exam\EmojiDetector\bin\Debug\net5.0\EmojiDetector.pdb
+D:\Softuni Programming\Fundamentals\05. Programming Fundamentals Final Exam\EmojiDetector\obj\Debug\net5.0\EmojiDetector.csproj.AssemblyReference.cache
+D:\Softuni Programming\Fundamentals\05. Programming Fundamentals Final Exam\EmojiDetector\obj\Debug\net5.0\EmojiDetector.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Fundamentals\05. Programming Fundamentals Final Exam\EmojiDetector\obj\Debug\net5.0\EmojiDetector.AssemblyInfoInputs.cache
+D:\Softuni Programming\Fundamentals\05. Programming Fundamentals Final Exam\EmojiDetector\obj\Debug\net5.0\EmojiDetector.AssemblyInfo.cs
+D:\Softuni Programming\Fundamentals\05. Programming Fundamentals Final Exam\EmojiDetector\obj\Debug\net5.0\EmojiDetector.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Fundamentals\05. Programming Fundamentals Final Exam\EmojiDetector\obj\Debug\net5.0\EmojiDetector.dll
+D:\Softuni Programming\Fundamentals\05. Programming Fundamentals Final Exam\EmojiDetector\obj\Debug\net5.0\ref\EmojiDetector.dll
+D:\Softuni Programming\Fundamentals\05. Programming Fundamentals Final Exam\EmojiDetector\obj\Debug\net5.0\EmojiDetector.pdb
+D:\Softuni Programming\Fundamentals\05. Programming Fundamentals Final Exam\EmojiDetector\obj\Debug\net5.0\EmojiDetector.genruntimeconfig.cache

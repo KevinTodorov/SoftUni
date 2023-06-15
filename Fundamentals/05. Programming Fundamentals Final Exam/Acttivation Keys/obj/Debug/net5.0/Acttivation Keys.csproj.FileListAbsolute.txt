@@ -1,0 +1,16 @@
+D:\Softuni Programming\Fundamentals\05. Programming Fundamentals Final Exam\Acttivation Keys\bin\Debug\net5.0\Acttivation Keys.exe
+D:\Softuni Programming\Fundamentals\05. Programming Fundamentals Final Exam\Acttivation Keys\bin\Debug\net5.0\Acttivation Keys.deps.json
+D:\Softuni Programming\Fundamentals\05. Programming Fundamentals Final Exam\Acttivation Keys\bin\Debug\net5.0\Acttivation Keys.runtimeconfig.json
+D:\Softuni Programming\Fundamentals\05. Programming Fundamentals Final Exam\Acttivation Keys\bin\Debug\net5.0\Acttivation Keys.runtimeconfig.dev.json
+D:\Softuni Programming\Fundamentals\05. Programming Fundamentals Final Exam\Acttivation Keys\bin\Debug\net5.0\Acttivation Keys.dll
+D:\Softuni Programming\Fundamentals\05. Programming Fundamentals Final Exam\Acttivation Keys\bin\Debug\net5.0\ref\Acttivation Keys.dll
+D:\Softuni Programming\Fundamentals\05. Programming Fundamentals Final Exam\Acttivation Keys\bin\Debug\net5.0\Acttivation Keys.pdb
+D:\Softuni Programming\Fundamentals\05. Programming Fundamentals Final Exam\Acttivation Keys\obj\Debug\net5.0\Acttivation Keys.csproj.AssemblyReference.cache
+D:\Softuni Programming\Fundamentals\05. Programming Fundamentals Final Exam\Acttivation Keys\obj\Debug\net5.0\Acttivation Keys.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Fundamentals\05. Programming Fundamentals Final Exam\Acttivation Keys\obj\Debug\net5.0\Acttivation Keys.AssemblyInfoInputs.cache
+D:\Softuni Programming\Fundamentals\05. Programming Fundamentals Final Exam\Acttivation Keys\obj\Debug\net5.0\Acttivation Keys.AssemblyInfo.cs
+D:\Softuni Programming\Fundamentals\05. Programming Fundamentals Final Exam\Acttivation Keys\obj\Debug\net5.0\Acttivation Keys.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Fundamentals\05. Programming Fundamentals Final Exam\Acttivation Keys\obj\Debug\net5.0\Acttivation Keys.dll
+D:\Softuni Programming\Fundamentals\05. Programming Fundamentals Final Exam\Acttivation Keys\obj\Debug\net5.0\ref\Acttivation Keys.dll
+D:\Softuni Programming\Fundamentals\05. Programming Fundamentals Final Exam\Acttivation Keys\obj\Debug\net5.0\Acttivation Keys.pdb
+D:\Softuni Programming\Fundamentals\05. Programming Fundamentals Final Exam\Acttivation Keys\obj\Debug\net5.0\Acttivation Keys.genruntimeconfig.cache
