@@ -1,0 +1,16 @@
+D:\Softuni Programming\Advanced\Stacks and Queues\Trafic Jam\bin\Debug\net5.0\Trafic Jam.exe
+D:\Softuni Programming\Advanced\Stacks and Queues\Trafic Jam\bin\Debug\net5.0\Trafic Jam.deps.json
+D:\Softuni Programming\Advanced\Stacks and Queues\Trafic Jam\bin\Debug\net5.0\Trafic Jam.runtimeconfig.json
+D:\Softuni Programming\Advanced\Stacks and Queues\Trafic Jam\bin\Debug\net5.0\Trafic Jam.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Stacks and Queues\Trafic Jam\bin\Debug\net5.0\Trafic Jam.dll
+D:\Softuni Programming\Advanced\Stacks and Queues\Trafic Jam\bin\Debug\net5.0\ref\Trafic Jam.dll
+D:\Softuni Programming\Advanced\Stacks and Queues\Trafic Jam\bin\Debug\net5.0\Trafic Jam.pdb
+D:\Softuni Programming\Advanced\Stacks and Queues\Trafic Jam\obj\Debug\net5.0\Trafic Jam.csproj.AssemblyReference.cache
+D:\Softuni Programming\Advanced\Stacks and Queues\Trafic Jam\obj\Debug\net5.0\Trafic Jam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Stacks and Queues\Trafic Jam\obj\Debug\net5.0\Trafic Jam.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Stacks and Queues\Trafic Jam\obj\Debug\net5.0\Trafic Jam.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Stacks and Queues\Trafic Jam\obj\Debug\net5.0\Trafic Jam.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Stacks and Queues\Trafic Jam\obj\Debug\net5.0\Trafic Jam.dll
+D:\Softuni Programming\Advanced\Stacks and Queues\Trafic Jam\obj\Debug\net5.0\ref\Trafic Jam.dll
+D:\Softuni Programming\Advanced\Stacks and Queues\Trafic Jam\obj\Debug\net5.0\Trafic Jam.pdb
+D:\Softuni Programming\Advanced\Stacks and Queues\Trafic Jam\obj\Debug\net5.0\Trafic Jam.genruntimeconfig.cache

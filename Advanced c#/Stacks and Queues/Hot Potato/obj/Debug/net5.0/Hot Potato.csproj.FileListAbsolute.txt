@@ -1,0 +1,15 @@
+D:\Softuni Programming\Advanced\Stacks and Queues\Hot Potato\bin\Debug\net5.0\Hot Potato.exe
+D:\Softuni Programming\Advanced\Stacks and Queues\Hot Potato\bin\Debug\net5.0\Hot Potato.deps.json
+D:\Softuni Programming\Advanced\Stacks and Queues\Hot Potato\bin\Debug\net5.0\Hot Potato.runtimeconfig.json
+D:\Softuni Programming\Advanced\Stacks and Queues\Hot Potato\bin\Debug\net5.0\Hot Potato.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Stacks and Queues\Hot Potato\bin\Debug\net5.0\Hot Potato.dll
+D:\Softuni Programming\Advanced\Stacks and Queues\Hot Potato\bin\Debug\net5.0\ref\Hot Potato.dll
+D:\Softuni Programming\Advanced\Stacks and Queues\Hot Potato\bin\Debug\net5.0\Hot Potato.pdb
+D:\Softuni Programming\Advanced\Stacks and Queues\Hot Potato\obj\Debug\net5.0\Hot Potato.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Stacks and Queues\Hot Potato\obj\Debug\net5.0\Hot Potato.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Stacks and Queues\Hot Potato\obj\Debug\net5.0\Hot Potato.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Stacks and Queues\Hot Potato\obj\Debug\net5.0\Hot Potato.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Stacks and Queues\Hot Potato\obj\Debug\net5.0\Hot Potato.dll
+D:\Softuni Programming\Advanced\Stacks and Queues\Hot Potato\obj\Debug\net5.0\ref\Hot Potato.dll
+D:\Softuni Programming\Advanced\Stacks and Queues\Hot Potato\obj\Debug\net5.0\Hot Potato.pdb
+D:\Softuni Programming\Advanced\Stacks and Queues\Hot Potato\obj\Debug\net5.0\Hot Potato.genruntimeconfig.cache

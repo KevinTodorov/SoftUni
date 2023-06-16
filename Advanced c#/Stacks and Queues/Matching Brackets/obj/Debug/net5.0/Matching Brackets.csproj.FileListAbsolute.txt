@@ -1,0 +1,16 @@
+D:\Softuni Programming\Advanced\Stacks and Queues\Matching Brackets\bin\Debug\net5.0\Matching Brackets.exe
+D:\Softuni Programming\Advanced\Stacks and Queues\Matching Brackets\bin\Debug\net5.0\Matching Brackets.deps.json
+D:\Softuni Programming\Advanced\Stacks and Queues\Matching Brackets\bin\Debug\net5.0\Matching Brackets.runtimeconfig.json
+D:\Softuni Programming\Advanced\Stacks and Queues\Matching Brackets\bin\Debug\net5.0\Matching Brackets.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Stacks and Queues\Matching Brackets\bin\Debug\net5.0\Matching Brackets.dll
+D:\Softuni Programming\Advanced\Stacks and Queues\Matching Brackets\bin\Debug\net5.0\ref\Matching Brackets.dll
+D:\Softuni Programming\Advanced\Stacks and Queues\Matching Brackets\bin\Debug\net5.0\Matching Brackets.pdb
+D:\Softuni Programming\Advanced\Stacks and Queues\Matching Brackets\obj\Debug\net5.0\Matching Brackets.csproj.AssemblyReference.cache
+D:\Softuni Programming\Advanced\Stacks and Queues\Matching Brackets\obj\Debug\net5.0\Matching Brackets.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Stacks and Queues\Matching Brackets\obj\Debug\net5.0\Matching Brackets.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Stacks and Queues\Matching Brackets\obj\Debug\net5.0\Matching Brackets.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Stacks and Queues\Matching Brackets\obj\Debug\net5.0\Matching Brackets.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Stacks and Queues\Matching Brackets\obj\Debug\net5.0\Matching Brackets.dll
+D:\Softuni Programming\Advanced\Stacks and Queues\Matching Brackets\obj\Debug\net5.0\ref\Matching Brackets.dll
+D:\Softuni Programming\Advanced\Stacks and Queues\Matching Brackets\obj\Debug\net5.0\Matching Brackets.pdb
+D:\Softuni Programming\Advanced\Stacks and Queues\Matching Brackets\obj\Debug\net5.0\Matching Brackets.genruntimeconfig.cache
