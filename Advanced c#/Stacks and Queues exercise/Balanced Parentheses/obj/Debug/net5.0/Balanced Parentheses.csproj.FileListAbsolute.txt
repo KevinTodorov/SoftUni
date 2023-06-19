@@ -1,0 +1,16 @@
+D:\Softuni Programming\Advanced\Stacks and Queues exercise\Balanced Parentheses\bin\Debug\net5.0\Balanced Parentheses.exe
+D:\Softuni Programming\Advanced\Stacks and Queues exercise\Balanced Parentheses\bin\Debug\net5.0\Balanced Parentheses.deps.json
+D:\Softuni Programming\Advanced\Stacks and Queues exercise\Balanced Parentheses\bin\Debug\net5.0\Balanced Parentheses.runtimeconfig.json
+D:\Softuni Programming\Advanced\Stacks and Queues exercise\Balanced Parentheses\bin\Debug\net5.0\Balanced Parentheses.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Stacks and Queues exercise\Balanced Parentheses\bin\Debug\net5.0\Balanced Parentheses.dll
+D:\Softuni Programming\Advanced\Stacks and Queues exercise\Balanced Parentheses\bin\Debug\net5.0\ref\Balanced Parentheses.dll
+D:\Softuni Programming\Advanced\Stacks and Queues exercise\Balanced Parentheses\bin\Debug\net5.0\Balanced Parentheses.pdb
+D:\Softuni Programming\Advanced\Stacks and Queues exercise\Balanced Parentheses\obj\Debug\net5.0\Balanced Parentheses.csproj.AssemblyReference.cache
+D:\Softuni Programming\Advanced\Stacks and Queues exercise\Balanced Parentheses\obj\Debug\net5.0\Balanced Parentheses.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Stacks and Queues exercise\Balanced Parentheses\obj\Debug\net5.0\Balanced Parentheses.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Stacks and Queues exercise\Balanced Parentheses\obj\Debug\net5.0\Balanced Parentheses.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Stacks and Queues exercise\Balanced Parentheses\obj\Debug\net5.0\Balanced Parentheses.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Stacks and Queues exercise\Balanced Parentheses\obj\Debug\net5.0\Balanced Parentheses.dll
+D:\Softuni Programming\Advanced\Stacks and Queues exercise\Balanced Parentheses\obj\Debug\net5.0\ref\Balanced Parentheses.dll
+D:\Softuni Programming\Advanced\Stacks and Queues exercise\Balanced Parentheses\obj\Debug\net5.0\Balanced Parentheses.pdb
+D:\Softuni Programming\Advanced\Stacks and Queues exercise\Balanced Parentheses\obj\Debug\net5.0\Balanced Parentheses.genruntimeconfig.cache

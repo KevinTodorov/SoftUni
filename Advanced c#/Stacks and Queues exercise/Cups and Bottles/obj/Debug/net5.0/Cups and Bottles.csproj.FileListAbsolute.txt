@@ -1,0 +1,15 @@
+D:\Softuni Programming\Advanced\Stacks and Queues exercise\Cups and Bottles\bin\Debug\net5.0\Cups and Bottles.exe
+D:\Softuni Programming\Advanced\Stacks and Queues exercise\Cups and Bottles\bin\Debug\net5.0\Cups and Bottles.deps.json
+D:\Softuni Programming\Advanced\Stacks and Queues exercise\Cups and Bottles\bin\Debug\net5.0\Cups and Bottles.runtimeconfig.json
+D:\Softuni Programming\Advanced\Stacks and Queues exercise\Cups and Bottles\bin\Debug\net5.0\Cups and Bottles.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Stacks and Queues exercise\Cups and Bottles\bin\Debug\net5.0\Cups and Bottles.dll
+D:\Softuni Programming\Advanced\Stacks and Queues exercise\Cups and Bottles\bin\Debug\net5.0\ref\Cups and Bottles.dll
+D:\Softuni Programming\Advanced\Stacks and Queues exercise\Cups and Bottles\bin\Debug\net5.0\Cups and Bottles.pdb
+D:\Softuni Programming\Advanced\Stacks and Queues exercise\Cups and Bottles\obj\Debug\net5.0\Cups and Bottles.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Stacks and Queues exercise\Cups and Bottles\obj\Debug\net5.0\Cups and Bottles.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Stacks and Queues exercise\Cups and Bottles\obj\Debug\net5.0\Cups and Bottles.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Stacks and Queues exercise\Cups and Bottles\obj\Debug\net5.0\Cups and Bottles.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Stacks and Queues exercise\Cups and Bottles\obj\Debug\net5.0\Cups and Bottles.dll
+D:\Softuni Programming\Advanced\Stacks and Queues exercise\Cups and Bottles\obj\Debug\net5.0\ref\Cups and Bottles.dll
+D:\Softuni Programming\Advanced\Stacks and Queues exercise\Cups and Bottles\obj\Debug\net5.0\Cups and Bottles.pdb
+D:\Softuni Programming\Advanced\Stacks and Queues exercise\Cups and Bottles\obj\Debug\net5.0\Cups and Bottles.genruntimeconfig.cache

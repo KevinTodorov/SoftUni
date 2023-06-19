@@ -1,0 +1,16 @@
+D:\Softuni Programming\Advanced\Maximum And Minimum Element\bin\Debug\net5.0\Maximum And Minimum Element.exe
+D:\Softuni Programming\Advanced\Maximum And Minimum Element\bin\Debug\net5.0\Maximum And Minimum Element.deps.json
+D:\Softuni Programming\Advanced\Maximum And Minimum Element\bin\Debug\net5.0\Maximum And Minimum Element.runtimeconfig.json
+D:\Softuni Programming\Advanced\Maximum And Minimum Element\bin\Debug\net5.0\Maximum And Minimum Element.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Maximum And Minimum Element\bin\Debug\net5.0\Maximum And Minimum Element.dll
+D:\Softuni Programming\Advanced\Maximum And Minimum Element\bin\Debug\net5.0\ref\Maximum And Minimum Element.dll
+D:\Softuni Programming\Advanced\Maximum And Minimum Element\bin\Debug\net5.0\Maximum And Minimum Element.pdb
+D:\Softuni Programming\Advanced\Maximum And Minimum Element\obj\Debug\net5.0\Maximum And Minimum Element.csproj.AssemblyReference.cache
+D:\Softuni Programming\Advanced\Maximum And Minimum Element\obj\Debug\net5.0\Maximum And Minimum Element.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Maximum And Minimum Element\obj\Debug\net5.0\Maximum And Minimum Element.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Maximum And Minimum Element\obj\Debug\net5.0\Maximum And Minimum Element.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Maximum And Minimum Element\obj\Debug\net5.0\Maximum And Minimum Element.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Maximum And Minimum Element\obj\Debug\net5.0\Maximum And Minimum Element.dll
+D:\Softuni Programming\Advanced\Maximum And Minimum Element\obj\Debug\net5.0\ref\Maximum And Minimum Element.dll
+D:\Softuni Programming\Advanced\Maximum And Minimum Element\obj\Debug\net5.0\Maximum And Minimum Element.pdb
+D:\Softuni Programming\Advanced\Maximum And Minimum Element\obj\Debug\net5.0\Maximum And Minimum Element.genruntimeconfig.cache

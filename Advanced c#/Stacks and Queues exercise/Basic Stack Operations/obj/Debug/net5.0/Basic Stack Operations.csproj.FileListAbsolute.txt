@@ -1,0 +1,16 @@
+D:\Softuni Programming\Advanced\Basic Stack Operations\bin\Debug\net5.0\Basic Stack Operations.exe
+D:\Softuni Programming\Advanced\Basic Stack Operations\bin\Debug\net5.0\Basic Stack Operations.deps.json
+D:\Softuni Programming\Advanced\Basic Stack Operations\bin\Debug\net5.0\Basic Stack Operations.runtimeconfig.json
+D:\Softuni Programming\Advanced\Basic Stack Operations\bin\Debug\net5.0\Basic Stack Operations.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Basic Stack Operations\bin\Debug\net5.0\Basic Stack Operations.dll
+D:\Softuni Programming\Advanced\Basic Stack Operations\bin\Debug\net5.0\ref\Basic Stack Operations.dll
+D:\Softuni Programming\Advanced\Basic Stack Operations\bin\Debug\net5.0\Basic Stack Operations.pdb
+D:\Softuni Programming\Advanced\Basic Stack Operations\obj\Debug\net5.0\Basic Stack Operations.csproj.AssemblyReference.cache
+D:\Softuni Programming\Advanced\Basic Stack Operations\obj\Debug\net5.0\Basic Stack Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Basic Stack Operations\obj\Debug\net5.0\Basic Stack Operations.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Basic Stack Operations\obj\Debug\net5.0\Basic Stack Operations.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Basic Stack Operations\obj\Debug\net5.0\Basic Stack Operations.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Basic Stack Operations\obj\Debug\net5.0\Basic Stack Operations.dll
+D:\Softuni Programming\Advanced\Basic Stack Operations\obj\Debug\net5.0\ref\Basic Stack Operations.dll
+D:\Softuni Programming\Advanced\Basic Stack Operations\obj\Debug\net5.0\Basic Stack Operations.pdb
+D:\Softuni Programming\Advanced\Basic Stack Operations\obj\Debug\net5.0\Basic Stack Operations.genruntimeconfig.cache

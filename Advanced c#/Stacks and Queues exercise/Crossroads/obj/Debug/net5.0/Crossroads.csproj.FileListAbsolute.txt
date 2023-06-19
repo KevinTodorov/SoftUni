@@ -1,0 +1,16 @@
+D:\Softuni Programming\Advanced\Stacks and Queues exercise\Crossroads\bin\Debug\net5.0\Crossroads.exe
+D:\Softuni Programming\Advanced\Stacks and Queues exercise\Crossroads\bin\Debug\net5.0\Crossroads.deps.json
+D:\Softuni Programming\Advanced\Stacks and Queues exercise\Crossroads\bin\Debug\net5.0\Crossroads.runtimeconfig.json
+D:\Softuni Programming\Advanced\Stacks and Queues exercise\Crossroads\bin\Debug\net5.0\Crossroads.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Stacks and Queues exercise\Crossroads\bin\Debug\net5.0\Crossroads.dll
+D:\Softuni Programming\Advanced\Stacks and Queues exercise\Crossroads\bin\Debug\net5.0\ref\Crossroads.dll
+D:\Softuni Programming\Advanced\Stacks and Queues exercise\Crossroads\bin\Debug\net5.0\Crossroads.pdb
+D:\Softuni Programming\Advanced\Stacks and Queues exercise\Crossroads\obj\Debug\net5.0\Crossroads.csproj.AssemblyReference.cache
+D:\Softuni Programming\Advanced\Stacks and Queues exercise\Crossroads\obj\Debug\net5.0\Crossroads.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Stacks and Queues exercise\Crossroads\obj\Debug\net5.0\Crossroads.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Stacks and Queues exercise\Crossroads\obj\Debug\net5.0\Crossroads.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Stacks and Queues exercise\Crossroads\obj\Debug\net5.0\Crossroads.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Stacks and Queues exercise\Crossroads\obj\Debug\net5.0\Crossroads.dll
+D:\Softuni Programming\Advanced\Stacks and Queues exercise\Crossroads\obj\Debug\net5.0\ref\Crossroads.dll
+D:\Softuni Programming\Advanced\Stacks and Queues exercise\Crossroads\obj\Debug\net5.0\Crossroads.pdb
+D:\Softuni Programming\Advanced\Stacks and Queues exercise\Crossroads\obj\Debug\net5.0\Crossroads.genruntimeconfig.cache
