@@ -1,0 +1,16 @@
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Sum Matrix Columns\bin\Debug\net5.0\Sum Matrix Columns.exe
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Sum Matrix Columns\bin\Debug\net5.0\Sum Matrix Columns.deps.json
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Sum Matrix Columns\bin\Debug\net5.0\Sum Matrix Columns.runtimeconfig.json
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Sum Matrix Columns\bin\Debug\net5.0\Sum Matrix Columns.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Sum Matrix Columns\bin\Debug\net5.0\Sum Matrix Columns.dll
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Sum Matrix Columns\bin\Debug\net5.0\ref\Sum Matrix Columns.dll
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Sum Matrix Columns\bin\Debug\net5.0\Sum Matrix Columns.pdb
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Sum Matrix Columns\obj\Debug\net5.0\Sum Matrix Columns.csproj.AssemblyReference.cache
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Sum Matrix Columns\obj\Debug\net5.0\Sum Matrix Columns.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Sum Matrix Columns\obj\Debug\net5.0\Sum Matrix Columns.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Sum Matrix Columns\obj\Debug\net5.0\Sum Matrix Columns.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Sum Matrix Columns\obj\Debug\net5.0\Sum Matrix Columns.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Sum Matrix Columns\obj\Debug\net5.0\Sum Matrix Columns.dll
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Sum Matrix Columns\obj\Debug\net5.0\ref\Sum Matrix Columns.dll
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Sum Matrix Columns\obj\Debug\net5.0\Sum Matrix Columns.pdb
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Sum Matrix Columns\obj\Debug\net5.0\Sum Matrix Columns.genruntimeconfig.cache
