@@ -1,0 +1,16 @@
+D:\Softuni Programming\Advanced\Multidimensional Arrays Exercise\Matrix Shuffling\bin\Debug\net5.0\Matrix Shuffling.exe
+D:\Softuni Programming\Advanced\Multidimensional Arrays Exercise\Matrix Shuffling\bin\Debug\net5.0\Matrix Shuffling.deps.json
+D:\Softuni Programming\Advanced\Multidimensional Arrays Exercise\Matrix Shuffling\bin\Debug\net5.0\Matrix Shuffling.runtimeconfig.json
+D:\Softuni Programming\Advanced\Multidimensional Arrays Exercise\Matrix Shuffling\bin\Debug\net5.0\Matrix Shuffling.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Multidimensional Arrays Exercise\Matrix Shuffling\bin\Debug\net5.0\Matrix Shuffling.dll
+D:\Softuni Programming\Advanced\Multidimensional Arrays Exercise\Matrix Shuffling\bin\Debug\net5.0\ref\Matrix Shuffling.dll
+D:\Softuni Programming\Advanced\Multidimensional Arrays Exercise\Matrix Shuffling\bin\Debug\net5.0\Matrix Shuffling.pdb
+D:\Softuni Programming\Advanced\Multidimensional Arrays Exercise\Matrix Shuffling\obj\Debug\net5.0\Matrix Shuffling.csproj.AssemblyReference.cache
+D:\Softuni Programming\Advanced\Multidimensional Arrays Exercise\Matrix Shuffling\obj\Debug\net5.0\Matrix Shuffling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Multidimensional Arrays Exercise\Matrix Shuffling\obj\Debug\net5.0\Matrix Shuffling.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Multidimensional Arrays Exercise\Matrix Shuffling\obj\Debug\net5.0\Matrix Shuffling.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Multidimensional Arrays Exercise\Matrix Shuffling\obj\Debug\net5.0\Matrix Shuffling.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Multidimensional Arrays Exercise\Matrix Shuffling\obj\Debug\net5.0\Matrix Shuffling.dll
+D:\Softuni Programming\Advanced\Multidimensional Arrays Exercise\Matrix Shuffling\obj\Debug\net5.0\ref\Matrix Shuffling.dll
+D:\Softuni Programming\Advanced\Multidimensional Arrays Exercise\Matrix Shuffling\obj\Debug\net5.0\Matrix Shuffling.pdb
+D:\Softuni Programming\Advanced\Multidimensional Arrays Exercise\Matrix Shuffling\obj\Debug\net5.0\Matrix Shuffling.genruntimeconfig.cache
