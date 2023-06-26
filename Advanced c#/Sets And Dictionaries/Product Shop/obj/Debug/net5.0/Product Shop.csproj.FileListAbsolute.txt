@@ -1,0 +1,16 @@
+D:\Softuni Programming\Advanced\Sets And Dictionaries\Product Shop\bin\Debug\net5.0\Product Shop.exe
+D:\Softuni Programming\Advanced\Sets And Dictionaries\Product Shop\bin\Debug\net5.0\Product Shop.deps.json
+D:\Softuni Programming\Advanced\Sets And Dictionaries\Product Shop\bin\Debug\net5.0\Product Shop.runtimeconfig.json
+D:\Softuni Programming\Advanced\Sets And Dictionaries\Product Shop\bin\Debug\net5.0\Product Shop.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Sets And Dictionaries\Product Shop\bin\Debug\net5.0\Product Shop.dll
+D:\Softuni Programming\Advanced\Sets And Dictionaries\Product Shop\bin\Debug\net5.0\ref\Product Shop.dll
+D:\Softuni Programming\Advanced\Sets And Dictionaries\Product Shop\bin\Debug\net5.0\Product Shop.pdb
+D:\Softuni Programming\Advanced\Sets And Dictionaries\Product Shop\obj\Debug\net5.0\Product Shop.csproj.AssemblyReference.cache
+D:\Softuni Programming\Advanced\Sets And Dictionaries\Product Shop\obj\Debug\net5.0\Product Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Sets And Dictionaries\Product Shop\obj\Debug\net5.0\Product Shop.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Sets And Dictionaries\Product Shop\obj\Debug\net5.0\Product Shop.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Sets And Dictionaries\Product Shop\obj\Debug\net5.0\Product Shop.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Sets And Dictionaries\Product Shop\obj\Debug\net5.0\Product Shop.dll
+D:\Softuni Programming\Advanced\Sets And Dictionaries\Product Shop\obj\Debug\net5.0\ref\Product Shop.dll
+D:\Softuni Programming\Advanced\Sets And Dictionaries\Product Shop\obj\Debug\net5.0\Product Shop.pdb
+D:\Softuni Programming\Advanced\Sets And Dictionaries\Product Shop\obj\Debug\net5.0\Product Shop.genruntimeconfig.cache

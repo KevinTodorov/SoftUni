@@ -1,0 +1,16 @@
+D:\Softuni Programming\Advanced\Sets And Dictionaries\Average Student Grades\bin\Debug\net5.0\Average Student Grades.exe
+D:\Softuni Programming\Advanced\Sets And Dictionaries\Average Student Grades\bin\Debug\net5.0\Average Student Grades.deps.json
+D:\Softuni Programming\Advanced\Sets And Dictionaries\Average Student Grades\bin\Debug\net5.0\Average Student Grades.runtimeconfig.json
+D:\Softuni Programming\Advanced\Sets And Dictionaries\Average Student Grades\bin\Debug\net5.0\Average Student Grades.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Sets And Dictionaries\Average Student Grades\bin\Debug\net5.0\Average Student Grades.dll
+D:\Softuni Programming\Advanced\Sets And Dictionaries\Average Student Grades\bin\Debug\net5.0\ref\Average Student Grades.dll
+D:\Softuni Programming\Advanced\Sets And Dictionaries\Average Student Grades\bin\Debug\net5.0\Average Student Grades.pdb
+D:\Softuni Programming\Advanced\Sets And Dictionaries\Average Student Grades\obj\Debug\net5.0\Average Student Grades.csproj.AssemblyReference.cache
+D:\Softuni Programming\Advanced\Sets And Dictionaries\Average Student Grades\obj\Debug\net5.0\Average Student Grades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Sets And Dictionaries\Average Student Grades\obj\Debug\net5.0\Average Student Grades.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Sets And Dictionaries\Average Student Grades\obj\Debug\net5.0\Average Student Grades.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Sets And Dictionaries\Average Student Grades\obj\Debug\net5.0\Average Student Grades.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Sets And Dictionaries\Average Student Grades\obj\Debug\net5.0\Average Student Grades.dll
+D:\Softuni Programming\Advanced\Sets And Dictionaries\Average Student Grades\obj\Debug\net5.0\ref\Average Student Grades.dll
+D:\Softuni Programming\Advanced\Sets And Dictionaries\Average Student Grades\obj\Debug\net5.0\Average Student Grades.pdb
+D:\Softuni Programming\Advanced\Sets And Dictionaries\Average Student Grades\obj\Debug\net5.0\Average Student Grades.genruntimeconfig.cache

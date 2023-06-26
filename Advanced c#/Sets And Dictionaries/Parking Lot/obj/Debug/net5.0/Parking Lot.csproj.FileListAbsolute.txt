@@ -1,0 +1,15 @@
+D:\Softuni Programming\Advanced\Sets And Dictionaries\Parking Lot\bin\Debug\net5.0\Parking Lot.exe
+D:\Softuni Programming\Advanced\Sets And Dictionaries\Parking Lot\bin\Debug\net5.0\Parking Lot.deps.json
+D:\Softuni Programming\Advanced\Sets And Dictionaries\Parking Lot\bin\Debug\net5.0\Parking Lot.runtimeconfig.json
+D:\Softuni Programming\Advanced\Sets And Dictionaries\Parking Lot\bin\Debug\net5.0\Parking Lot.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Sets And Dictionaries\Parking Lot\bin\Debug\net5.0\Parking Lot.dll
+D:\Softuni Programming\Advanced\Sets And Dictionaries\Parking Lot\bin\Debug\net5.0\ref\Parking Lot.dll
+D:\Softuni Programming\Advanced\Sets And Dictionaries\Parking Lot\bin\Debug\net5.0\Parking Lot.pdb
+D:\Softuni Programming\Advanced\Sets And Dictionaries\Parking Lot\obj\Debug\net5.0\Parking Lot.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Sets And Dictionaries\Parking Lot\obj\Debug\net5.0\Parking Lot.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Sets And Dictionaries\Parking Lot\obj\Debug\net5.0\Parking Lot.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Sets And Dictionaries\Parking Lot\obj\Debug\net5.0\Parking Lot.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Sets And Dictionaries\Parking Lot\obj\Debug\net5.0\Parking Lot.dll
+D:\Softuni Programming\Advanced\Sets And Dictionaries\Parking Lot\obj\Debug\net5.0\ref\Parking Lot.dll
+D:\Softuni Programming\Advanced\Sets And Dictionaries\Parking Lot\obj\Debug\net5.0\Parking Lot.pdb
+D:\Softuni Programming\Advanced\Sets And Dictionaries\Parking Lot\obj\Debug\net5.0\Parking Lot.genruntimeconfig.cache
