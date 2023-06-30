@@ -1,0 +1,16 @@
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\The V-Logger\bin\Debug\net5.0\The V-Logger.exe
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\The V-Logger\bin\Debug\net5.0\The V-Logger.deps.json
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\The V-Logger\bin\Debug\net5.0\The V-Logger.runtimeconfig.json
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\The V-Logger\bin\Debug\net5.0\The V-Logger.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\The V-Logger\bin\Debug\net5.0\The V-Logger.dll
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\The V-Logger\bin\Debug\net5.0\ref\The V-Logger.dll
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\The V-Logger\bin\Debug\net5.0\The V-Logger.pdb
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\The V-Logger\obj\Debug\net5.0\The V-Logger.csproj.AssemblyReference.cache
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\The V-Logger\obj\Debug\net5.0\The V-Logger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\The V-Logger\obj\Debug\net5.0\The V-Logger.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\The V-Logger\obj\Debug\net5.0\The V-Logger.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\The V-Logger\obj\Debug\net5.0\The V-Logger.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\The V-Logger\obj\Debug\net5.0\The V-Logger.dll
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\The V-Logger\obj\Debug\net5.0\ref\The V-Logger.dll
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\The V-Logger\obj\Debug\net5.0\The V-Logger.pdb
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\The V-Logger\obj\Debug\net5.0\The V-Logger.genruntimeconfig.cache

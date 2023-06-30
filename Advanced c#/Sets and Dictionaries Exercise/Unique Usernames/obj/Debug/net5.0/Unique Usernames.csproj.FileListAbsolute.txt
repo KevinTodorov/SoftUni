@@ -1,0 +1,16 @@
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Unique Usernames\bin\Debug\net5.0\Unique Usernames.exe
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Unique Usernames\bin\Debug\net5.0\Unique Usernames.deps.json
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Unique Usernames\bin\Debug\net5.0\Unique Usernames.runtimeconfig.json
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Unique Usernames\bin\Debug\net5.0\Unique Usernames.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Unique Usernames\bin\Debug\net5.0\Unique Usernames.dll
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Unique Usernames\bin\Debug\net5.0\ref\Unique Usernames.dll
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Unique Usernames\bin\Debug\net5.0\Unique Usernames.pdb
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Unique Usernames\obj\Debug\net5.0\Unique Usernames.csproj.AssemblyReference.cache
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Unique Usernames\obj\Debug\net5.0\Unique Usernames.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Unique Usernames\obj\Debug\net5.0\Unique Usernames.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Unique Usernames\obj\Debug\net5.0\Unique Usernames.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Unique Usernames\obj\Debug\net5.0\Unique Usernames.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Unique Usernames\obj\Debug\net5.0\Unique Usernames.dll
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Unique Usernames\obj\Debug\net5.0\ref\Unique Usernames.dll
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Unique Usernames\obj\Debug\net5.0\Unique Usernames.pdb
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Unique Usernames\obj\Debug\net5.0\Unique Usernames.genruntimeconfig.cache

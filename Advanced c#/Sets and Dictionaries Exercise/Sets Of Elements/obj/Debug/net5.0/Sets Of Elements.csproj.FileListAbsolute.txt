@@ -1,0 +1,15 @@
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Sets Of Elements\bin\Debug\net5.0\Sets Of Elements.exe
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Sets Of Elements\bin\Debug\net5.0\Sets Of Elements.deps.json
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Sets Of Elements\bin\Debug\net5.0\Sets Of Elements.runtimeconfig.json
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Sets Of Elements\bin\Debug\net5.0\Sets Of Elements.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Sets Of Elements\bin\Debug\net5.0\Sets Of Elements.dll
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Sets Of Elements\bin\Debug\net5.0\ref\Sets Of Elements.dll
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Sets Of Elements\bin\Debug\net5.0\Sets Of Elements.pdb
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Sets Of Elements\obj\Debug\net5.0\Sets Of Elements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Sets Of Elements\obj\Debug\net5.0\Sets Of Elements.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Sets Of Elements\obj\Debug\net5.0\Sets Of Elements.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Sets Of Elements\obj\Debug\net5.0\Sets Of Elements.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Sets Of Elements\obj\Debug\net5.0\Sets Of Elements.dll
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Sets Of Elements\obj\Debug\net5.0\ref\Sets Of Elements.dll
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Sets Of Elements\obj\Debug\net5.0\Sets Of Elements.pdb
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Sets Of Elements\obj\Debug\net5.0\Sets Of Elements.genruntimeconfig.cache

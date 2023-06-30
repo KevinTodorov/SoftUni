@@ -1,0 +1,16 @@
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Ranking\bin\Debug\net5.0\Ranking.exe
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Ranking\bin\Debug\net5.0\Ranking.deps.json
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Ranking\bin\Debug\net5.0\Ranking.runtimeconfig.json
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Ranking\bin\Debug\net5.0\Ranking.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Ranking\bin\Debug\net5.0\Ranking.dll
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Ranking\bin\Debug\net5.0\ref\Ranking.dll
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Ranking\bin\Debug\net5.0\Ranking.pdb
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Ranking\obj\Debug\net5.0\Ranking.csproj.AssemblyReference.cache
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Ranking\obj\Debug\net5.0\Ranking.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Ranking\obj\Debug\net5.0\Ranking.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Ranking\obj\Debug\net5.0\Ranking.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Ranking\obj\Debug\net5.0\Ranking.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Ranking\obj\Debug\net5.0\Ranking.dll
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Ranking\obj\Debug\net5.0\ref\Ranking.dll
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Ranking\obj\Debug\net5.0\Ranking.pdb
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Ranking\obj\Debug\net5.0\Ranking.genruntimeconfig.cache

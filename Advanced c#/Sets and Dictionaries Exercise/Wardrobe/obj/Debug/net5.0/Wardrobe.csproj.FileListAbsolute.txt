@@ -1,0 +1,15 @@
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Wardrobe\bin\Debug\net5.0\Wardrobe.exe
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Wardrobe\bin\Debug\net5.0\Wardrobe.deps.json
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Wardrobe\bin\Debug\net5.0\Wardrobe.runtimeconfig.json
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Wardrobe\bin\Debug\net5.0\Wardrobe.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Wardrobe\bin\Debug\net5.0\Wardrobe.dll
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Wardrobe\bin\Debug\net5.0\ref\Wardrobe.dll
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Wardrobe\bin\Debug\net5.0\Wardrobe.pdb
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Wardrobe\obj\Debug\net5.0\Wardrobe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Wardrobe\obj\Debug\net5.0\Wardrobe.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Wardrobe\obj\Debug\net5.0\Wardrobe.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Wardrobe\obj\Debug\net5.0\Wardrobe.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Wardrobe\obj\Debug\net5.0\Wardrobe.dll
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Wardrobe\obj\Debug\net5.0\ref\Wardrobe.dll
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Wardrobe\obj\Debug\net5.0\Wardrobe.pdb
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Wardrobe\obj\Debug\net5.0\Wardrobe.genruntimeconfig.cache

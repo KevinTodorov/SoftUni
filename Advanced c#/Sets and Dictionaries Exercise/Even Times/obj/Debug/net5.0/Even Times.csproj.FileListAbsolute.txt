@@ -1,0 +1,15 @@
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Even Times\bin\Debug\net5.0\Even Times.exe
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Even Times\bin\Debug\net5.0\Even Times.deps.json
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Even Times\bin\Debug\net5.0\Even Times.runtimeconfig.json
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Even Times\bin\Debug\net5.0\Even Times.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Even Times\bin\Debug\net5.0\Even Times.dll
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Even Times\bin\Debug\net5.0\ref\Even Times.dll
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Even Times\bin\Debug\net5.0\Even Times.pdb
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Even Times\obj\Debug\net5.0\Even Times.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Even Times\obj\Debug\net5.0\Even Times.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Even Times\obj\Debug\net5.0\Even Times.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Even Times\obj\Debug\net5.0\Even Times.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Even Times\obj\Debug\net5.0\Even Times.dll
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Even Times\obj\Debug\net5.0\ref\Even Times.dll
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Even Times\obj\Debug\net5.0\Even Times.pdb
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Even Times\obj\Debug\net5.0\Even Times.genruntimeconfig.cache

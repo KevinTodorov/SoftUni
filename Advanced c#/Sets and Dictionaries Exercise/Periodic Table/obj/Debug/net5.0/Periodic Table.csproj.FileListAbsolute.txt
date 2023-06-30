@@ -1,0 +1,16 @@
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Periodic Table\bin\Debug\net5.0\Periodic Table.exe
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Periodic Table\bin\Debug\net5.0\Periodic Table.deps.json
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Periodic Table\bin\Debug\net5.0\Periodic Table.runtimeconfig.json
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Periodic Table\bin\Debug\net5.0\Periodic Table.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Periodic Table\bin\Debug\net5.0\Periodic Table.dll
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Periodic Table\bin\Debug\net5.0\ref\Periodic Table.dll
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Periodic Table\bin\Debug\net5.0\Periodic Table.pdb
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Periodic Table\obj\Debug\net5.0\Periodic Table.csproj.AssemblyReference.cache
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Periodic Table\obj\Debug\net5.0\Periodic Table.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Periodic Table\obj\Debug\net5.0\Periodic Table.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Periodic Table\obj\Debug\net5.0\Periodic Table.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Periodic Table\obj\Debug\net5.0\Periodic Table.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Periodic Table\obj\Debug\net5.0\Periodic Table.dll
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Periodic Table\obj\Debug\net5.0\ref\Periodic Table.dll
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Periodic Table\obj\Debug\net5.0\Periodic Table.pdb
+D:\Softuni Programming\Advanced\Sets and Dictionaries Exercise\Periodic Table\obj\Debug\net5.0\Periodic Table.genruntimeconfig.cache
