@@ -1,0 +1,16 @@
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Primary Diagonal\bin\Debug\net5.0\Primary Diagonal.exe
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Primary Diagonal\bin\Debug\net5.0\Primary Diagonal.deps.json
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Primary Diagonal\bin\Debug\net5.0\Primary Diagonal.runtimeconfig.json
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Primary Diagonal\bin\Debug\net5.0\Primary Diagonal.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Primary Diagonal\bin\Debug\net5.0\Primary Diagonal.dll
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Primary Diagonal\bin\Debug\net5.0\ref\Primary Diagonal.dll
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Primary Diagonal\bin\Debug\net5.0\Primary Diagonal.pdb
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Primary Diagonal\obj\Debug\net5.0\Primary Diagonal.csproj.AssemblyReference.cache
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Primary Diagonal\obj\Debug\net5.0\Primary Diagonal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Primary Diagonal\obj\Debug\net5.0\Primary Diagonal.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Primary Diagonal\obj\Debug\net5.0\Primary Diagonal.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Primary Diagonal\obj\Debug\net5.0\Primary Diagonal.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Primary Diagonal\obj\Debug\net5.0\Primary Diagonal.dll
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Primary Diagonal\obj\Debug\net5.0\ref\Primary Diagonal.dll
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Primary Diagonal\obj\Debug\net5.0\Primary Diagonal.pdb
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Primary Diagonal\obj\Debug\net5.0\Primary Diagonal.genruntimeconfig.cache

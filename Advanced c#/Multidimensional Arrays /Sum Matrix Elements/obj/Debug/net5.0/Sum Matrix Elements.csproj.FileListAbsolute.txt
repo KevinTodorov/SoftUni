@@ -1,0 +1,16 @@
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Sum Matrix Elements\bin\Debug\net5.0\Sum Matrix Elements.exe
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Sum Matrix Elements\bin\Debug\net5.0\Sum Matrix Elements.deps.json
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Sum Matrix Elements\bin\Debug\net5.0\Sum Matrix Elements.runtimeconfig.json
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Sum Matrix Elements\bin\Debug\net5.0\Sum Matrix Elements.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Sum Matrix Elements\bin\Debug\net5.0\Sum Matrix Elements.dll
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Sum Matrix Elements\bin\Debug\net5.0\ref\Sum Matrix Elements.dll
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Sum Matrix Elements\bin\Debug\net5.0\Sum Matrix Elements.pdb
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Sum Matrix Elements\obj\Debug\net5.0\Sum Matrix Elements.csproj.AssemblyReference.cache
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Sum Matrix Elements\obj\Debug\net5.0\Sum Matrix Elements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Sum Matrix Elements\obj\Debug\net5.0\Sum Matrix Elements.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Sum Matrix Elements\obj\Debug\net5.0\Sum Matrix Elements.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Sum Matrix Elements\obj\Debug\net5.0\Sum Matrix Elements.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Sum Matrix Elements\obj\Debug\net5.0\Sum Matrix Elements.dll
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Sum Matrix Elements\obj\Debug\net5.0\ref\Sum Matrix Elements.dll
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Sum Matrix Elements\obj\Debug\net5.0\Sum Matrix Elements.pdb
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Sum Matrix Elements\obj\Debug\net5.0\Sum Matrix Elements.genruntimeconfig.cache

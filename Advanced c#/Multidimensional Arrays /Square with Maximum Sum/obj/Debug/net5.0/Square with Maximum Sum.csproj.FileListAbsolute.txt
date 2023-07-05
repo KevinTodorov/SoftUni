@@ -1,0 +1,15 @@
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Square with Maximum Sum\bin\Debug\net5.0\Square with Maximum Sum.exe
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Square with Maximum Sum\bin\Debug\net5.0\Square with Maximum Sum.deps.json
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Square with Maximum Sum\bin\Debug\net5.0\Square with Maximum Sum.runtimeconfig.json
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Square with Maximum Sum\bin\Debug\net5.0\Square with Maximum Sum.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Square with Maximum Sum\bin\Debug\net5.0\Square with Maximum Sum.dll
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Square with Maximum Sum\bin\Debug\net5.0\ref\Square with Maximum Sum.dll
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Square with Maximum Sum\bin\Debug\net5.0\Square with Maximum Sum.pdb
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Square with Maximum Sum\obj\Debug\net5.0\Square with Maximum Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Square with Maximum Sum\obj\Debug\net5.0\Square with Maximum Sum.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Square with Maximum Sum\obj\Debug\net5.0\Square with Maximum Sum.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Square with Maximum Sum\obj\Debug\net5.0\Square with Maximum Sum.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Square with Maximum Sum\obj\Debug\net5.0\Square with Maximum Sum.dll
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Square with Maximum Sum\obj\Debug\net5.0\ref\Square with Maximum Sum.dll
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Square with Maximum Sum\obj\Debug\net5.0\Square with Maximum Sum.pdb
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Square with Maximum Sum\obj\Debug\net5.0\Square with Maximum Sum.genruntimeconfig.cache

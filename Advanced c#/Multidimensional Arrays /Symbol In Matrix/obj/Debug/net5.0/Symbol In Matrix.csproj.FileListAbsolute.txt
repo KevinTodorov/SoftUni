@@ -1,0 +1,16 @@
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Symbol In Matrix\bin\Debug\net5.0\Symbol In Matrix.exe
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Symbol In Matrix\bin\Debug\net5.0\Symbol In Matrix.deps.json
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Symbol In Matrix\bin\Debug\net5.0\Symbol In Matrix.runtimeconfig.json
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Symbol In Matrix\bin\Debug\net5.0\Symbol In Matrix.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Symbol In Matrix\bin\Debug\net5.0\Symbol In Matrix.dll
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Symbol In Matrix\bin\Debug\net5.0\ref\Symbol In Matrix.dll
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Symbol In Matrix\bin\Debug\net5.0\Symbol In Matrix.pdb
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Symbol In Matrix\obj\Debug\net5.0\Symbol In Matrix.csproj.AssemblyReference.cache
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Symbol In Matrix\obj\Debug\net5.0\Symbol In Matrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Symbol In Matrix\obj\Debug\net5.0\Symbol In Matrix.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Symbol In Matrix\obj\Debug\net5.0\Symbol In Matrix.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Symbol In Matrix\obj\Debug\net5.0\Symbol In Matrix.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Symbol In Matrix\obj\Debug\net5.0\Symbol In Matrix.dll
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Symbol In Matrix\obj\Debug\net5.0\ref\Symbol In Matrix.dll
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Symbol In Matrix\obj\Debug\net5.0\Symbol In Matrix.pdb
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Symbol In Matrix\obj\Debug\net5.0\Symbol In Matrix.genruntimeconfig.cache

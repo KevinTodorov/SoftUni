@@ -1,0 +1,16 @@
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Jagged-Array Modification\bin\Debug\net5.0\Jagged-Array Modification.exe
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Jagged-Array Modification\bin\Debug\net5.0\Jagged-Array Modification.deps.json
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Jagged-Array Modification\bin\Debug\net5.0\Jagged-Array Modification.runtimeconfig.json
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Jagged-Array Modification\bin\Debug\net5.0\Jagged-Array Modification.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Jagged-Array Modification\bin\Debug\net5.0\Jagged-Array Modification.dll
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Jagged-Array Modification\bin\Debug\net5.0\ref\Jagged-Array Modification.dll
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Jagged-Array Modification\bin\Debug\net5.0\Jagged-Array Modification.pdb
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Jagged-Array Modification\obj\Debug\net5.0\Jagged-Array Modification.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Jagged-Array Modification\obj\Debug\net5.0\Jagged-Array Modification.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Jagged-Array Modification\obj\Debug\net5.0\Jagged-Array Modification.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Jagged-Array Modification\obj\Debug\net5.0\Jagged-Array Modification.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Jagged-Array Modification\obj\Debug\net5.0\Jagged-Array Modification.dll
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Jagged-Array Modification\obj\Debug\net5.0\ref\Jagged-Array Modification.dll
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Jagged-Array Modification\obj\Debug\net5.0\Jagged-Array Modification.pdb
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Jagged-Array Modification\obj\Debug\net5.0\Jagged-Array Modification.genruntimeconfig.cache
+D:\Softuni Programming\Advanced\Multidimensional Arrays\Jagged-Array Modification\obj\Debug\net5.0\Jagged-Array Modification.csproj.AssemblyReference.cache
