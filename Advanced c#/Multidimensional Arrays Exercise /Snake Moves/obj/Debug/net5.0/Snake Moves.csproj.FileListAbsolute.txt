@@ -1,0 +1,15 @@
+D:\Softuni Programming\Advanced\Multidimensional Arrays Exercise\Snake Moves\bin\Debug\net5.0\Snake Moves.exe
+D:\Softuni Programming\Advanced\Multidimensional Arrays Exercise\Snake Moves\bin\Debug\net5.0\Snake Moves.deps.json
+D:\Softuni Programming\Advanced\Multidimensional Arrays Exercise\Snake Moves\bin\Debug\net5.0\Snake Moves.runtimeconfig.json
+D:\Softuni Programming\Advanced\Multidimensional Arrays Exercise\Snake Moves\bin\Debug\net5.0\Snake Moves.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Multidimensional Arrays Exercise\Snake Moves\bin\Debug\net5.0\Snake Moves.dll
+D:\Softuni Programming\Advanced\Multidimensional Arrays Exercise\Snake Moves\bin\Debug\net5.0\ref\Snake Moves.dll
+D:\Softuni Programming\Advanced\Multidimensional Arrays Exercise\Snake Moves\bin\Debug\net5.0\Snake Moves.pdb
+D:\Softuni Programming\Advanced\Multidimensional Arrays Exercise\Snake Moves\obj\Debug\net5.0\Snake Moves.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Multidimensional Arrays Exercise\Snake Moves\obj\Debug\net5.0\Snake Moves.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Multidimensional Arrays Exercise\Snake Moves\obj\Debug\net5.0\Snake Moves.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Multidimensional Arrays Exercise\Snake Moves\obj\Debug\net5.0\Snake Moves.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Multidimensional Arrays Exercise\Snake Moves\obj\Debug\net5.0\Snake Moves.dll
+D:\Softuni Programming\Advanced\Multidimensional Arrays Exercise\Snake Moves\obj\Debug\net5.0\ref\Snake Moves.dll
+D:\Softuni Programming\Advanced\Multidimensional Arrays Exercise\Snake Moves\obj\Debug\net5.0\Snake Moves.pdb
+D:\Softuni Programming\Advanced\Multidimensional Arrays Exercise\Snake Moves\obj\Debug\net5.0\Snake Moves.genruntimeconfig.cache

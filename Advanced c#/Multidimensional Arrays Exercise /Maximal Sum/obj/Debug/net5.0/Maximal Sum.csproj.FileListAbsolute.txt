@@ -1,0 +1,16 @@
+D:\Softuni Programming\Advanced\Multidimensional Arrays Exercise\Maximal Sum\bin\Debug\net5.0\Maximal Sum.exe
+D:\Softuni Programming\Advanced\Multidimensional Arrays Exercise\Maximal Sum\bin\Debug\net5.0\Maximal Sum.deps.json
+D:\Softuni Programming\Advanced\Multidimensional Arrays Exercise\Maximal Sum\bin\Debug\net5.0\Maximal Sum.runtimeconfig.json
+D:\Softuni Programming\Advanced\Multidimensional Arrays Exercise\Maximal Sum\bin\Debug\net5.0\Maximal Sum.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Multidimensional Arrays Exercise\Maximal Sum\bin\Debug\net5.0\Maximal Sum.dll
+D:\Softuni Programming\Advanced\Multidimensional Arrays Exercise\Maximal Sum\bin\Debug\net5.0\ref\Maximal Sum.dll
+D:\Softuni Programming\Advanced\Multidimensional Arrays Exercise\Maximal Sum\bin\Debug\net5.0\Maximal Sum.pdb
+D:\Softuni Programming\Advanced\Multidimensional Arrays Exercise\Maximal Sum\obj\Debug\net5.0\Maximal Sum.csproj.AssemblyReference.cache
+D:\Softuni Programming\Advanced\Multidimensional Arrays Exercise\Maximal Sum\obj\Debug\net5.0\Maximal Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Multidimensional Arrays Exercise\Maximal Sum\obj\Debug\net5.0\Maximal Sum.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Multidimensional Arrays Exercise\Maximal Sum\obj\Debug\net5.0\Maximal Sum.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Multidimensional Arrays Exercise\Maximal Sum\obj\Debug\net5.0\Maximal Sum.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Multidimensional Arrays Exercise\Maximal Sum\obj\Debug\net5.0\Maximal Sum.dll
+D:\Softuni Programming\Advanced\Multidimensional Arrays Exercise\Maximal Sum\obj\Debug\net5.0\ref\Maximal Sum.dll
+D:\Softuni Programming\Advanced\Multidimensional Arrays Exercise\Maximal Sum\obj\Debug\net5.0\Maximal Sum.pdb
+D:\Softuni Programming\Advanced\Multidimensional Arrays Exercise\Maximal Sum\obj\Debug\net5.0\Maximal Sum.genruntimeconfig.cache
