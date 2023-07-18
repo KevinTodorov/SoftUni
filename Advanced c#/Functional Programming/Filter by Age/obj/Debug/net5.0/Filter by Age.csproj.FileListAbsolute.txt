@@ -1,0 +1,15 @@
+D:\Softuni Programming\Advanced\Functional Programming\Filter by Age\bin\Debug\net5.0\Filter by Age.exe
+D:\Softuni Programming\Advanced\Functional Programming\Filter by Age\bin\Debug\net5.0\Filter by Age.deps.json
+D:\Softuni Programming\Advanced\Functional Programming\Filter by Age\bin\Debug\net5.0\Filter by Age.runtimeconfig.json
+D:\Softuni Programming\Advanced\Functional Programming\Filter by Age\bin\Debug\net5.0\Filter by Age.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Functional Programming\Filter by Age\bin\Debug\net5.0\Filter by Age.dll
+D:\Softuni Programming\Advanced\Functional Programming\Filter by Age\bin\Debug\net5.0\ref\Filter by Age.dll
+D:\Softuni Programming\Advanced\Functional Programming\Filter by Age\bin\Debug\net5.0\Filter by Age.pdb
+D:\Softuni Programming\Advanced\Functional Programming\Filter by Age\obj\Debug\net5.0\Filter by Age.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Functional Programming\Filter by Age\obj\Debug\net5.0\Filter by Age.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Functional Programming\Filter by Age\obj\Debug\net5.0\Filter by Age.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Functional Programming\Filter by Age\obj\Debug\net5.0\Filter by Age.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Functional Programming\Filter by Age\obj\Debug\net5.0\Filter by Age.dll
+D:\Softuni Programming\Advanced\Functional Programming\Filter by Age\obj\Debug\net5.0\ref\Filter by Age.dll
+D:\Softuni Programming\Advanced\Functional Programming\Filter by Age\obj\Debug\net5.0\Filter by Age.pdb
+D:\Softuni Programming\Advanced\Functional Programming\Filter by Age\obj\Debug\net5.0\Filter by Age.genruntimeconfig.cache

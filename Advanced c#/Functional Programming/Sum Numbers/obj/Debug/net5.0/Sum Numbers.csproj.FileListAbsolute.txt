@@ -1,0 +1,15 @@
+D:\Softuni Programming\Advanced\Functional Programming\Sum Numbers\bin\Debug\net5.0\Sum Numbers.exe
+D:\Softuni Programming\Advanced\Functional Programming\Sum Numbers\bin\Debug\net5.0\Sum Numbers.deps.json
+D:\Softuni Programming\Advanced\Functional Programming\Sum Numbers\bin\Debug\net5.0\Sum Numbers.runtimeconfig.json
+D:\Softuni Programming\Advanced\Functional Programming\Sum Numbers\bin\Debug\net5.0\Sum Numbers.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Functional Programming\Sum Numbers\bin\Debug\net5.0\Sum Numbers.dll
+D:\Softuni Programming\Advanced\Functional Programming\Sum Numbers\bin\Debug\net5.0\ref\Sum Numbers.dll
+D:\Softuni Programming\Advanced\Functional Programming\Sum Numbers\bin\Debug\net5.0\Sum Numbers.pdb
+D:\Softuni Programming\Advanced\Functional Programming\Sum Numbers\obj\Debug\net5.0\Sum Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Functional Programming\Sum Numbers\obj\Debug\net5.0\Sum Numbers.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Functional Programming\Sum Numbers\obj\Debug\net5.0\Sum Numbers.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Functional Programming\Sum Numbers\obj\Debug\net5.0\Sum Numbers.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Functional Programming\Sum Numbers\obj\Debug\net5.0\Sum Numbers.dll
+D:\Softuni Programming\Advanced\Functional Programming\Sum Numbers\obj\Debug\net5.0\ref\Sum Numbers.dll
+D:\Softuni Programming\Advanced\Functional Programming\Sum Numbers\obj\Debug\net5.0\Sum Numbers.pdb
+D:\Softuni Programming\Advanced\Functional Programming\Sum Numbers\obj\Debug\net5.0\Sum Numbers.genruntimeconfig.cache

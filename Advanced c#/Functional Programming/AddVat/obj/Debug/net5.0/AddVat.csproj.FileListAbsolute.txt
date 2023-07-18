@@ -1,0 +1,15 @@
+D:\Softuni Programming\Advanced\Functional Programming\AddVat\bin\Debug\net5.0\AddVat.exe
+D:\Softuni Programming\Advanced\Functional Programming\AddVat\bin\Debug\net5.0\AddVat.deps.json
+D:\Softuni Programming\Advanced\Functional Programming\AddVat\bin\Debug\net5.0\AddVat.runtimeconfig.json
+D:\Softuni Programming\Advanced\Functional Programming\AddVat\bin\Debug\net5.0\AddVat.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Functional Programming\AddVat\bin\Debug\net5.0\AddVat.dll
+D:\Softuni Programming\Advanced\Functional Programming\AddVat\bin\Debug\net5.0\ref\AddVat.dll
+D:\Softuni Programming\Advanced\Functional Programming\AddVat\bin\Debug\net5.0\AddVat.pdb
+D:\Softuni Programming\Advanced\Functional Programming\AddVat\obj\Debug\net5.0\AddVat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Functional Programming\AddVat\obj\Debug\net5.0\AddVat.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Functional Programming\AddVat\obj\Debug\net5.0\AddVat.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Functional Programming\AddVat\obj\Debug\net5.0\AddVat.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Functional Programming\AddVat\obj\Debug\net5.0\AddVat.dll
+D:\Softuni Programming\Advanced\Functional Programming\AddVat\obj\Debug\net5.0\ref\AddVat.dll
+D:\Softuni Programming\Advanced\Functional Programming\AddVat\obj\Debug\net5.0\AddVat.pdb
+D:\Softuni Programming\Advanced\Functional Programming\AddVat\obj\Debug\net5.0\AddVat.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Softuni Programming\Advanced\Functional Programming\Sort Even Numbers\bin\Debug\net5.0\Sort Even Numbers.exe
+D:\Softuni Programming\Advanced\Functional Programming\Sort Even Numbers\bin\Debug\net5.0\Sort Even Numbers.deps.json
+D:\Softuni Programming\Advanced\Functional Programming\Sort Even Numbers\bin\Debug\net5.0\Sort Even Numbers.runtimeconfig.json
+D:\Softuni Programming\Advanced\Functional Programming\Sort Even Numbers\bin\Debug\net5.0\Sort Even Numbers.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Functional Programming\Sort Even Numbers\bin\Debug\net5.0\Sort Even Numbers.dll
+D:\Softuni Programming\Advanced\Functional Programming\Sort Even Numbers\bin\Debug\net5.0\ref\Sort Even Numbers.dll
+D:\Softuni Programming\Advanced\Functional Programming\Sort Even Numbers\bin\Debug\net5.0\Sort Even Numbers.pdb
+D:\Softuni Programming\Advanced\Functional Programming\Sort Even Numbers\obj\Debug\net5.0\Sort Even Numbers.csproj.AssemblyReference.cache
+D:\Softuni Programming\Advanced\Functional Programming\Sort Even Numbers\obj\Debug\net5.0\Sort Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Functional Programming\Sort Even Numbers\obj\Debug\net5.0\Sort Even Numbers.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Functional Programming\Sort Even Numbers\obj\Debug\net5.0\Sort Even Numbers.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Functional Programming\Sort Even Numbers\obj\Debug\net5.0\Sort Even Numbers.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Functional Programming\Sort Even Numbers\obj\Debug\net5.0\Sort Even Numbers.dll
+D:\Softuni Programming\Advanced\Functional Programming\Sort Even Numbers\obj\Debug\net5.0\ref\Sort Even Numbers.dll
+D:\Softuni Programming\Advanced\Functional Programming\Sort Even Numbers\obj\Debug\net5.0\Sort Even Numbers.pdb
+D:\Softuni Programming\Advanced\Functional Programming\Sort Even Numbers\obj\Debug\net5.0\Sort Even Numbers.genruntimeconfig.cache

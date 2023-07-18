@@ -1,0 +1,16 @@
+D:\Softuni Programming\Advanced\Functional Programming\Count Uppercase Words\bin\Debug\net5.0\Count Uppercase Words.exe
+D:\Softuni Programming\Advanced\Functional Programming\Count Uppercase Words\bin\Debug\net5.0\Count Uppercase Words.deps.json
+D:\Softuni Programming\Advanced\Functional Programming\Count Uppercase Words\bin\Debug\net5.0\Count Uppercase Words.runtimeconfig.json
+D:\Softuni Programming\Advanced\Functional Programming\Count Uppercase Words\bin\Debug\net5.0\Count Uppercase Words.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Functional Programming\Count Uppercase Words\bin\Debug\net5.0\Count Uppercase Words.dll
+D:\Softuni Programming\Advanced\Functional Programming\Count Uppercase Words\bin\Debug\net5.0\ref\Count Uppercase Words.dll
+D:\Softuni Programming\Advanced\Functional Programming\Count Uppercase Words\bin\Debug\net5.0\Count Uppercase Words.pdb
+D:\Softuni Programming\Advanced\Functional Programming\Count Uppercase Words\obj\Debug\net5.0\Count Uppercase Words.csproj.AssemblyReference.cache
+D:\Softuni Programming\Advanced\Functional Programming\Count Uppercase Words\obj\Debug\net5.0\Count Uppercase Words.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Functional Programming\Count Uppercase Words\obj\Debug\net5.0\Count Uppercase Words.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Functional Programming\Count Uppercase Words\obj\Debug\net5.0\Count Uppercase Words.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Functional Programming\Count Uppercase Words\obj\Debug\net5.0\Count Uppercase Words.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Functional Programming\Count Uppercase Words\obj\Debug\net5.0\Count Uppercase Words.dll
+D:\Softuni Programming\Advanced\Functional Programming\Count Uppercase Words\obj\Debug\net5.0\ref\Count Uppercase Words.dll
+D:\Softuni Programming\Advanced\Functional Programming\Count Uppercase Words\obj\Debug\net5.0\Count Uppercase Words.pdb
+D:\Softuni Programming\Advanced\Functional Programming\Count Uppercase Words\obj\Debug\net5.0\Count Uppercase Words.genruntimeconfig.cache
