@@ -1,0 +1,15 @@
+D:\Softuni Programming\Advanced\Functional Programming exercise\Predicate for Names\bin\Debug\net5.0\Predicate for Names.exe
+D:\Softuni Programming\Advanced\Functional Programming exercise\Predicate for Names\bin\Debug\net5.0\Predicate for Names.deps.json
+D:\Softuni Programming\Advanced\Functional Programming exercise\Predicate for Names\bin\Debug\net5.0\Predicate for Names.runtimeconfig.json
+D:\Softuni Programming\Advanced\Functional Programming exercise\Predicate for Names\bin\Debug\net5.0\Predicate for Names.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Functional Programming exercise\Predicate for Names\bin\Debug\net5.0\Predicate for Names.dll
+D:\Softuni Programming\Advanced\Functional Programming exercise\Predicate for Names\bin\Debug\net5.0\ref\Predicate for Names.dll
+D:\Softuni Programming\Advanced\Functional Programming exercise\Predicate for Names\bin\Debug\net5.0\Predicate for Names.pdb
+D:\Softuni Programming\Advanced\Functional Programming exercise\Predicate for Names\obj\Debug\net5.0\Predicate for Names.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Functional Programming exercise\Predicate for Names\obj\Debug\net5.0\Predicate for Names.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Functional Programming exercise\Predicate for Names\obj\Debug\net5.0\Predicate for Names.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Functional Programming exercise\Predicate for Names\obj\Debug\net5.0\Predicate for Names.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Functional Programming exercise\Predicate for Names\obj\Debug\net5.0\Predicate for Names.dll
+D:\Softuni Programming\Advanced\Functional Programming exercise\Predicate for Names\obj\Debug\net5.0\ref\Predicate for Names.dll
+D:\Softuni Programming\Advanced\Functional Programming exercise\Predicate for Names\obj\Debug\net5.0\Predicate for Names.pdb
+D:\Softuni Programming\Advanced\Functional Programming exercise\Predicate for Names\obj\Debug\net5.0\Predicate for Names.genruntimeconfig.cache

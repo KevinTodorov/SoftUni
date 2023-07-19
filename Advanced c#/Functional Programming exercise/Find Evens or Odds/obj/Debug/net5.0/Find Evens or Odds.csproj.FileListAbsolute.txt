@@ -1,0 +1,16 @@
+D:\Softuni Programming\Advanced\Functional Programming exercise\Find Evens or Odds\bin\Debug\net5.0\Find Evens or Odds.exe
+D:\Softuni Programming\Advanced\Functional Programming exercise\Find Evens or Odds\bin\Debug\net5.0\Find Evens or Odds.deps.json
+D:\Softuni Programming\Advanced\Functional Programming exercise\Find Evens or Odds\bin\Debug\net5.0\Find Evens or Odds.runtimeconfig.json
+D:\Softuni Programming\Advanced\Functional Programming exercise\Find Evens or Odds\bin\Debug\net5.0\Find Evens or Odds.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Functional Programming exercise\Find Evens or Odds\bin\Debug\net5.0\Find Evens or Odds.dll
+D:\Softuni Programming\Advanced\Functional Programming exercise\Find Evens or Odds\bin\Debug\net5.0\ref\Find Evens or Odds.dll
+D:\Softuni Programming\Advanced\Functional Programming exercise\Find Evens or Odds\bin\Debug\net5.0\Find Evens or Odds.pdb
+D:\Softuni Programming\Advanced\Functional Programming exercise\Find Evens or Odds\obj\Debug\net5.0\Find Evens or Odds.csproj.AssemblyReference.cache
+D:\Softuni Programming\Advanced\Functional Programming exercise\Find Evens or Odds\obj\Debug\net5.0\Find Evens or Odds.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Functional Programming exercise\Find Evens or Odds\obj\Debug\net5.0\Find Evens or Odds.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Functional Programming exercise\Find Evens or Odds\obj\Debug\net5.0\Find Evens or Odds.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Functional Programming exercise\Find Evens or Odds\obj\Debug\net5.0\Find Evens or Odds.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Functional Programming exercise\Find Evens or Odds\obj\Debug\net5.0\Find Evens or Odds.dll
+D:\Softuni Programming\Advanced\Functional Programming exercise\Find Evens or Odds\obj\Debug\net5.0\ref\Find Evens or Odds.dll
+D:\Softuni Programming\Advanced\Functional Programming exercise\Find Evens or Odds\obj\Debug\net5.0\Find Evens or Odds.pdb
+D:\Softuni Programming\Advanced\Functional Programming exercise\Find Evens or Odds\obj\Debug\net5.0\Find Evens or Odds.genruntimeconfig.cache

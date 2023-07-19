@@ -1,0 +1,16 @@
+D:\Softuni Programming\Advanced\Functional Programming exercise\Party Reservation Filter Module\bin\Debug\net5.0\Party Reservation Filter Module.exe
+D:\Softuni Programming\Advanced\Functional Programming exercise\Party Reservation Filter Module\bin\Debug\net5.0\Party Reservation Filter Module.deps.json
+D:\Softuni Programming\Advanced\Functional Programming exercise\Party Reservation Filter Module\bin\Debug\net5.0\Party Reservation Filter Module.runtimeconfig.json
+D:\Softuni Programming\Advanced\Functional Programming exercise\Party Reservation Filter Module\bin\Debug\net5.0\Party Reservation Filter Module.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Functional Programming exercise\Party Reservation Filter Module\bin\Debug\net5.0\Party Reservation Filter Module.dll
+D:\Softuni Programming\Advanced\Functional Programming exercise\Party Reservation Filter Module\bin\Debug\net5.0\ref\Party Reservation Filter Module.dll
+D:\Softuni Programming\Advanced\Functional Programming exercise\Party Reservation Filter Module\bin\Debug\net5.0\Party Reservation Filter Module.pdb
+D:\Softuni Programming\Advanced\Functional Programming exercise\Party Reservation Filter Module\obj\Debug\net5.0\Party Reservation Filter Module.csproj.AssemblyReference.cache
+D:\Softuni Programming\Advanced\Functional Programming exercise\Party Reservation Filter Module\obj\Debug\net5.0\Party Reservation Filter Module.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Functional Programming exercise\Party Reservation Filter Module\obj\Debug\net5.0\Party Reservation Filter Module.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Functional Programming exercise\Party Reservation Filter Module\obj\Debug\net5.0\Party Reservation Filter Module.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Functional Programming exercise\Party Reservation Filter Module\obj\Debug\net5.0\Party Reservation Filter Module.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Functional Programming exercise\Party Reservation Filter Module\obj\Debug\net5.0\Party Reservation Filter Module.dll
+D:\Softuni Programming\Advanced\Functional Programming exercise\Party Reservation Filter Module\obj\Debug\net5.0\ref\Party Reservation Filter Module.dll
+D:\Softuni Programming\Advanced\Functional Programming exercise\Party Reservation Filter Module\obj\Debug\net5.0\Party Reservation Filter Module.pdb
+D:\Softuni Programming\Advanced\Functional Programming exercise\Party Reservation Filter Module\obj\Debug\net5.0\Party Reservation Filter Module.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\Softuni Programming\Advanced\Functional Programming exercise\Applied Arithmetics\bin\Debug\net5.0\Applied Arithmetics.exe
+D:\Softuni Programming\Advanced\Functional Programming exercise\Applied Arithmetics\bin\Debug\net5.0\Applied Arithmetics.deps.json
+D:\Softuni Programming\Advanced\Functional Programming exercise\Applied Arithmetics\bin\Debug\net5.0\Applied Arithmetics.runtimeconfig.json
+D:\Softuni Programming\Advanced\Functional Programming exercise\Applied Arithmetics\bin\Debug\net5.0\Applied Arithmetics.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Functional Programming exercise\Applied Arithmetics\bin\Debug\net5.0\Applied Arithmetics.dll
+D:\Softuni Programming\Advanced\Functional Programming exercise\Applied Arithmetics\bin\Debug\net5.0\ref\Applied Arithmetics.dll
+D:\Softuni Programming\Advanced\Functional Programming exercise\Applied Arithmetics\bin\Debug\net5.0\Applied Arithmetics.pdb
+D:\Softuni Programming\Advanced\Functional Programming exercise\Applied Arithmetics\obj\Debug\net5.0\Applied Arithmetics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Functional Programming exercise\Applied Arithmetics\obj\Debug\net5.0\Applied Arithmetics.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Functional Programming exercise\Applied Arithmetics\obj\Debug\net5.0\Applied Arithmetics.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Functional Programming exercise\Applied Arithmetics\obj\Debug\net5.0\Applied Arithmetics.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Functional Programming exercise\Applied Arithmetics\obj\Debug\net5.0\Applied Arithmetics.dll
+D:\Softuni Programming\Advanced\Functional Programming exercise\Applied Arithmetics\obj\Debug\net5.0\ref\Applied Arithmetics.dll
+D:\Softuni Programming\Advanced\Functional Programming exercise\Applied Arithmetics\obj\Debug\net5.0\Applied Arithmetics.pdb
+D:\Softuni Programming\Advanced\Functional Programming exercise\Applied Arithmetics\obj\Debug\net5.0\Applied Arithmetics.genruntimeconfig.cache

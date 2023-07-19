@@ -1,0 +1,16 @@
+D:\Softuni Programming\Advanced\Functional Programming exercise\Knights of Honor\bin\Debug\net5.0\Knights of Honor.exe
+D:\Softuni Programming\Advanced\Functional Programming exercise\Knights of Honor\bin\Debug\net5.0\Knights of Honor.deps.json
+D:\Softuni Programming\Advanced\Functional Programming exercise\Knights of Honor\bin\Debug\net5.0\Knights of Honor.runtimeconfig.json
+D:\Softuni Programming\Advanced\Functional Programming exercise\Knights of Honor\bin\Debug\net5.0\Knights of Honor.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Functional Programming exercise\Knights of Honor\bin\Debug\net5.0\Knights of Honor.dll
+D:\Softuni Programming\Advanced\Functional Programming exercise\Knights of Honor\bin\Debug\net5.0\ref\Knights of Honor.dll
+D:\Softuni Programming\Advanced\Functional Programming exercise\Knights of Honor\bin\Debug\net5.0\Knights of Honor.pdb
+D:\Softuni Programming\Advanced\Functional Programming exercise\Knights of Honor\obj\Debug\net5.0\Knights of Honor.csproj.AssemblyReference.cache
+D:\Softuni Programming\Advanced\Functional Programming exercise\Knights of Honor\obj\Debug\net5.0\Knights of Honor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Functional Programming exercise\Knights of Honor\obj\Debug\net5.0\Knights of Honor.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Functional Programming exercise\Knights of Honor\obj\Debug\net5.0\Knights of Honor.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Functional Programming exercise\Knights of Honor\obj\Debug\net5.0\Knights of Honor.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Functional Programming exercise\Knights of Honor\obj\Debug\net5.0\Knights of Honor.dll
+D:\Softuni Programming\Advanced\Functional Programming exercise\Knights of Honor\obj\Debug\net5.0\ref\Knights of Honor.dll
+D:\Softuni Programming\Advanced\Functional Programming exercise\Knights of Honor\obj\Debug\net5.0\Knights of Honor.pdb
+D:\Softuni Programming\Advanced\Functional Programming exercise\Knights of Honor\obj\Debug\net5.0\Knights of Honor.genruntimeconfig.cache

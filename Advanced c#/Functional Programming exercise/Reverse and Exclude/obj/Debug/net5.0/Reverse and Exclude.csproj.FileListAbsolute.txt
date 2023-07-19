@@ -1,0 +1,16 @@
+D:\Softuni Programming\Advanced\Functional Programming exercise\Reverse and Exclude\bin\Debug\net5.0\Reverse and Exclude.exe
+D:\Softuni Programming\Advanced\Functional Programming exercise\Reverse and Exclude\bin\Debug\net5.0\Reverse and Exclude.deps.json
+D:\Softuni Programming\Advanced\Functional Programming exercise\Reverse and Exclude\bin\Debug\net5.0\Reverse and Exclude.runtimeconfig.json
+D:\Softuni Programming\Advanced\Functional Programming exercise\Reverse and Exclude\bin\Debug\net5.0\Reverse and Exclude.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Functional Programming exercise\Reverse and Exclude\bin\Debug\net5.0\Reverse and Exclude.dll
+D:\Softuni Programming\Advanced\Functional Programming exercise\Reverse and Exclude\bin\Debug\net5.0\ref\Reverse and Exclude.dll
+D:\Softuni Programming\Advanced\Functional Programming exercise\Reverse and Exclude\bin\Debug\net5.0\Reverse and Exclude.pdb
+D:\Softuni Programming\Advanced\Functional Programming exercise\Reverse and Exclude\obj\Debug\net5.0\Reverse and Exclude.csproj.AssemblyReference.cache
+D:\Softuni Programming\Advanced\Functional Programming exercise\Reverse and Exclude\obj\Debug\net5.0\Reverse and Exclude.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Functional Programming exercise\Reverse and Exclude\obj\Debug\net5.0\Reverse and Exclude.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Functional Programming exercise\Reverse and Exclude\obj\Debug\net5.0\Reverse and Exclude.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Functional Programming exercise\Reverse and Exclude\obj\Debug\net5.0\Reverse and Exclude.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Functional Programming exercise\Reverse and Exclude\obj\Debug\net5.0\Reverse and Exclude.dll
+D:\Softuni Programming\Advanced\Functional Programming exercise\Reverse and Exclude\obj\Debug\net5.0\ref\Reverse and Exclude.dll
+D:\Softuni Programming\Advanced\Functional Programming exercise\Reverse and Exclude\obj\Debug\net5.0\Reverse and Exclude.pdb
+D:\Softuni Programming\Advanced\Functional Programming exercise\Reverse and Exclude\obj\Debug\net5.0\Reverse and Exclude.genruntimeconfig.cache

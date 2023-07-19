@@ -1,0 +1,16 @@
+D:\Softuni Programming\Advanced\Functional Programming exercise\Predicate Party\bin\Debug\net5.0\Predicate Party.exe
+D:\Softuni Programming\Advanced\Functional Programming exercise\Predicate Party\bin\Debug\net5.0\Predicate Party.deps.json
+D:\Softuni Programming\Advanced\Functional Programming exercise\Predicate Party\bin\Debug\net5.0\Predicate Party.runtimeconfig.json
+D:\Softuni Programming\Advanced\Functional Programming exercise\Predicate Party\bin\Debug\net5.0\Predicate Party.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Functional Programming exercise\Predicate Party\bin\Debug\net5.0\Predicate Party.dll
+D:\Softuni Programming\Advanced\Functional Programming exercise\Predicate Party\bin\Debug\net5.0\ref\Predicate Party.dll
+D:\Softuni Programming\Advanced\Functional Programming exercise\Predicate Party\bin\Debug\net5.0\Predicate Party.pdb
+D:\Softuni Programming\Advanced\Functional Programming exercise\Predicate Party\obj\Debug\net5.0\Predicate Party.csproj.AssemblyReference.cache
+D:\Softuni Programming\Advanced\Functional Programming exercise\Predicate Party\obj\Debug\net5.0\Predicate Party.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Functional Programming exercise\Predicate Party\obj\Debug\net5.0\Predicate Party.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Functional Programming exercise\Predicate Party\obj\Debug\net5.0\Predicate Party.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Functional Programming exercise\Predicate Party\obj\Debug\net5.0\Predicate Party.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Functional Programming exercise\Predicate Party\obj\Debug\net5.0\Predicate Party.dll
+D:\Softuni Programming\Advanced\Functional Programming exercise\Predicate Party\obj\Debug\net5.0\ref\Predicate Party.dll
+D:\Softuni Programming\Advanced\Functional Programming exercise\Predicate Party\obj\Debug\net5.0\Predicate Party.pdb
+D:\Softuni Programming\Advanced\Functional Programming exercise\Predicate Party\obj\Debug\net5.0\Predicate Party.genruntimeconfig.cache
