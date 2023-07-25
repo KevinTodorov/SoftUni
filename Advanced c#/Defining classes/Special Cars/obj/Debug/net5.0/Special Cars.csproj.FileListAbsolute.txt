@@ -1,0 +1,16 @@
+D:\Softuni Programming\Advanced\Defining classes\Special Cars\bin\Debug\net5.0\Special Cars.exe
+D:\Softuni Programming\Advanced\Defining classes\Special Cars\bin\Debug\net5.0\Special Cars.deps.json
+D:\Softuni Programming\Advanced\Defining classes\Special Cars\bin\Debug\net5.0\Special Cars.runtimeconfig.json
+D:\Softuni Programming\Advanced\Defining classes\Special Cars\bin\Debug\net5.0\Special Cars.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Defining classes\Special Cars\bin\Debug\net5.0\Special Cars.dll
+D:\Softuni Programming\Advanced\Defining classes\Special Cars\bin\Debug\net5.0\ref\Special Cars.dll
+D:\Softuni Programming\Advanced\Defining classes\Special Cars\bin\Debug\net5.0\Special Cars.pdb
+D:\Softuni Programming\Advanced\Defining classes\Special Cars\obj\Debug\net5.0\Special Cars.csproj.AssemblyReference.cache
+D:\Softuni Programming\Advanced\Defining classes\Special Cars\obj\Debug\net5.0\Special Cars.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Defining classes\Special Cars\obj\Debug\net5.0\Special Cars.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Defining classes\Special Cars\obj\Debug\net5.0\Special Cars.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Defining classes\Special Cars\obj\Debug\net5.0\Special Cars.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Defining classes\Special Cars\obj\Debug\net5.0\Special Cars.dll
+D:\Softuni Programming\Advanced\Defining classes\Special Cars\obj\Debug\net5.0\ref\Special Cars.dll
+D:\Softuni Programming\Advanced\Defining classes\Special Cars\obj\Debug\net5.0\Special Cars.pdb
+D:\Softuni Programming\Advanced\Defining classes\Special Cars\obj\Debug\net5.0\Special Cars.genruntimeconfig.cache
