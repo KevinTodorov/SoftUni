@@ -1,0 +1,16 @@
+D:\Softuni Programming\Advanced\Defining classes exercise\Pokemon Trainer\bin\Debug\net5.0\Pokemon Trainer.exe
+D:\Softuni Programming\Advanced\Defining classes exercise\Pokemon Trainer\bin\Debug\net5.0\Pokemon Trainer.deps.json
+D:\Softuni Programming\Advanced\Defining classes exercise\Pokemon Trainer\bin\Debug\net5.0\Pokemon Trainer.runtimeconfig.json
+D:\Softuni Programming\Advanced\Defining classes exercise\Pokemon Trainer\bin\Debug\net5.0\Pokemon Trainer.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Defining classes exercise\Pokemon Trainer\bin\Debug\net5.0\Pokemon Trainer.dll
+D:\Softuni Programming\Advanced\Defining classes exercise\Pokemon Trainer\bin\Debug\net5.0\ref\Pokemon Trainer.dll
+D:\Softuni Programming\Advanced\Defining classes exercise\Pokemon Trainer\bin\Debug\net5.0\Pokemon Trainer.pdb
+D:\Softuni Programming\Advanced\Defining classes exercise\Pokemon Trainer\obj\Debug\net5.0\Pokemon Trainer.csproj.AssemblyReference.cache
+D:\Softuni Programming\Advanced\Defining classes exercise\Pokemon Trainer\obj\Debug\net5.0\Pokemon Trainer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Defining classes exercise\Pokemon Trainer\obj\Debug\net5.0\Pokemon Trainer.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Defining classes exercise\Pokemon Trainer\obj\Debug\net5.0\Pokemon Trainer.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Defining classes exercise\Pokemon Trainer\obj\Debug\net5.0\Pokemon Trainer.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Defining classes exercise\Pokemon Trainer\obj\Debug\net5.0\Pokemon Trainer.dll
+D:\Softuni Programming\Advanced\Defining classes exercise\Pokemon Trainer\obj\Debug\net5.0\ref\Pokemon Trainer.dll
+D:\Softuni Programming\Advanced\Defining classes exercise\Pokemon Trainer\obj\Debug\net5.0\Pokemon Trainer.pdb
+D:\Softuni Programming\Advanced\Defining classes exercise\Pokemon Trainer\obj\Debug\net5.0\Pokemon Trainer.genruntimeconfig.cache

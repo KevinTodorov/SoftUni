@@ -1,0 +1,16 @@
+D:\Softuni Programming\Advanced\Defining classes exercise\Car Salesman\bin\Debug\net5.0\Car Salesman.exe
+D:\Softuni Programming\Advanced\Defining classes exercise\Car Salesman\bin\Debug\net5.0\Car Salesman.deps.json
+D:\Softuni Programming\Advanced\Defining classes exercise\Car Salesman\bin\Debug\net5.0\Car Salesman.runtimeconfig.json
+D:\Softuni Programming\Advanced\Defining classes exercise\Car Salesman\bin\Debug\net5.0\Car Salesman.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Defining classes exercise\Car Salesman\bin\Debug\net5.0\Car Salesman.dll
+D:\Softuni Programming\Advanced\Defining classes exercise\Car Salesman\bin\Debug\net5.0\ref\Car Salesman.dll
+D:\Softuni Programming\Advanced\Defining classes exercise\Car Salesman\bin\Debug\net5.0\Car Salesman.pdb
+D:\Softuni Programming\Advanced\Defining classes exercise\Car Salesman\obj\Debug\net5.0\Car Salesman.csproj.AssemblyReference.cache
+D:\Softuni Programming\Advanced\Defining classes exercise\Car Salesman\obj\Debug\net5.0\Car Salesman.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Defining classes exercise\Car Salesman\obj\Debug\net5.0\Car Salesman.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Defining classes exercise\Car Salesman\obj\Debug\net5.0\Car Salesman.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Defining classes exercise\Car Salesman\obj\Debug\net5.0\Car Salesman.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Defining classes exercise\Car Salesman\obj\Debug\net5.0\Car Salesman.dll
+D:\Softuni Programming\Advanced\Defining classes exercise\Car Salesman\obj\Debug\net5.0\ref\Car Salesman.dll
+D:\Softuni Programming\Advanced\Defining classes exercise\Car Salesman\obj\Debug\net5.0\Car Salesman.pdb
+D:\Softuni Programming\Advanced\Defining classes exercise\Car Salesman\obj\Debug\net5.0\Car Salesman.genruntimeconfig.cache

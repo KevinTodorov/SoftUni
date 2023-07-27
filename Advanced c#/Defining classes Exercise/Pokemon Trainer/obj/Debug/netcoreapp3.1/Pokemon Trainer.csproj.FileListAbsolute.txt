@@ -1,0 +1,14 @@
+D:\Softuni Programming\Advanced\Defining classes Exercise\Pokemon Trainer\bin\Debug\netcoreapp3.1\Pokemon Trainer.exe
+D:\Softuni Programming\Advanced\Defining classes Exercise\Pokemon Trainer\bin\Debug\netcoreapp3.1\Pokemon Trainer.deps.json
+D:\Softuni Programming\Advanced\Defining classes Exercise\Pokemon Trainer\bin\Debug\netcoreapp3.1\Pokemon Trainer.runtimeconfig.json
+D:\Softuni Programming\Advanced\Defining classes Exercise\Pokemon Trainer\bin\Debug\netcoreapp3.1\Pokemon Trainer.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Defining classes Exercise\Pokemon Trainer\bin\Debug\netcoreapp3.1\Pokemon Trainer.dll
+D:\Softuni Programming\Advanced\Defining classes Exercise\Pokemon Trainer\bin\Debug\netcoreapp3.1\Pokemon Trainer.pdb
+D:\Softuni Programming\Advanced\Defining classes Exercise\Pokemon Trainer\obj\Debug\netcoreapp3.1\Pokemon Trainer.csproj.AssemblyReference.cache
+D:\Softuni Programming\Advanced\Defining classes Exercise\Pokemon Trainer\obj\Debug\netcoreapp3.1\Pokemon Trainer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Defining classes Exercise\Pokemon Trainer\obj\Debug\netcoreapp3.1\Pokemon Trainer.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Defining classes Exercise\Pokemon Trainer\obj\Debug\netcoreapp3.1\Pokemon Trainer.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Defining classes Exercise\Pokemon Trainer\obj\Debug\netcoreapp3.1\Pokemon Trainer.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Defining classes Exercise\Pokemon Trainer\obj\Debug\netcoreapp3.1\Pokemon Trainer.dll
+D:\Softuni Programming\Advanced\Defining classes Exercise\Pokemon Trainer\obj\Debug\netcoreapp3.1\Pokemon Trainer.pdb
+D:\Softuni Programming\Advanced\Defining classes Exercise\Pokemon Trainer\obj\Debug\netcoreapp3.1\Pokemon Trainer.genruntimeconfig.cache

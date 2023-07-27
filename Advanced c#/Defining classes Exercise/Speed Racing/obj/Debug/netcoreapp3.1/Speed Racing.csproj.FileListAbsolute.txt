@@ -1,0 +1,13 @@
+D:\Softuni Programming\Advanced\Defining classes Exercise\Speed Racing\bin\Debug\netcoreapp3.1\Speed Racing.exe
+D:\Softuni Programming\Advanced\Defining classes Exercise\Speed Racing\bin\Debug\netcoreapp3.1\Speed Racing.deps.json
+D:\Softuni Programming\Advanced\Defining classes Exercise\Speed Racing\bin\Debug\netcoreapp3.1\Speed Racing.runtimeconfig.json
+D:\Softuni Programming\Advanced\Defining classes Exercise\Speed Racing\bin\Debug\netcoreapp3.1\Speed Racing.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Defining classes Exercise\Speed Racing\bin\Debug\netcoreapp3.1\Speed Racing.dll
+D:\Softuni Programming\Advanced\Defining classes Exercise\Speed Racing\bin\Debug\netcoreapp3.1\Speed Racing.pdb
+D:\Softuni Programming\Advanced\Defining classes Exercise\Speed Racing\obj\Debug\netcoreapp3.1\Speed Racing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Defining classes Exercise\Speed Racing\obj\Debug\netcoreapp3.1\Speed Racing.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Defining classes Exercise\Speed Racing\obj\Debug\netcoreapp3.1\Speed Racing.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Defining classes Exercise\Speed Racing\obj\Debug\netcoreapp3.1\Speed Racing.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Defining classes Exercise\Speed Racing\obj\Debug\netcoreapp3.1\Speed Racing.dll
+D:\Softuni Programming\Advanced\Defining classes Exercise\Speed Racing\obj\Debug\netcoreapp3.1\Speed Racing.pdb
+D:\Softuni Programming\Advanced\Defining classes Exercise\Speed Racing\obj\Debug\netcoreapp3.1\Speed Racing.genruntimeconfig.cache

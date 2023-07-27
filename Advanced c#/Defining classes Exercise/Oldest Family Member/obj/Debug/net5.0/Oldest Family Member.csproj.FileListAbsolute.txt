@@ -1,0 +1,16 @@
+D:\Softuni Programming\Advanced\Defining classes exercise\Oldest Family Member\bin\Debug\net5.0\Oldest Family Member.exe
+D:\Softuni Programming\Advanced\Defining classes exercise\Oldest Family Member\bin\Debug\net5.0\Oldest Family Member.deps.json
+D:\Softuni Programming\Advanced\Defining classes exercise\Oldest Family Member\bin\Debug\net5.0\Oldest Family Member.runtimeconfig.json
+D:\Softuni Programming\Advanced\Defining classes exercise\Oldest Family Member\bin\Debug\net5.0\Oldest Family Member.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Defining classes exercise\Oldest Family Member\bin\Debug\net5.0\Oldest Family Member.dll
+D:\Softuni Programming\Advanced\Defining classes exercise\Oldest Family Member\bin\Debug\net5.0\ref\Oldest Family Member.dll
+D:\Softuni Programming\Advanced\Defining classes exercise\Oldest Family Member\bin\Debug\net5.0\Oldest Family Member.pdb
+D:\Softuni Programming\Advanced\Defining classes exercise\Oldest Family Member\obj\Debug\net5.0\Oldest Family Member.csproj.AssemblyReference.cache
+D:\Softuni Programming\Advanced\Defining classes exercise\Oldest Family Member\obj\Debug\net5.0\Oldest Family Member.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Defining classes exercise\Oldest Family Member\obj\Debug\net5.0\Oldest Family Member.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Defining classes exercise\Oldest Family Member\obj\Debug\net5.0\Oldest Family Member.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Defining classes exercise\Oldest Family Member\obj\Debug\net5.0\Oldest Family Member.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Defining classes exercise\Oldest Family Member\obj\Debug\net5.0\Oldest Family Member.dll
+D:\Softuni Programming\Advanced\Defining classes exercise\Oldest Family Member\obj\Debug\net5.0\ref\Oldest Family Member.dll
+D:\Softuni Programming\Advanced\Defining classes exercise\Oldest Family Member\obj\Debug\net5.0\Oldest Family Member.pdb
+D:\Softuni Programming\Advanced\Defining classes exercise\Oldest Family Member\obj\Debug\net5.0\Oldest Family Member.genruntimeconfig.cache

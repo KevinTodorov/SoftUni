@@ -1,0 +1,13 @@
+D:\Softuni Programming\Advanced\Defining classes Exercise\Opinion Poll\bin\Debug\netcoreapp3.1\Opinion Poll.exe
+D:\Softuni Programming\Advanced\Defining classes Exercise\Opinion Poll\bin\Debug\netcoreapp3.1\Opinion Poll.deps.json
+D:\Softuni Programming\Advanced\Defining classes Exercise\Opinion Poll\bin\Debug\netcoreapp3.1\Opinion Poll.runtimeconfig.json
+D:\Softuni Programming\Advanced\Defining classes Exercise\Opinion Poll\bin\Debug\netcoreapp3.1\Opinion Poll.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Defining classes Exercise\Opinion Poll\bin\Debug\netcoreapp3.1\Opinion Poll.dll
+D:\Softuni Programming\Advanced\Defining classes Exercise\Opinion Poll\bin\Debug\netcoreapp3.1\Opinion Poll.pdb
+D:\Softuni Programming\Advanced\Defining classes Exercise\Opinion Poll\obj\Debug\netcoreapp3.1\Opinion Poll.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Defining classes Exercise\Opinion Poll\obj\Debug\netcoreapp3.1\Opinion Poll.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Defining classes Exercise\Opinion Poll\obj\Debug\netcoreapp3.1\Opinion Poll.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Defining classes Exercise\Opinion Poll\obj\Debug\netcoreapp3.1\Opinion Poll.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Defining classes Exercise\Opinion Poll\obj\Debug\netcoreapp3.1\Opinion Poll.dll
+D:\Softuni Programming\Advanced\Defining classes Exercise\Opinion Poll\obj\Debug\netcoreapp3.1\Opinion Poll.pdb
+D:\Softuni Programming\Advanced\Defining classes Exercise\Opinion Poll\obj\Debug\netcoreapp3.1\Opinion Poll.genruntimeconfig.cache

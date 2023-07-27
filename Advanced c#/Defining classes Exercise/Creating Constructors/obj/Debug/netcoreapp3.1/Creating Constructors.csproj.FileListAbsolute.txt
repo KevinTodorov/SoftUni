@@ -1,0 +1,14 @@
+D:\Softuni Programming\Advanced\Defining classes Exercise\Creating Constructors\bin\Debug\netcoreapp3.1\Creating Constructors.exe
+D:\Softuni Programming\Advanced\Defining classes Exercise\Creating Constructors\bin\Debug\netcoreapp3.1\Creating Constructors.deps.json
+D:\Softuni Programming\Advanced\Defining classes Exercise\Creating Constructors\bin\Debug\netcoreapp3.1\Creating Constructors.runtimeconfig.json
+D:\Softuni Programming\Advanced\Defining classes Exercise\Creating Constructors\bin\Debug\netcoreapp3.1\Creating Constructors.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Defining classes Exercise\Creating Constructors\bin\Debug\netcoreapp3.1\Creating Constructors.dll
+D:\Softuni Programming\Advanced\Defining classes Exercise\Creating Constructors\bin\Debug\netcoreapp3.1\Creating Constructors.pdb
+D:\Softuni Programming\Advanced\Defining classes Exercise\Creating Constructors\obj\Debug\netcoreapp3.1\Creating Constructors.csproj.AssemblyReference.cache
+D:\Softuni Programming\Advanced\Defining classes Exercise\Creating Constructors\obj\Debug\netcoreapp3.1\Creating Constructors.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Defining classes Exercise\Creating Constructors\obj\Debug\netcoreapp3.1\Creating Constructors.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Defining classes Exercise\Creating Constructors\obj\Debug\netcoreapp3.1\Creating Constructors.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Defining classes Exercise\Creating Constructors\obj\Debug\netcoreapp3.1\Creating Constructors.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Defining classes Exercise\Creating Constructors\obj\Debug\netcoreapp3.1\Creating Constructors.dll
+D:\Softuni Programming\Advanced\Defining classes Exercise\Creating Constructors\obj\Debug\netcoreapp3.1\Creating Constructors.pdb
+D:\Softuni Programming\Advanced\Defining classes Exercise\Creating Constructors\obj\Debug\netcoreapp3.1\Creating Constructors.genruntimeconfig.cache

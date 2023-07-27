@@ -1,0 +1,16 @@
+D:\Softuni Programming\Advanced\Defining classes exercise\Raw Data\bin\Debug\net5.0\Raw Data.exe
+D:\Softuni Programming\Advanced\Defining classes exercise\Raw Data\bin\Debug\net5.0\Raw Data.deps.json
+D:\Softuni Programming\Advanced\Defining classes exercise\Raw Data\bin\Debug\net5.0\Raw Data.runtimeconfig.json
+D:\Softuni Programming\Advanced\Defining classes exercise\Raw Data\bin\Debug\net5.0\Raw Data.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Defining classes exercise\Raw Data\bin\Debug\net5.0\Raw Data.dll
+D:\Softuni Programming\Advanced\Defining classes exercise\Raw Data\bin\Debug\net5.0\ref\Raw Data.dll
+D:\Softuni Programming\Advanced\Defining classes exercise\Raw Data\bin\Debug\net5.0\Raw Data.pdb
+D:\Softuni Programming\Advanced\Defining classes exercise\Raw Data\obj\Debug\net5.0\Raw Data.csproj.AssemblyReference.cache
+D:\Softuni Programming\Advanced\Defining classes exercise\Raw Data\obj\Debug\net5.0\Raw Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Defining classes exercise\Raw Data\obj\Debug\net5.0\Raw Data.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Defining classes exercise\Raw Data\obj\Debug\net5.0\Raw Data.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Defining classes exercise\Raw Data\obj\Debug\net5.0\Raw Data.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Defining classes exercise\Raw Data\obj\Debug\net5.0\Raw Data.dll
+D:\Softuni Programming\Advanced\Defining classes exercise\Raw Data\obj\Debug\net5.0\ref\Raw Data.dll
+D:\Softuni Programming\Advanced\Defining classes exercise\Raw Data\obj\Debug\net5.0\Raw Data.pdb
+D:\Softuni Programming\Advanced\Defining classes exercise\Raw Data\obj\Debug\net5.0\Raw Data.genruntimeconfig.cache

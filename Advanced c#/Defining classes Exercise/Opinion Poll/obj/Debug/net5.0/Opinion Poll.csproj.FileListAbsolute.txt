@@ -1,0 +1,16 @@
+D:\Softuni Programming\Advanced\Defining classes exercise\Opinion Poll\bin\Debug\net5.0\Opinion Poll.exe
+D:\Softuni Programming\Advanced\Defining classes exercise\Opinion Poll\bin\Debug\net5.0\Opinion Poll.deps.json
+D:\Softuni Programming\Advanced\Defining classes exercise\Opinion Poll\bin\Debug\net5.0\Opinion Poll.runtimeconfig.json
+D:\Softuni Programming\Advanced\Defining classes exercise\Opinion Poll\bin\Debug\net5.0\Opinion Poll.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Defining classes exercise\Opinion Poll\bin\Debug\net5.0\Opinion Poll.dll
+D:\Softuni Programming\Advanced\Defining classes exercise\Opinion Poll\bin\Debug\net5.0\ref\Opinion Poll.dll
+D:\Softuni Programming\Advanced\Defining classes exercise\Opinion Poll\bin\Debug\net5.0\Opinion Poll.pdb
+D:\Softuni Programming\Advanced\Defining classes exercise\Opinion Poll\obj\Debug\net5.0\Opinion Poll.csproj.AssemblyReference.cache
+D:\Softuni Programming\Advanced\Defining classes exercise\Opinion Poll\obj\Debug\net5.0\Opinion Poll.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Defining classes exercise\Opinion Poll\obj\Debug\net5.0\Opinion Poll.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Defining classes exercise\Opinion Poll\obj\Debug\net5.0\Opinion Poll.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Defining classes exercise\Opinion Poll\obj\Debug\net5.0\Opinion Poll.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Defining classes exercise\Opinion Poll\obj\Debug\net5.0\Opinion Poll.dll
+D:\Softuni Programming\Advanced\Defining classes exercise\Opinion Poll\obj\Debug\net5.0\ref\Opinion Poll.dll
+D:\Softuni Programming\Advanced\Defining classes exercise\Opinion Poll\obj\Debug\net5.0\Opinion Poll.pdb
+D:\Softuni Programming\Advanced\Defining classes exercise\Opinion Poll\obj\Debug\net5.0\Opinion Poll.genruntimeconfig.cache
