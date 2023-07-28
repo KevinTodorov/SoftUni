@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CustomDoublyLinkedList</name>
+    </assembly>
+    <members>
+        <member name="T:Custom_Doubly_Linked_List.DoublyLinkedList">
+            <summary>
+            Creating Class For the List Actions.
+            </summary>
+        </member>
+        <member name="P:Custom_Doubly_Linked_List.DoublyLinkedList.Head">
+            <summary>
+            Creating property for Head.
+            </summary>
+        </member>
+        <member name="P:Custom_Doubly_Linked_List.DoublyLinkedList.Tail">
+            <summary>
+            Creating property for Tail.
+            </summary>
+        </member>
+        <member name="P:Custom_Doubly_Linked_List.DoublyLinkedList.Count">
+            <summary>
+            Creating property For Count.
+            </summary>
+        </member>
+        <member name="M:Custom_Doubly_Linked_List.DoublyLinkedList.#ctor">
+            <summary>
+            Creating default constructor.
+            </summary>
+        </member>
+        <member name="M:Custom_Doubly_Linked_List.DoublyLinkedList.#ctor(System.Int32)">
+            <summary>
+            Creating constructor with one parameter in it.
+            </summary>
+            <param Value="value">This is for the Node Value</param>
+        </member>
+        <member name="M:Custom_Doubly_Linked_List.DoublyLinkedList.#ctor(System.Collections.Generic.IEnumerable{System.Int32})">
+            <summary>
+            Creating constructor with IEnumerable in it.
+            This constructor is going to put data in our nodes and create our nodes at all.
+            </summary>
+            <param Name="list">Creating new list or so called list</param>
+        </member>
+        <member name="M:Custom_Doubly_Linked_List.DoublyLinkedList.AddFirst(System.Int32)">
+            <summary>
+            This is a method to add new Head.
+            </summary>
+            <param name="element">this element is the value of the Node</param>
+        </member>
+        <member name="M:Custom_Doubly_Linked_List.DoublyLinkedList.AddLast(System.Int32)">
+            <summary>
+            Creating method to add new Tail.
+            </summary>
+            <param name="element">This element is the value of the Node</param>
+        </member>
+        <member name="M:Custom_Doubly_Linked_List.DoublyLinkedList.RemoveFirst">
+            <summary>
+            This is method to remove the Head.
+            </summary>
+            <returns>The value of the removed Head.</returns>
+        </member>
+        <member name="M:Custom_Doubly_Linked_List.DoublyLinkedList.RemoveLast">
+            <summary>
+            This method is to remove the Tail.
+            </summary>
+            <returns>The value of the Tail.</returns>
+        </member>
+        <member name="M:Custom_Doubly_Linked_List.DoublyLinkedList.ForEach(System.Action{System.Int32})">
+            <summary>
+            This method is to print every Node that we have.
+            </summary>
+            <param name="action">How we would like to print it.</param>
+        </member>
+        <member name="M:Custom_Doubly_Linked_List.DoublyLinkedList.ToArray">
+            <summary>
+            This method returns and Array with every Node value in it.
+            </summary>
+            <returns>Array</returns>
+        </member>
+        <member name="T:Custom_Doubly_Linked_List.Node">
+            <summary>
+            Creating Node class.
+            </summary>
+        </member>
+        <member name="P:Custom_Doubly_Linked_List.Node.Value">
+            <summary>
+            Creating property For Node Value.
+            </summary>
+        </member>
+        <member name="P:Custom_Doubly_Linked_List.Node.Next">
+            <summary>
+            Creating property For Node Value.
+            </summary>
+        </member>
+        <member name="P:Custom_Doubly_Linked_List.Node.Previous">
+            <summary>
+            Creating property for Node Previous.
+            </summary>
+        </member>
+    </members>
+</doc>

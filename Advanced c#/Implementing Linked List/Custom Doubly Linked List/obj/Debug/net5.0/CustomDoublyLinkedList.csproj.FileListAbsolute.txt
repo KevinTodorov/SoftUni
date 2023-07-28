@@ -1,0 +1,16 @@
+D:\Softuni Programming\Advanced\Implementing Linked List\Custom Doubly Linked List\bin\Debug\net5.0\CustomDoublyLinkedList.exe
+D:\Softuni Programming\Advanced\Implementing Linked List\Custom Doubly Linked List\bin\Debug\net5.0\CustomDoublyLinkedList.deps.json
+D:\Softuni Programming\Advanced\Implementing Linked List\Custom Doubly Linked List\bin\Debug\net5.0\CustomDoublyLinkedList.runtimeconfig.json
+D:\Softuni Programming\Advanced\Implementing Linked List\Custom Doubly Linked List\bin\Debug\net5.0\CustomDoublyLinkedList.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Implementing Linked List\Custom Doubly Linked List\bin\Debug\net5.0\CustomDoublyLinkedList.dll
+D:\Softuni Programming\Advanced\Implementing Linked List\Custom Doubly Linked List\bin\Debug\net5.0\ref\CustomDoublyLinkedList.dll
+D:\Softuni Programming\Advanced\Implementing Linked List\Custom Doubly Linked List\bin\Debug\net5.0\CustomDoublyLinkedList.pdb
+D:\Softuni Programming\Advanced\Implementing Linked List\Custom Doubly Linked List\obj\Debug\net5.0\CustomDoublyLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Implementing Linked List\Custom Doubly Linked List\obj\Debug\net5.0\CustomDoublyLinkedList.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Implementing Linked List\Custom Doubly Linked List\obj\Debug\net5.0\CustomDoublyLinkedList.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Implementing Linked List\Custom Doubly Linked List\obj\Debug\net5.0\CustomDoublyLinkedList.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Implementing Linked List\Custom Doubly Linked List\obj\Debug\net5.0\CustomDoublyLinkedList.dll
+D:\Softuni Programming\Advanced\Implementing Linked List\Custom Doubly Linked List\obj\Debug\net5.0\ref\CustomDoublyLinkedList.dll
+D:\Softuni Programming\Advanced\Implementing Linked List\Custom Doubly Linked List\obj\Debug\net5.0\CustomDoublyLinkedList.pdb
+D:\Softuni Programming\Advanced\Implementing Linked List\Custom Doubly Linked List\obj\Debug\net5.0\CustomDoublyLinkedList.genruntimeconfig.cache
+D:\Softuni Programming\Advanced\Implementing Linked List\Custom Doubly Linked List\bin\Debug\net5.0\CustomDoublyLinkedList.xml
