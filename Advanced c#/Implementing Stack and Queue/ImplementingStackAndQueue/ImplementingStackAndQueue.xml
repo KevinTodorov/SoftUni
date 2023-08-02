@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ImplementingStackAndQueue</name>
+    </assembly>
+    <members>
+        <member name="T:ImplementingStackAndQueue.MyList">
+            <summary>
+            Creating class for our list.
+            </summary>
+        </member>
+        <member name="F:ImplementingStackAndQueue.MyList.defaultCapacity">
+            <summary>
+            Creating field for our defaultCapacity.
+            </summary>
+        </member>
+        <member name="F:ImplementingStackAndQueue.MyList.data">
+            <summary>
+            Creating field for our list.
+            </summary>
+        </member>
+        <member name="P:ImplementingStackAndQueue.MyList.Count">
+            <summary>
+            Creating property for our Count.
+            </summary>
+        </member>
+        <member name="P:ImplementingStackAndQueue.MyList.Item(System.Int32)">
+            <summary>
+            Creating property for indexes.
+            </summary>
+            <param name="index">This is our given index</param>
+            <returns></returns>
+        </member>
+        <member name="M:ImplementingStackAndQueue.MyList.#ctor">
+            <summary>
+            Creating constructor for our List with defaultCapacity.
+            </summary>
+        </member>
+        <member name="M:ImplementingStackAndQueue.MyList.#ctor(System.Int32)">
+            <summary>
+            Creating second constructor for our List.
+            </summary>
+            <param name="defaultCapacity">This is our capacity if you decide to give new capacity to the list</param>
+        </member>
+        <member name="M:ImplementingStackAndQueue.MyList.Add(System.Int32)">
+            <summary>
+            This is method to add number in the end of the list.
+            </summary>
+            <param name="element">The number we want to add.</param>
+        </member>
+        <member name="M:ImplementingStackAndQueue.MyList.RemoveAt(System.Int32)">
+            <summary>
+            This is method to remove a number at specified index.
+            </summary>
+            <param name="index">The index you want to remove number at.</param>
+            <returns></returns>
+        </member>
+        <member name="M:ImplementingStackAndQueue.MyList.Contains(System.Int32)">
+            <summary>
+            This is a method to check if the list contains the given number in it.
+            </summary>
+            <param name="element">The given number.</param>
+            <returns></returns>
+        </member>
+        <member name="M:ImplementingStackAndQueue.MyList.Swap(System.Int32,System.Int32)">
+            <summary>
+            This is a method to swap two numbers in the list.
+            </summary>
+            <param name="firstIndex">The index of the first number.</param>
+            <param name="secondIndex">The index of the second number.</param>
+        </member>
+        <member name="M:ImplementingStackAndQueue.MyList.IndexValidation(System.Int32)">
+            <summary>
+            This is method to check if the given index in the method is valid or not.
+            </summary>
+            <param name="index">Given index.</param>
+            <returns></returns>
+        </member>
+        <member name="M:ImplementingStackAndQueue.MyList.Resize">
+            <summary>
+            This method is to resize the list so that we can add the number we want if our list has reached its limit.
+            </summary>
+        </member>
+        <member name="T:ImplementingStackAndQueue.StartUp">
+            <summary>
+            Our StartUp class is public.
+            </summary>
+        </member>
+    </members>
+</doc>
