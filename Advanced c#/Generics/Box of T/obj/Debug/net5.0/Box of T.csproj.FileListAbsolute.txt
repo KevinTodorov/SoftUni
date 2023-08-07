@@ -1,0 +1,16 @@
+D:\Softuni Programming\Advanced\Generics\Box of T\bin\Debug\net5.0\Box of T.exe
+D:\Softuni Programming\Advanced\Generics\Box of T\bin\Debug\net5.0\Box of T.deps.json
+D:\Softuni Programming\Advanced\Generics\Box of T\bin\Debug\net5.0\Box of T.runtimeconfig.json
+D:\Softuni Programming\Advanced\Generics\Box of T\bin\Debug\net5.0\Box of T.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Generics\Box of T\bin\Debug\net5.0\Box of T.dll
+D:\Softuni Programming\Advanced\Generics\Box of T\bin\Debug\net5.0\ref\Box of T.dll
+D:\Softuni Programming\Advanced\Generics\Box of T\bin\Debug\net5.0\Box of T.pdb
+D:\Softuni Programming\Advanced\Generics\Box of T\obj\Debug\net5.0\Box of T.csproj.AssemblyReference.cache
+D:\Softuni Programming\Advanced\Generics\Box of T\obj\Debug\net5.0\Box of T.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Generics\Box of T\obj\Debug\net5.0\Box of T.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Generics\Box of T\obj\Debug\net5.0\Box of T.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Generics\Box of T\obj\Debug\net5.0\Box of T.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Generics\Box of T\obj\Debug\net5.0\Box of T.dll
+D:\Softuni Programming\Advanced\Generics\Box of T\obj\Debug\net5.0\ref\Box of T.dll
+D:\Softuni Programming\Advanced\Generics\Box of T\obj\Debug\net5.0\Box of T.pdb
+D:\Softuni Programming\Advanced\Generics\Box of T\obj\Debug\net5.0\Box of T.genruntimeconfig.cache
