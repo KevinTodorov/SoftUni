@@ -1,0 +1,13 @@
+D:\Softuni Programming\Advanced\Generics Exercise\Generic Count Method Doubles\bin\Debug\netcoreapp3.1\Generic Count Method Doubles.exe
+D:\Softuni Programming\Advanced\Generics Exercise\Generic Count Method Doubles\bin\Debug\netcoreapp3.1\Generic Count Method Doubles.deps.json
+D:\Softuni Programming\Advanced\Generics Exercise\Generic Count Method Doubles\bin\Debug\netcoreapp3.1\Generic Count Method Doubles.runtimeconfig.json
+D:\Softuni Programming\Advanced\Generics Exercise\Generic Count Method Doubles\bin\Debug\netcoreapp3.1\Generic Count Method Doubles.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Generics Exercise\Generic Count Method Doubles\bin\Debug\netcoreapp3.1\Generic Count Method Doubles.dll
+D:\Softuni Programming\Advanced\Generics Exercise\Generic Count Method Doubles\bin\Debug\netcoreapp3.1\Generic Count Method Doubles.pdb
+D:\Softuni Programming\Advanced\Generics Exercise\Generic Count Method Doubles\obj\Debug\netcoreapp3.1\Generic Count Method Doubles.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Generics Exercise\Generic Count Method Doubles\obj\Debug\netcoreapp3.1\Generic Count Method Doubles.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Generics Exercise\Generic Count Method Doubles\obj\Debug\netcoreapp3.1\Generic Count Method Doubles.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Generics Exercise\Generic Count Method Doubles\obj\Debug\netcoreapp3.1\Generic Count Method Doubles.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Generics Exercise\Generic Count Method Doubles\obj\Debug\netcoreapp3.1\Generic Count Method Doubles.dll
+D:\Softuni Programming\Advanced\Generics Exercise\Generic Count Method Doubles\obj\Debug\netcoreapp3.1\Generic Count Method Doubles.pdb
+D:\Softuni Programming\Advanced\Generics Exercise\Generic Count Method Doubles\obj\Debug\netcoreapp3.1\Generic Count Method Doubles.genruntimeconfig.cache

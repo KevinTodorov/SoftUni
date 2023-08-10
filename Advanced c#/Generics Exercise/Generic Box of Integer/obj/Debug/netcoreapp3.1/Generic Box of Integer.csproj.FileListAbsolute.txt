@@ -1,0 +1,14 @@
+D:\Softuni Programming\Advanced\Generics Exercise\Generic Box of Integer\bin\Debug\netcoreapp3.1\Generic Box of Integer.exe
+D:\Softuni Programming\Advanced\Generics Exercise\Generic Box of Integer\bin\Debug\netcoreapp3.1\Generic Box of Integer.deps.json
+D:\Softuni Programming\Advanced\Generics Exercise\Generic Box of Integer\bin\Debug\netcoreapp3.1\Generic Box of Integer.runtimeconfig.json
+D:\Softuni Programming\Advanced\Generics Exercise\Generic Box of Integer\bin\Debug\netcoreapp3.1\Generic Box of Integer.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Generics Exercise\Generic Box of Integer\bin\Debug\netcoreapp3.1\Generic Box of Integer.dll
+D:\Softuni Programming\Advanced\Generics Exercise\Generic Box of Integer\bin\Debug\netcoreapp3.1\Generic Box of Integer.pdb
+D:\Softuni Programming\Advanced\Generics Exercise\Generic Box of Integer\obj\Debug\netcoreapp3.1\Generic Box of Integer.csproj.AssemblyReference.cache
+D:\Softuni Programming\Advanced\Generics Exercise\Generic Box of Integer\obj\Debug\netcoreapp3.1\Generic Box of Integer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Generics Exercise\Generic Box of Integer\obj\Debug\netcoreapp3.1\Generic Box of Integer.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Generics Exercise\Generic Box of Integer\obj\Debug\netcoreapp3.1\Generic Box of Integer.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Generics Exercise\Generic Box of Integer\obj\Debug\netcoreapp3.1\Generic Box of Integer.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Generics Exercise\Generic Box of Integer\obj\Debug\netcoreapp3.1\Generic Box of Integer.dll
+D:\Softuni Programming\Advanced\Generics Exercise\Generic Box of Integer\obj\Debug\netcoreapp3.1\Generic Box of Integer.pdb
+D:\Softuni Programming\Advanced\Generics Exercise\Generic Box of Integer\obj\Debug\netcoreapp3.1\Generic Box of Integer.genruntimeconfig.cache

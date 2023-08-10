@@ -1,0 +1,14 @@
+D:\Softuni Programming\Advanced\Generics Exercise\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.exe
+D:\Softuni Programming\Advanced\Generics Exercise\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.deps.json
+D:\Softuni Programming\Advanced\Generics Exercise\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.runtimeconfig.json
+D:\Softuni Programming\Advanced\Generics Exercise\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.runtimeconfig.dev.json
+D:\Softuni Programming\Advanced\Generics Exercise\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.dll
+D:\Softuni Programming\Advanced\Generics Exercise\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.pdb
+D:\Softuni Programming\Advanced\Generics Exercise\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.csproj.AssemblyReference.cache
+D:\Softuni Programming\Advanced\Generics Exercise\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni Programming\Advanced\Generics Exercise\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.AssemblyInfoInputs.cache
+D:\Softuni Programming\Advanced\Generics Exercise\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.AssemblyInfo.cs
+D:\Softuni Programming\Advanced\Generics Exercise\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.csproj.CoreCompileInputs.cache
+D:\Softuni Programming\Advanced\Generics Exercise\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.dll
+D:\Softuni Programming\Advanced\Generics Exercise\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.pdb
+D:\Softuni Programming\Advanced\Generics Exercise\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.genruntimeconfig.cache
